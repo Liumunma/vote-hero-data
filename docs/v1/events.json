@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T13:03:56+08:00",
+ "updatedAt": "2026-10-30T20:03:30+08:00",
  "events": [
   {
    "id": "2026-10-30-taitung-1",
@@ -23,6 +23,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202610300063.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-30-taichung-1",
+   "date": "2026-10-30",
+   "raceId": "taichung",
+   "title": "何欣純成立宗教後援會道教總會",
+   "summary": "何欣純出席宗教後援會道教總會成立暨授證大會，表示若當選將支持宮廟活動、推動國際交流，並結合觀光與周邊商圈。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9847573"
     }
    ]
   },
@@ -69,6 +90,60 @@
     {
      "name": "聯合報",
      "url": "https://udn.com/news/story/124652/9846893"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-30-hsinchu-county-1",
+   "date": "2026-10-30",
+   "raceId": "hsinchu-county",
+   "title": "徐欣瑩AI夢想基地亮相 鄭朝方談施政成果",
+   "summary": "徐欣瑩的競選總部AI夢想基地正式亮相，設有政策交流區與親子共學空間；鄭朝方則說明擔任竹北市長期間推動傳統市場改造、增設匹克球場地等成果。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-county-1",
+     "delta": null
+    },
+    {
+     "candidateId": "hsinchu-county-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202610300181.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-30-hsinchu-city-1",
+   "date": "2026-10-30",
+   "raceId": "hsinchu-city",
+   "title": "竹市三位參選人各提交通政見",
+   "summary": "高虹安表示將續推既有建設並規劃輕軌整合研究；莊競程提出捷運4年內動工與公車共營；何志勇主張台鐵新竹市區段高架化，目標4年內動工。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-city-1",
+     "delta": null
+    },
+    {
+     "candidateId": "hsinchu-city-2",
+     "delta": null
+    },
+    {
+     "candidateId": "hsinchu-city-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202610300195.aspx"
     }
    ]
   },
