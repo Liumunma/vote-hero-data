@@ -14,7 +14,7 @@ import sys
 from urllib.parse import urlparse
 
 import factcheck
-from common import INBOX, STATE, OUT, CATEGORIES, POLLS_CLOSE, POLL_LIKE, load, save, now_tw, iso, days_between
+from common import INBOX, STATE, OUT, CATEGORIES, POLLS_CLOSE, unsafe_reason, load, save, now_tw, iso, days_between
 
 MAX_TITLE = 22
 MAX_SUMMARY = 120
@@ -60,10 +60,9 @@ def check_event(ev, races, allowed, today):
         return "摘要空白或超過 %d 字" % MAX_SUMMARY
     if ev.get("category") not in CATEGORIES:
         return "未知的分類"
-    if ev.get("category") == "poll":
-        return "不收民調類事件（選罷法 §53）"
-    if POLL_LIKE.search(title + summary):
-        return "含民調或支持度數字（選罷法 §53）"
+    unsafe = unsafe_reason(ev)
+    if unsafe:
+        return unsafe
     impact = ev.get("impact")
     if not isinstance(impact, int) or not 1 <= impact <= 5:
         return "impact 必須是 1~5 的整數"

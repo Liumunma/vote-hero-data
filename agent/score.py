@@ -10,7 +10,7 @@ sentiment.json／forecast.json 為了舊版 App 相容仍會產生，但內容�
 import os
 
 from common import (OUT, STATE, BLACKOUT_START, POLLS_CLOSE, ELECTION_DAY, RESULTS_LIVE_URL, load, save, now_tw, iso,
-                    mode_for, poll_interval_for, sha1_of)
+                    mode_for, poll_interval_for, sha1_of, unsafe_reason, election_day_hidden)
 
 
 def event_status(ev):
@@ -30,7 +30,9 @@ def main():
     save(os.path.join(OUT, "sentiment.json"), {"updatedAt": stamp, "sealed": True, "races": {}})
     save(os.path.join(OUT, "forecast.json"), {"updatedAt": stamp, "sealed": True, "races": {}})
 
-    recent = sorted(events, key=lambda e: (e["date"], e["id"]), reverse=True)[:120]
+    # 保守規則：不安全的戰報不發布；投票日 16:00 前整個戰報清空
+    safe = [] if election_day_hidden(now) else [e for e in events if not unsafe_reason(e)]
+    recent = sorted(safe, key=lambda e: (e["date"], e["id"]), reverse=True)[:120]
     out_events = []
     for ev in recent:
         out_events.append({

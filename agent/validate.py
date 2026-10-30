@@ -6,7 +6,7 @@ import os
 import sys
 from datetime import datetime
 
-from common import OUT, PARTIES, CATEGORIES, POLL_LIKE, load, is_sealed, now_tw, sha1_of
+from common import OUT, PARTIES, CATEGORIES, unsafe_reason, election_day_hidden, load, is_sealed, now_tw, sha1_of
 
 errors = []
 
@@ -73,6 +73,8 @@ def main():
         err("forecast 必須是空的（不發布勝率、預估得票）")
 
     today = now.strftime("%Y-%m-%d")
+    if election_day_hidden(now) and docs["events"]["events"]:
+        err("投票日 16:00 前不得發布任何戰報")
     for ev in docs["events"]["events"]:
         if ev["raceId"] not in race_ids:
             err("事件 %s 選區錯誤" % ev["id"])
@@ -87,8 +89,9 @@ def main():
                 err("事件 %s 影響對象不在選區" % ev["id"])
             if imp.get("delta") is not None:
                 err("事件 %s 不得有加減分" % ev["id"])
-        if ev["category"] == "poll" or POLL_LIKE.search(ev["title"] + ev["summary"]):
-            err("事件 %s 含民調或支持度數字" % ev["id"])
+        unsafe = unsafe_reason(ev)
+        if unsafe:
+            err("事件 %s %s" % (ev["id"], unsafe))
 
     for rid, r in docs["results"].get("races", {}).items():
         for cid in r.get("votes", {}):
