@@ -1,0 +1,572 @@
+{
+ "updatedAt": "2026-10-29T23:18:02+08:00",
+ "events": [
+  {
+   "id": "2026-10-29-taipei-4",
+   "date": "2026-10-29",
+   "raceId": "taipei",
+   "title": "民進黨北市黨部成立律師團 防深偽",
+   "summary": "民進黨台北市黨部成立律師團，針對抹黑及AI深偽影音等選戰狀況提供法律諮詢，並呼籲民眾先查證來源、勿急於轉傳。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202610290249.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-taipei-3",
+   "date": "2026-10-29",
+   "raceId": "taipei",
+   "title": "沈伯洋公布31日車掃 設寧靜區",
+   "summary": "沈伯洋表示10月31日將在台北市舉行「台北大洋流」車掃，路線新增寧靜區，車隊速度放慢以便與民眾互動。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202610290211.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-taipei-2",
+   "date": "2026-10-29",
+   "raceId": "taipei",
+   "title": "網傳仿電影海報文宣 蔣萬安競辦報案",
+   "summary": "網路流傳以蔣萬安為主角、列出對手與議員候選人的仿電影海報，標有「台北市新聞局」字樣。蔣萬安競辦表示非團隊製作並報案，台北地檢署列他字案偵辦，發文帳號已關閉。",
+   "category": "other",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623181"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-taipei-1",
+   "date": "2026-10-29",
+   "raceId": "taipei",
+   "title": "蔣陣營互動網頁遭質疑仿沈伯洋",
+   "summary": "蔣萬安陣營28日推出互動網頁，被質疑仿照沈伯洋的「HEART政策島」。蔣競總葛如鈞否認抄襲，稱製作開源公開；沈伯洋表示視為致敬，市民可比較。",
+   "category": "scandal",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    },
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9844269"
+    },
+    {
+     "name": "TVBS",
+     "url": "https://news.tvbs.com.tw/politics/4042821"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-new-taipei-1",
+   "date": "2026-10-29",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧與李四川就負面選戰交鋒",
+   "summary": "李四川提到曾向支持者表示「如果我輸了，國家就沒了」，並批評蘇巧慧選前選後不同；蘇巧慧29日回應將維持正面路線，不因對手負面選戰改變，並宣布選前之夜地點。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中時新聞網",
+     "url": "https://www.chinatimes.com/realtimenews/20261029001181-260407"
+    },
+    {
+     "name": "新頭殼",
+     "url": "https://newtalk.tw/news/view/2026-10-29/1068037"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-kaohsiung-2",
+   "date": "2026-10-29",
+   "raceId": "kaohsiung",
+   "title": "高雄首場電視辯論將於週五登場",
+   "summary": "高雄市長選舉電視辯論訂10月30日晚間舉行，形式含申論、媒體提問與交叉詰問。柯志恩表示將組專家小組演練，賴瑞隆表示要說清楚過去成績與未來規劃。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-3",
+     "delta": null
+    },
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/833517"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-kaohsiung-1",
+   "date": "2026-10-29",
+   "raceId": "kaohsiung",
+   "title": "國民黨團質疑賴瑞隆政治獻金 賴方回應",
+   "summary": "國民黨立委王鴻薇、市議員柳采葳召開記者會，就賴瑞隆收受企業負責人政治獻金及基金會捐助人提出質疑。賴瑞隆表示獻金均依法申報，如有疑義應交由司法處理。",
+   "category": "scandal",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202610290212.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-hsinchu-county-1",
+   "date": "2026-10-29",
+   "raceId": "hsinchu-county",
+   "title": "鄭朝方陣營檢舉不明民調圖卡",
+   "summary": "鄭朝方競辦29日向選委會檢舉，指徐欣瑩競辦秘書在LINE群組散布未標示調查單位的民調圖卡，並將提告；徐欣瑩辦公室稱指控未釐清、屬惡意操作。選委會將依法處理。",
+   "category": "scandal",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-county-1",
+     "delta": null
+    },
+    {
+     "candidateId": "hsinchu-county-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202610290194.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-hsinchu-city-1",
+   "date": "2026-10-29",
+   "raceId": "hsinchu-city",
+   "title": "莊競程指關新路工地防護不足 市府回應",
+   "summary": "莊競程表示關新路人行道工程有裸露鋼筋、警示不足，行人遭絆倒受傷。市府養工處回應已要求廠商盤點安全並補強圍設與警示。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-city-1",
+     "delta": null
+    },
+    {
+     "candidateId": "hsinchu-city-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623215"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-chiayi-city-1",
+   "date": "2026-10-29",
+   "raceId": "chiayi-city",
+   "title": "張啓楷籲理性看民調 王美惠串聯洋流",
+   "summary": "王美惠在臉書分享與沈伯洋合照並發送「洋流」緞帶；張啓楷呼籲選民理性看待台北民調、提防沉默螺旋，並再次邀王美惠辯論。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-city-3",
+     "delta": null
+    },
+    {
+     "candidateId": "chiayi-city-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9843783"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-changhua-1",
+   "date": "2026-10-29",
+   "raceId": "changhua",
+   "title": "彰化未具名布條 陳素月陣營提告",
+   "summary": "彰化街頭出現未具名布條，內容指陳素月不支持65歲以上全額健保費。陳素月競辦表示內容不實並提出告訴；國民黨縣黨部主委蕭景田說明布條為其出資，廠商漏印名字。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "changhua-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202610290214.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-taoyuan-1",
+   "date": "2026-10-28",
+   "raceId": "taoyuan",
+   "title": "黃世杰提馬祖聯絡處 張善政談大溪交通",
+   "summary": "黃世杰28日赴馬祖，提出設桃園駐馬祖聯絡處、由市長主持交流專案；張善政在大溪成立後援會，提出號誌智慧化、第三座橋與捷運綠線延伸的分階段交通方案。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taoyuan-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taoyuan-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9843425"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-taipei-1",
+   "date": "2026-10-28",
+   "raceId": "taipei",
+   "title": "蔣萬安身體不適 取消隔日預排行程",
+   "summary": "蔣萬安28日晚間在士林天母三玉宮拜票後身體不適，競辦宣布取消29日所有預排行程，以休養並準備31日電視辯論，29日由妻子石舫亘代為掃街。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202610280338.aspx"
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5622009"
+    },
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/833431"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-tainan-1",
+   "date": "2026-10-28",
+   "raceId": "tainan",
+   "title": "謝龍介提婚育宅 陳亭妃質疑可行性",
+   "summary": "謝龍介提出「你生孩子我供房子」，以每坪15萬元成本價依子女數申購婚育宅；陳亭妃質疑其財源與預算法限制，主張福利比照其他五都並完善托育。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "tainan-2",
+     "delta": null
+    },
+    {
+     "candidateId": "tainan-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "三立新聞",
+     "url": "https://setn.com/news/1928854"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-new-taipei-1",
+   "date": "2026-10-28",
+   "raceId": "new-taipei",
+   "title": "蔡英文侯友宜分別陪同掃街拜廟",
+   "summary": "28日蔡英文陪蘇巧慧參拜蘆洲湧蓮寺等廟宇，稱盼她成為新北首位女市長；侯友宜陪李四川在板橋首度街頭拜票，李四川同日提出長照支持方案。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9843435"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-keelung-1",
+   "date": "2026-10-28",
+   "raceId": "keelung",
+   "title": "童子瑋謝國樑敲定11月10日辯論",
+   "summary": "基隆市長候選人童子瑋與謝國樑經主持人協調，敲定11月10日中午舉行網路直播辯論。雙方先前對11月4日場次是否說定各有說法。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "keelung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "keelung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "NOWnews",
+     "url": "https://www.nownews.com/news/6887126"
+    },
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9843431"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-kaohsiung-1",
+   "date": "2026-10-28",
+   "raceId": "kaohsiung",
+   "title": "高雄首辯前 柯志恩質疑賴瑞隆迴避",
+   "summary": "高雄市長首場電視辯論訂30日晚間舉行。柯志恩稱賴瑞隆先前不願同台、接受辯論是被迫，並調侃其造勢造型；報導未見賴瑞隆回應。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-3",
+     "delta": null
+    },
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9843181"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-changhua-1",
+   "date": "2026-10-28",
+   "raceId": "changhua",
+   "title": "陳素月缺席健保表決 遭魏平政質疑",
+   "summary": "魏平政在和美造勢質疑陳素月未出席長者免繳健保費法案表決；陳素月回應該案未經委員會審查即逕付二讀，違反民主程序，當選後將在財政可負擔範圍推動。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "changhua-1",
+     "delta": null
+    },
+    {
+     "candidateId": "changhua-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9843052"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-27-taipei-1",
+   "date": "2026-10-27",
+   "raceId": "taipei",
+   "title": "沈伯洋發表五冊政策白皮書",
+   "summary": "沈伯洋發表「洋流誌」五本政策白皮書，涵蓋市政與城市外交、交通、育兒、都更、勞動經濟，並與創作者合作呈現；蔣萬安則表示將掃街並寄送市政成果文宣。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/833196"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-27-tainan-1",
+   "date": "2026-10-27",
+   "raceId": "tainan",
+   "title": "謝龍介再邀辯論 陳亭妃推AI政見影片",
+   "summary": "台南市長號次抽出後，謝龍介由競辦代抽2號，並在永康車掃時再度邀對手公開辯論；陳亭妃抽中3號，推出AI政見影片與政見網站。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "tainan-2",
+     "delta": null
+    },
+    {
+     "candidateId": "tainan-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/Tainan/paper/1776261"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-27-new-taipei-1",
+   "date": "2026-10-27",
+   "raceId": "new-taipei",
+   "title": "AI產業廊帶政見 蘇李兩陣營交鋒",
+   "summary": "蘇巧慧提出串聯北投士林、內湖、南港園區的AI產業廊帶並結合淡海科學城；李四川陣營稱淡海科學城為其先提出，批對方缺交通與產業配套，蘇巧慧回應兩者路線不同。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9838330"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-27-chiayi-city-1",
+   "date": "2026-10-27",
+   "raceId": "chiayi-city",
+   "title": "張啓楷抽籤現場邀辯 王美惠稱尊重",
+   "summary": "嘉義市長號次抽籤，張啓楷抽中3號、王美惠4號。張啓楷在抽籤前後當面邀王美惠辯論，王美惠未正面回應，僅表示尊重；場外兩方支持者由警方隔開。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-city-3",
+     "delta": null
+    },
+    {
+     "candidateId": "chiayi-city-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9839295"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-26-taichung-1",
+   "date": "2026-10-26",
+   "raceId": "taichung",
+   "title": "何欣純提青年局 江啟臣推校園安全",
+   "summary": "何欣純在大里青年座談提出設青年局等七項青年政策；江啟臣在大肚政見會提出每年至少10億元改善老舊校舍與校園安全，並提帶狀疱疹疫苗補助與敬老卡點數年度結算。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202610260237.aspx"
+    }
+   ]
+  }
+ ]
+}

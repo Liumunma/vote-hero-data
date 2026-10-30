@@ -1,0 +1,33 @@
+{
+  "note": "允許的新聞來源。每家媒體權重相同，藍綠媒體都要收，維持平衡。不在清單中的網域一律不採用。投票勇者不蒐集民調。",
+  "allowed": {
+    "cna.com.tw": "中央社",
+    "pts.org.tw": "公視",
+    "udn.com": "聯合報",
+    "ltn.com.tw": "自由時報",
+    "chinatimes.com": "中時新聞網",
+    "ettoday.net": "ETtoday",
+    "storm.mg": "風傳媒",
+    "setn.com": "三立新聞",
+    "tvbs.com.tw": "TVBS",
+    "ftvnews.com.tw": "民視",
+    "cts.com.tw": "華視",
+    "ttv.com.tw": "台視",
+    "ctv.com.tw": "中視",
+    "nownews.com": "NOWnews",
+    "mirrormedia.mg": "鏡週刊",
+    "twreporter.org": "報導者",
+    "thenewslens.com": "關鍵評論網",
+    "upmedia.mg": "上報",
+    "newtalk.tw": "新頭殼",
+    "cw.com.tw": "天下雜誌",
+    "gvm.com.tw": "遠見",
+    "businesstoday.com.tw": "今周刊",
+    "rti.org.tw": "中央廣播電臺",
+    "taipeitimes.com": "Taipei Times",
+    "focustaiwan.tw": "Focus Taiwan",
+    "news.yahoo.com": "Yahoo新聞",
+    "tw.news.yahoo.com": "Yahoo新聞",
+    "cec.gov.tw": "中選會"
+  }
+}

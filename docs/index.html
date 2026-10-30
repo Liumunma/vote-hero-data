@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>投票勇者 Vote Hero TW</title>
+<meta name="description" content="用遊戲的方式看 2026 九合一縣市長選舉。資料來源、法規遵循與隱私權政策。">
+<style>
+  :root { --ink:#2D2140; --soft:#6B5E85; --cream:#FFF6E5; --sky:#BDE7FF; --pink:#FF6FAE; --gold:#FFC93C; --panel:#fff; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:linear-gradient(var(--sky), var(--cream) 320px); color:var(--ink);
+         font: 16px/1.75 -apple-system, "PingFang TC", "Noto Sans TC", system-ui, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 40px; margin: 0; color: var(--gold); letter-spacing: 2px;
+       text-shadow: 3px 0 var(--ink), -3px 0 var(--ink), 0 3px var(--ink), 0 -3px var(--ink), 3px 3px var(--ink), 0 6px var(--ink); }
+  .sub { color: var(--soft); font-weight: 700; margin: 8px 0 28px; }
+  section { background: var(--panel); border: 4px solid var(--ink); box-shadow: 0 6px 0 rgba(45,33,64,.2);
+            padding: 18px 20px; margin: 0 0 22px; }
+  h2 { font-size: 20px; margin: 0 0 8px; }
+  h2::before { content: "■ "; color: var(--pink); }
+  ul { padding-left: 1.2em; margin: 0; }
+  code { background: #F6E2BC; padding: 1px 6px; }
+  a { color: #3D6BD8; font-weight: 700; }
+  footer { color: var(--soft); font-size: 13px; text-align: center; }
+</style>
+</head>
+<body>
+<main>
+  <h1>投票勇者</h1>
+  <p class="sub">2026 九合一・22 縣市長大冒險｜可愛像素風選情 App</p>
+
+  <section>
+    <h2>這是什麼</h2>
+    <p>投票勇者把選舉做成一張像素 RPG 地圖：每個縣市是一個關卡，候選人是 Q 版角色，新聞變成事件卡，開票夜變成街機格鬥。投票勇者不做民調、不做預測，只整理公開新聞並在開票夜轉載中選會數字。</p>
+  </section>
+
+  <section>
+    <h2>資料從哪來</h2>
+    <ul>
+      <li>AI 情報員每天 08:00、13:00、20:00 只從白名單新聞媒體蒐集選戰新聞，用自己的話整理成事件卡，並附原始連結；內容請以原文為準。</li>
+      <li><b>投票勇者不做民調、不做選情預測</b>，任何時候都不顯示支持度、勝率、好感度或聲量，也不引用民調數字（遵守《公職人員選舉罷免法》第 53 條）。</li>
+      <li>投票日 11/28 投票截止（16:00）前不發布新戰報。</li>
+      <li>開票夜數字來自中央選舉委員會，以中選會公告為準。</li>
+      <li>「預言」小遊戲只存在你自己的手機，不上傳、不統計，也沒有任何獎品或金錢。</li>
+    </ul>
+  </section>
+
+  <section id="privacy">
+    <h2>隱私權政策</h2>
+    <ul>
+      <li>投票勇者不需要註冊或登入，我們自己<b>不收集、不上傳任何個人資料</b>。</li>
+      <li><b>廣告：</b>App 使用 Google AdMob 顯示橫幅與插頁廣告。App 不要求「追蹤」權限，不讀取廣告識別碼（IDFA）；Google 可能收集裝置資訊、大致位置（由 IP 推估）與廣告互動資料，用於投放、衡量廣告與防止詐騙，詳見 <a href="https://policies.google.com/technologies/partner-sites?hl=zh-TW">Google 如何使用合作夥伴網站或應用程式的資料</a>。歐盟等地區會先徵求你的同意，App 的「說明」頁可隨時更改。</li>
+      <li>開票夜（投票日 16:00 起）不放全螢幕插頁廣告。</li>
+      <li>你的預言只存在你自己的手機裡，刪除 App 即一併刪除。</li>
+      <li>選情資料只從本網站下載（公開的 JSON 檔），下載時不會附帶任何可識別你的資訊。</li>
+      <li>點選新聞來源連結時，會開啟該媒體的網站，該網站的隱私規範由其自行負責。</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>中立原則</h2>
+    <ul>
+      <li>候選人一律依號次排列；所有角色同一種畫風，外觀純屬裝飾。</li>
+      <li>不使用政黨標誌或真人照片；陣營只以顏色區分。</li>
+      <li>本 App 與任何政黨、候選人、中選會皆無關聯。</li>
+      <li>廣告由 Google 自動投放，內容與本 App 的立場無關；我們在廣告後台封鎖政治類廣告。</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>聯絡</h2>
+    <p>錯誤回報或更正請求：請在 <a href="https://github.com/Liumunma/vote-hero-data/issues">GitHub Issues</a> 留言。</p>
+  </section>
+
+  <footer>© 2026 投票勇者 Vote Hero TW</footer>
+</main>
+</body>
+</html>

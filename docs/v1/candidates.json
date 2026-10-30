@@ -1,0 +1,1509 @@
+{
+ "updatedAt": "2026-10-29T20:00:00+08:00",
+ "races": [
+  {
+   "id": "taipei",
+   "name": "臺北市",
+   "short": "北市",
+   "kind": "municipality",
+   "tile": {
+    "x": 4,
+    "y": 1
+   },
+   "hot": 3,
+   "candidates": [
+    {
+     "id": "taipei-1",
+     "number": 1,
+     "name": "郭璽",
+     "party": "OTHER",
+     "partyName": "台灣麻將最大黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "taipei-2",
+     "number": 2,
+     "name": "林志成",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "taipei-3",
+     "number": 3,
+     "name": "沈伯洋",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 0,
+      "glasses": true,
+      "acc": 0
+     }
+    },
+    {
+     "id": "taipei-4",
+     "number": 4,
+     "name": "蕭文乾",
+     "party": "OTHER",
+     "partyName": "臺灣SoR無法黨",
+     "incumbent": false,
+     "note": "黨名寫法『台灣/臺灣SoR無法黨』各來源不一",
+     "look": {
+      "hair": 0,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "taipei-5",
+     "number": 5,
+     "name": "蔣萬安",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": true,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 0
+     }
+    },
+    {
+     "id": "taipei-6",
+     "number": 6,
+     "name": "唐新民",
+     "party": "OTHER",
+     "partyName": "三勢團結促進聯盟",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "new-taipei",
+   "name": "新北市",
+   "short": "新北",
+   "kind": "municipality",
+   "tile": {
+    "x": 5,
+    "y": 1
+   },
+   "hot": 3,
+   "candidates": [
+    {
+     "id": "new-taipei-1",
+     "number": 1,
+     "name": "蘇巧慧",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 0
+     }
+    },
+    {
+     "id": "new-taipei-2",
+     "number": 2,
+     "name": "蘇輝湟",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 0
+     }
+    },
+    {
+     "id": "new-taipei-3",
+     "number": 3,
+     "name": "李四川",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": "藍白合：2026-04-28 藍白民調勝黃國昌，藍白共推",
+     "look": {
+      "hair": 4,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "taoyuan",
+   "name": "桃園市",
+   "short": "桃園",
+   "kind": "municipality",
+   "tile": {
+    "x": 3,
+    "y": 1
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "taoyuan-1",
+     "number": 1,
+     "name": "黃世杰",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 1
+     }
+    },
+    {
+     "id": "taoyuan-2",
+     "number": 2,
+     "name": "張善政",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": true,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 3,
+      "glasses": true,
+      "acc": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "taichung",
+   "name": "臺中市",
+   "short": "台中",
+   "kind": "municipality",
+   "tile": {
+    "x": 3,
+    "y": 3
+   },
+   "hot": 3,
+   "candidates": [
+    {
+     "id": "taichung-1",
+     "number": 1,
+     "name": "何欣純",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "taichung-2",
+     "number": 2,
+     "name": "洪麗華",
+     "party": "OTHER",
+     "partyName": "司法正義黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 1
+     }
+    },
+    {
+     "id": "taichung-3",
+     "number": 3,
+     "name": "江啟臣",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "tainan",
+   "name": "臺南市",
+   "short": "台南",
+   "kind": "municipality",
+   "tile": {
+    "x": 2,
+    "y": 7
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "tainan-1",
+     "number": 1,
+     "name": "蕭燐洪",
+     "party": "OTHER",
+     "partyName": "臺灣SoR無法黨",
+     "incumbent": false,
+     "note": "NOWnews 標為無黨籍；中央社登記名單、遠見、東森標為台灣SoR無法黨",
+     "look": {
+      "hair": 0,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "tainan-2",
+     "number": 2,
+     "name": "謝龍介",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 0,
+      "glasses": true,
+      "acc": 1
+     }
+    },
+    {
+     "id": "tainan-3",
+     "number": 3,
+     "name": "陳亭妃",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "tainan-4",
+     "number": 4,
+     "name": "葉人文",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "kaohsiung",
+   "name": "高雄市",
+   "short": "高雄",
+   "kind": "municipality",
+   "tile": {
+    "x": 3,
+    "y": 6,
+    "h": 2
+   },
+   "hot": 3,
+   "candidates": [
+    {
+     "id": "kaohsiung-1",
+     "number": 1,
+     "name": "張靜",
+     "party": "OTHER",
+     "partyName": "司法改革黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 0,
+      "glasses": true,
+      "acc": 1
+     }
+    },
+    {
+     "id": "kaohsiung-2",
+     "number": 2,
+     "name": "王肇民",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "kaohsiung-3",
+     "number": 3,
+     "name": "柯志恩",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "kaohsiung-4",
+     "number": 4,
+     "name": "洪方隆",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 3,
+      "glasses": true,
+      "acc": 1
+     }
+    },
+    {
+     "id": "kaohsiung-5",
+     "number": 5,
+     "name": "賴瑞隆",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "keelung",
+   "name": "基隆市",
+   "short": "基隆",
+   "kind": "county",
+   "tile": {
+    "x": 5,
+    "y": 0
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "keelung-1",
+     "number": 1,
+     "name": "童子瑋",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "keelung-2",
+     "number": 2,
+     "name": "魏造文",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 3,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "keelung-3",
+     "number": 3,
+     "name": "謝國樑",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": true,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "hsinchu-city",
+   "name": "新竹市",
+   "short": "竹市",
+   "kind": "county",
+   "tile": {
+    "x": 2,
+    "y": 2
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "hsinchu-city-1",
+     "number": 1,
+     "name": "高虹安",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": true,
+     "note": "現任；2022 以民眾黨當選後退黨；國民黨中央定調藍白合支持其連任",
+     "look": {
+      "hair": 1,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "hsinchu-city-2",
+     "number": 2,
+     "name": "何志勇",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": "國民黨籍出身，未獲黨報准仍登記，面臨黨紀",
+     "look": {
+      "hair": 4,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "hsinchu-city-3",
+     "number": 3,
+     "name": "莊競程",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "hsinchu-county",
+   "name": "新竹縣",
+   "short": "竹縣",
+   "kind": "county",
+   "tile": {
+    "x": 3,
+    "y": 2
+   },
+   "hot": 3,
+   "candidates": [
+    {
+     "id": "hsinchu-county-1",
+     "number": 1,
+     "name": "鄭朝方",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": "現任竹北市長",
+     "look": {
+      "hair": 2,
+      "hairColor": 3,
+      "glasses": true,
+      "acc": 0
+     }
+    },
+    {
+     "id": "hsinchu-county-2",
+     "number": 2,
+     "name": "徐欣瑩",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 0
+     }
+    },
+    {
+     "id": "hsinchu-county-3",
+     "number": 3,
+     "name": "朱定瑀",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "miaoli",
+   "name": "苗栗縣",
+   "short": "苗栗",
+   "kind": "county",
+   "tile": {
+    "x": 2,
+    "y": 3
+   },
+   "hot": 1,
+   "candidates": [
+    {
+     "id": "miaoli-1",
+     "number": 1,
+     "name": "陳品安",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "miaoli-2",
+     "number": 2,
+     "name": "鍾東錦",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": true,
+     "note": "2022 以無黨籍當選，後回歸國民黨",
+     "look": {
+      "hair": 1,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "changhua",
+   "name": "彰化縣",
+   "short": "彰化",
+   "kind": "county",
+   "tile": {
+    "x": 2,
+    "y": 4
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "changhua-1",
+     "number": 1,
+     "name": "陳素月",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "changhua-2",
+     "number": 2,
+     "name": "魏平政",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "changhua-3",
+     "number": 3,
+     "name": "邱建富",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 1
+     }
+    },
+    {
+     "id": "changhua-4",
+     "number": 4,
+     "name": "陳重嘉",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "nantou",
+   "name": "南投縣",
+   "short": "南投",
+   "kind": "county",
+   "tile": {
+    "x": 3,
+    "y": 4
+   },
+   "hot": 1,
+   "candidates": [
+    {
+     "id": "nantou-1",
+     "number": 1,
+     "name": "許淑華",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": true,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "nantou-2",
+     "number": 2,
+     "name": "温世政",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "yunlin",
+   "name": "雲林縣",
+   "short": "雲林",
+   "kind": "county",
+   "tile": {
+    "x": 2,
+    "y": 5
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "yunlin-1",
+     "number": 1,
+     "name": "吳炳輝",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "yunlin-2",
+     "number": 2,
+     "name": "張嘉郡",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "yunlin-3",
+     "number": 3,
+     "name": "劉建國",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 1
+     }
+    },
+    {
+     "id": "yunlin-4",
+     "number": 4,
+     "name": "林佳瑜",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "chiayi-county",
+   "name": "嘉義縣",
+   "short": "嘉縣",
+   "kind": "county",
+   "tile": {
+    "x": 2,
+    "y": 6
+   },
+   "hot": 1,
+   "candidates": [
+    {
+     "id": "chiayi-county-1",
+     "number": 1,
+     "name": "吳品叡",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": "國民黨不提名，以『在野大聯盟』支持無黨籍朴子市長吳品叡",
+     "look": {
+      "hair": 3,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 1
+     }
+    },
+    {
+     "id": "chiayi-county-2",
+     "number": 2,
+     "name": "蔡易餘",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "chiayi-city",
+   "name": "嘉義市",
+   "short": "嘉市",
+   "kind": "county",
+   "tile": {
+    "x": 3,
+    "y": 5
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "chiayi-city-1",
+     "number": 1,
+     "name": "王義成",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 1
+     }
+    },
+    {
+     "id": "chiayi-city-2",
+     "number": 2,
+     "name": "陳愷璜",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "chiayi-city-3",
+     "number": 3,
+     "name": "張啓楷",
+     "party": "TPP",
+     "partyName": "台灣民眾黨",
+     "incumbent": false,
+     "note": "藍白合：2026-04 藍白民調勝出，國民黨支持",
+     "look": {
+      "hair": 4,
+      "hairColor": 0,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "chiayi-city-4",
+     "number": 4,
+     "name": "王美惠",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "chiayi-city-5",
+     "number": 5,
+     "name": "黃宏成台灣阿成世界偉人財神總統",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": "登記全名；常簡稱黃宏成",
+     "look": {
+      "hair": 4,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "pingtung",
+   "name": "屏東縣",
+   "short": "屏東",
+   "kind": "county",
+   "tile": {
+    "x": 3,
+    "y": 8
+   },
+   "hot": 1,
+   "candidates": [
+    {
+     "id": "pingtung-1",
+     "number": 1,
+     "name": "蘇清泉",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 1
+     }
+    },
+    {
+     "id": "pingtung-2",
+     "number": 2,
+     "name": "周春米",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": true,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "yilan",
+   "name": "宜蘭縣",
+   "short": "宜蘭",
+   "kind": "county",
+   "tile": {
+    "x": 5,
+    "y": 2
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "yilan-1",
+     "number": 1,
+     "name": "林國漳",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "yilan-2",
+     "number": 2,
+     "name": "陳宏毅",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 1
+     }
+    },
+    {
+     "id": "yilan-3",
+     "number": 3,
+     "name": "吳宗憲",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": "藍白合：2026-05 藍白民調勝陳琬惠，藍白共推",
+     "look": {
+      "hair": 2,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "yilan-4",
+     "number": 4,
+     "name": "劉燦輝",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "yilan-5",
+     "number": 5,
+     "name": "楊鉯婷",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 3,
+      "glasses": true,
+      "acc": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "hualien",
+   "name": "花蓮縣",
+   "short": "花蓮",
+   "kind": "county",
+   "tile": {
+    "x": 4,
+    "y": 3,
+    "h": 3
+   },
+   "hot": 2,
+   "candidates": [
+    {
+     "id": "hualien-1",
+     "number": 1,
+     "name": "魏嘉賢",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": "前花蓮市長，國民黨撤銷黨籍",
+     "look": {
+      "hair": 5,
+      "hairColor": 0,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "hualien-2",
+     "number": 2,
+     "name": "張峻",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": "花蓮縣議長，遭國民黨開除黨籍；外傳獲民進黨禮讓/支持，未正式證實",
+     "look": {
+      "hair": 2,
+      "hairColor": 3,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "hualien-3",
+     "number": 3,
+     "name": "游淑貞",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "hualien-4",
+     "number": 4,
+     "name": "羅佩秦",
+     "party": "OTHER",
+     "partyName": "台灣工黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "taitung",
+   "name": "臺東縣",
+   "short": "台東",
+   "kind": "county",
+   "tile": {
+    "x": 4,
+    "y": 6,
+    "h": 2
+   },
+   "hot": 1,
+   "candidates": [
+    {
+     "id": "taitung-1",
+     "number": 1,
+     "name": "李吳穎智",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "taitung-2",
+     "number": 2,
+     "name": "陳瑩",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 0,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "taitung-3",
+     "number": 3,
+     "name": "王志偉",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 1,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "taitung-4",
+     "number": 4,
+     "name": "吳秀華",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 2,
+      "glasses": true,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "penghu",
+   "name": "澎湖縣",
+   "short": "澎湖",
+   "kind": "county",
+   "tile": {
+    "x": 0,
+    "y": 5
+   },
+   "hot": 1,
+   "candidates": [
+    {
+     "id": "penghu-1",
+     "number": 1,
+     "name": "許智富",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "penghu-2",
+     "number": 2,
+     "name": "周倪安",
+     "party": "OTHER",
+     "partyName": "台灣團結聯盟",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 1
+     }
+    },
+    {
+     "id": "penghu-3",
+     "number": 3,
+     "name": "葉竹林",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "penghu-4",
+     "number": 4,
+     "name": "吳淑瑾",
+     "party": "DPP",
+     "partyName": "民主進步黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 3,
+      "glasses": true,
+      "acc": 1
+     }
+    },
+    {
+     "id": "penghu-5",
+     "number": 5,
+     "name": "陳振中",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "penghu-6",
+     "number": 6,
+     "name": "陳盡川",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "kinmen",
+   "name": "金門縣",
+   "short": "金門",
+   "kind": "county",
+   "tile": {
+    "x": 0,
+    "y": 3
+   },
+   "hot": 1,
+   "candidates": [
+    {
+     "id": "kinmen-1",
+     "number": 1,
+     "name": "張國威",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 2
+     }
+    },
+    {
+     "id": "kinmen-2",
+     "number": 2,
+     "name": "李文良",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": "前副縣長",
+     "look": {
+      "hair": 0,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 0
+     }
+    },
+    {
+     "id": "kinmen-3",
+     "number": 3,
+     "name": "洪和成",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 1,
+      "hairColor": 3,
+      "glasses": false,
+      "acc": 1
+     }
+    },
+    {
+     "id": "kinmen-4",
+     "number": 4,
+     "name": "張火木",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 2,
+      "hairColor": 0,
+      "glasses": true,
+      "acc": 2
+     }
+    },
+    {
+     "id": "kinmen-5",
+     "number": 5,
+     "name": "陳玉珍",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 3,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "kinmen-6",
+     "number": 6,
+     "name": "梁文韜",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 4,
+      "hairColor": 0,
+      "glasses": false,
+      "acc": 1
+     }
+    },
+    {
+     "id": "kinmen-7",
+     "number": 7,
+     "name": "黃世團",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 1,
+      "glasses": true,
+      "acc": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "lienchiang",
+   "name": "連江縣",
+   "short": "連江",
+   "kind": "county",
+   "tile": {
+    "x": 0,
+    "y": 0
+   },
+   "hot": 1,
+   "candidates": [
+    {
+     "id": "lienchiang-1",
+     "number": 1,
+     "name": "王忠銘",
+     "party": "KMT",
+     "partyName": "中國國民黨",
+     "incumbent": true,
+     "note": null,
+     "look": {
+      "hair": 5,
+      "hairColor": 2,
+      "glasses": false,
+      "acc": 0
+     }
+    },
+    {
+     "id": "lienchiang-2",
+     "number": 2,
+     "name": "曹爾元",
+     "party": "IND",
+     "partyName": "無黨籍",
+     "incumbent": false,
+     "note": null,
+     "look": {
+      "hair": 0,
+      "hairColor": 3,
+      "glasses": true,
+      "acc": 1
+     }
+    }
+   ]
+  }
+ ]
+}
