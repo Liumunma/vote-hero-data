@@ -526,5 +526,72 @@
    }
   ],
   "id": "2026-10-29-taipei-4"
+ },
+ {
+  "date": "2026-10-30",
+  "raceId": "new-taipei",
+  "title": "李四川提新北運動幣與大巨蛋政見",
+  "summary": "李四川在體育後援會成立場合提出政見，表示將發放每人500元新北運動幣，並在8年內於樹林區興建新北大巨蛋，同步推動板橋小巨蛋。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610300110.aspx"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9846893"
+   }
+  ],
+  "id": "2026-10-30-new-taipei-1"
+ },
+ {
+  "date": "2026-10-30",
+  "raceId": "new-taipei",
+  "title": "蘇巧慧談耶誕城去留三項條件",
+  "summary": "蘇巧慧表示，新北耶誕城已有16年歷史，若能滿足交通疏運、在地經濟及城市認同三項要素，就值得延續；舉辦地點可集中或由29區輪流，都可討論。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610300098.aspx"
+   }
+  ],
+  "id": "2026-10-30-new-taipei-2"
+ },
+ {
+  "date": "2026-10-30",
+  "raceId": "taitung",
+  "title": "台東縣長參選人陳瑩吳秀華各提政見",
+  "summary": "陳瑩29日提出設立設計長、研議一日文化假等五點文化與設計倡議；吳秀華與青年座談，提議成立1億元青年創業基金。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "taitung-2"
+   },
+   {
+    "candidateId": "taitung-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610300063.aspx"
+   }
+  ],
+  "id": "2026-10-30-taitung-1"
  }
 ]
