@@ -692,6 +692,46 @@
  },
  {
   "date": "2026-10-31",
+  "raceId": "hsinchu-city",
+  "title": "莊競程競總成立 提交通政見",
+  "summary": "莊競程在新竹市成立競選總部，賴清德出席。莊競程表示將在四年內啟動捷運施工，並提出公車整合與AI交通管理等構想。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "hsinchu-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610310115.aspx"
+   }
+  ],
+  "id": "2026-10-31-hsinchu-city-1"
+ },
+ {
+  "date": "2026-10-31",
+  "raceId": "taichung",
+  "title": "蕭美琴大甲出席何欣純聯合競總",
+  "summary": "蕭美琴在台中大甲出席何欣純與市議員參選人施志昌的聯合競選總部成立活動，並為兩人站台。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610310174.aspx"
+   }
+  ],
+  "id": "2026-10-31-taichung-1"
+ },
+ {
+  "date": "2026-10-31",
   "raceId": "taipei",
   "title": "北市長首場電視辯論 都更議題交換意見",
   "summary": "台北市長首場電視辯論中，蔣萬安說明任內推動的都更案件，沈伯洋表示都更應看入口與出口，並提出提高住宅基金提撥、增聘人力的主張。",
@@ -716,5 +756,68 @@
    }
   ],
   "id": "2026-10-31-taipei-1"
+ },
+ {
+  "date": "2026-10-31",
+  "raceId": "taoyuan",
+  "title": "黃世杰提原住民族政策主張",
+  "summary": "黃世杰出席市議員參選人謝卓儒競總成立活動，提出恢復歲時祭儀補助、振興北橫觀光、活化KIRI原住民族文創園區等主張。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "taoyuan-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625081"
+   }
+  ],
+  "id": "2026-10-31-taoyuan-1"
+ },
+ {
+  "date": "2026-10-31",
+  "raceId": "yilan",
+  "title": "林國漳溪北競總成立 蔡英文蕭美琴出席",
+  "summary": "林國漳在宜蘭運動公園體育館成立溪北競選總部，蔡英文與蕭美琴到場站台，呼籲支持者團結。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "yilan-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610310123.aspx"
+   }
+  ],
+  "id": "2026-10-31-yilan-1"
+ },
+ {
+  "date": "2026-10-31",
+  "raceId": "yunlin",
+  "title": "張嘉郡西螺掃街 劉建國走訪斗六市場",
+  "summary": "張嘉郡與韓國瑜在西螺鎮車隊掃街拜票；劉建國則走訪斗六西市場，談文化保存與在地生活。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "yunlin-2"
+   },
+   {
+    "candidateId": "yunlin-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610310171.aspx"
+   }
+  ],
+  "id": "2026-10-31-yunlin-1"
  }
 ]
