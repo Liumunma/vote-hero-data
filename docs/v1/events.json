@@ -1,6 +1,35 @@
 {
- "updatedAt": "2026-10-31T08:03:26+08:00",
+ "updatedAt": "2026-10-31T13:02:45+08:00",
  "events": [
+  {
+   "id": "2026-10-31-taipei-1",
+   "date": "2026-10-31",
+   "raceId": "taipei",
+   "title": "北市長首場電視辯論 都更議題交換意見",
+   "summary": "台北市長首場電視辯論中，蔣萬安說明任內推動的都更案件，沈伯洋表示都更應看入口與出口，並提出提高住宅基金提撥、增聘人力的主張。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    },
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624785"
+    },
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202610310020.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-10-30-taitung-1",
    "date": "2026-10-30",
