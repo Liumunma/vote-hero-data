@@ -578,6 +578,33 @@
  },
  {
   "date": "2026-10-30",
+  "raceId": "kaohsiung",
+  "title": "高雄市長首場電視辯論 兩人提出施政主張",
+  "summary": "高雄市長電視辯論登場。柯志恩提出成立反霸凌辦公室、高高平等辦公室，並說明二〇五兵工廠開發構想；賴瑞隆提出AI算力中心、半導體封測中心與提升生育補助。",
+  "category": "debate",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-3"
+   },
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "公視",
+    "url": "https://news.pts.org.tw/article/833702"
+   },
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202610300310.aspx"
+   }
+  ],
+  "id": "2026-10-30-kaohsiung-1"
+ },
+ {
+  "date": "2026-10-30",
   "raceId": "new-taipei",
   "title": "李四川提新北運動幣與大巨蛋政見",
   "summary": "李四川在體育後援會成立場合提出政見，表示將發放每人500元新北運動幣，並在8年內於樹林區興建新北大巨蛋，同步推動板橋小巨蛋。",
