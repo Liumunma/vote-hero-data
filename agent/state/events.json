@@ -862,6 +862,30 @@
  },
  {
   "date": "2026-11-01",
+  "raceId": "hsinchu-county",
+  "title": "徐欣瑩竹東客家後援會成立 鄭麗文到場",
+  "summary": "徐欣瑩與竹東鎮長參選人范國威在竹東戲曲公園成立客家後援會，國民黨主席鄭麗文到場。徐欣瑩提出客庄國際行銷中心、支持竹東升格為市、智慧公車等主張。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "hsinchu-county-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010146.aspx"
+   },
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625910"
+   }
+  ],
+  "id": "2026-11-01-hsinchu-county-1"
+ },
+ {
+  "date": "2026-11-01",
   "raceId": "new-taipei",
   "title": "李四川與黃心華新店聯合競選服務處成立",
   "summary": "李四川與市議員黃心華11月1日在新店舉行聯合競選服務處成立大會，侯友宜等人出席。李四川提出串聯多個園區的AI高科技產業構想並研議捷運延伸，黃心華提議中和光復線延伸至十四張站。",
@@ -879,6 +903,76 @@
    }
   ],
   "id": "2026-11-01-new-taipei-1"
+ },
+ {
+  "date": "2026-11-01",
+  "raceId": "penghu",
+  "title": "周倪安成立競選總部 提漁業與海底隧道評估",
+  "summary": "周倪安在馬公市成立競選總部，政見包括協助漁民、推動海洋資源復育、研議台澎海底隧道可行性，並引進適合澎湖的企業，讓年輕人能返鄉。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "penghu-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010073.aspx"
+   }
+  ],
+  "id": "2026-11-01-penghu-1"
+ },
+ {
+  "date": "2026-11-01",
+  "raceId": "taichung",
+  "title": "何欣純江啟臣各赴議員參選人總部成立",
+  "summary": "何欣純出席三位民進黨市議員參選人的競選總部成立大會；江啟臣上午掃街，並出席多位市議員參選人的總部成立，也到南投出席聯合競總，晚間在大甲夜市掃街。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   },
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010124.aspx"
+   }
+  ],
+  "id": "2026-11-01-taichung-1"
+ },
+ {
+  "date": "2026-11-01",
+  "raceId": "taipei",
+  "title": "北市總工會勞動政見公開講 兩人提勞動政見",
+  "summary": "台北市產業總工會在府前廣場舉辦勞動政見公開講，沈伯洋提出勞動安全、保障與支援三類主張，蔣萬安說明過去任內成果並提出四項新政，內容包含清潔隊員用餐與夜點費。",
+  "category": "policy",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   },
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010078.aspx"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9850426"
+   }
+  ],
+  "id": "2026-11-01-taipei-1"
  },
  {
   "date": "2026-11-01",
