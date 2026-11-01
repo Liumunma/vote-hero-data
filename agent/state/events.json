@@ -692,6 +692,26 @@
  },
  {
   "date": "2026-10-31",
+  "raceId": "changhua",
+  "title": "陳素月競總成立 提出四項彰化政見",
+  "summary": "陳素月在彰化市舉行競選總部成立大會，賴清德、蔡英文出席。陳素月提出大車站計畫、65歲以上長者健保費由縣府全額補助、設立產業加速辦公室，並恢復校校有保全。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "changhua-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610310204.aspx"
+   }
+  ],
+  "id": "2026-10-31-changhua-1"
+ },
+ {
+  "date": "2026-10-31",
   "raceId": "hsinchu-city",
   "title": "莊競程競總成立 提交通政見",
   "summary": "莊競程在新竹市成立競選總部，賴清德出席。莊競程表示將在四年內啟動捷運施工，並提出公車整合與AI交通管理等構想。",
@@ -709,6 +729,26 @@
    }
   ],
   "id": "2026-10-31-hsinchu-city-1"
+ },
+ {
+  "date": "2026-10-31",
+  "raceId": "nantou",
+  "title": "温世政聯合競總成立 賴清德出席",
+  "summary": "温世政與南投市長參選人沈夙崢等人在南投縣舉行聯合競選總本部成立大會，賴清德出席。温世政表示將推動輕軌捷運，長者與青年政策也在會中被提及。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "nantou-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202610310185.aspx"
+   }
+  ],
+  "id": "2026-10-31-nantou-1"
  },
  {
   "date": "2026-10-31",
