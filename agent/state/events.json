@@ -859,5 +859,45 @@
    }
   ],
   "id": "2026-10-31-yunlin-1"
+ },
+ {
+  "date": "2026-11-01",
+  "raceId": "new-taipei",
+  "title": "李四川與黃心華新店聯合競選服務處成立",
+  "summary": "李四川與市議員黃心華11月1日在新店舉行聯合競選服務處成立大會，侯友宜等人出席。李四川提出串聯多個園區的AI高科技產業構想並研議捷運延伸，黃心華提議中和光復線延伸至十四張站。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9850063"
+   }
+  ],
+  "id": "2026-11-01-new-taipei-1"
+ },
+ {
+  "date": "2026-11-01",
+  "raceId": "taoyuan",
+  "title": "黃世杰偕妻赴忠貞市場掃街",
+  "summary": "黃世杰11月1日前往桃園忠貞市場掃街拜票，妻子首度公開陪同。他提出研議延長龍岡米干節活動時間、增加大龍岡觀光亮點，並關注托育、教育、交通與長輩醫療。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "taoyuan-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010031.aspx"
+   }
+  ],
+  "id": "2026-11-01-taoyuan-1"
  }
 ]
