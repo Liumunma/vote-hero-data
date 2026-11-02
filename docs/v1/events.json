@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-11-02T08:03:38+08:00",
+ "updatedAt": "2026-11-02T13:03:52+08:00",
  "events": [
+  {
+   "id": "2026-11-02-taoyuan-1",
+   "date": "2026-11-02",
+   "raceId": "taoyuan",
+   "title": "黃世杰楊梅拜票 提產業與交通規畫",
+   "summary": "黃世杰在楊梅天成路口向通勤民眾拜票，提出擴大幼獅工業區二期、推動楊梅成為桃園南區交通樞紐、爭取捷運並搭配公車路網等主張。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taoyuan-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611020035.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-new-taipei-2",
+   "date": "2026-11-02",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧辦新北永續餐桌 與青農餐飲業交流",
+   "summary": "蘇巧慧與綠色餐飲指南、青農及餐飲業者舉辦新北永續餐桌活動，討論永續飲食與產業推廣，並表示將與各區農會合作處理通路與品牌。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626517"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-new-taipei-1",
+   "date": "2026-11-02",
+   "raceId": "new-taipei",
+   "title": "李四川成立工商後援會 提產業與交通政見",
+   "summary": "李四川出席工商團體後援組織成立活動，提出擴大產業用地、興建跨河橋梁串聯科技園區，以及檢討鬆綁老舊法規等主張。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626453"
+    }
+   ]
+  },
   {
    "id": "2026-11-01-taoyuan-1",
    "date": "2026-11-01",
