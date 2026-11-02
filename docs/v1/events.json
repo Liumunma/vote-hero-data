@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-02T13:03:52+08:00",
+ "updatedAt": "2026-11-02T20:05:03+08:00",
  "events": [
+  {
+   "id": "2026-11-02-yilan-1",
+   "date": "2026-11-02",
+   "raceId": "yilan",
+   "title": "林國漳蓋漳大車掃自冬山鄉起跑",
+   "summary": "林國漳的蓋漳大車掃從宜蘭冬山鄉起跑，與宜蘭隊鄉鎮長及議員參選人同行，他表示當選後將持續走訪社區。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yilan-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9852497"
+    }
+   ]
+  },
   {
    "id": "2026-11-02-taoyuan-1",
    "date": "2026-11-02",
@@ -19,6 +40,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611020035.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-new-taipei-3",
+   "date": "2026-11-02",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧競辦公布週末兩場造勢晚會",
+   "summary": "蘇巧慧競辦宣布11月7日在板橋溪北公園、11月8日在蘆洲三民高中各辦一場晚會，分別邀請行政院長卓榮泰與副總統蕭美琴站台。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611020240.aspx"
     }
    ]
   },
@@ -61,6 +103,27 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626453"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-changhua-1",
+   "date": "2026-11-02",
+   "raceId": "changhua",
+   "title": "魏平政發表城鎮升級政見 談交通與文化",
+   "summary": "魏平政在彰化舉行記者會，提出區域共榮與文化新生兩大主軸，包括持續推進台中捷運延伸彰化段、整合中彰投公共運輸，以及古蹟活化、一鄉鎮一特色觀光等項目。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "changhua-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611020237.aspx"
     }
    ]
   },
