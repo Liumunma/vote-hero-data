@@ -906,6 +906,29 @@
  },
  {
   "date": "2026-11-01",
+  "raceId": "new-taipei",
+  "title": "新北選委會11月13日辦辯論式政見會",
+  "summary": "新北市選委會規劃11月13日舉辦辯論式電視政見會，蘇巧慧表示希望有電視辯論，李四川表示會好好準備。",
+  "category": "debate",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   },
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010165.aspx"
+   }
+  ],
+  "id": "2026-11-01-new-taipei-2"
+ },
+ {
+  "date": "2026-11-01",
   "raceId": "penghu",
   "title": "周倪安成立競選總部 提漁業與海底隧道評估",
   "summary": "周倪安在馬公市成立競選總部，政見包括協助漁民、推動海洋資源復育、研議台澎海底隧道可行性，並引進適合澎湖的企業，讓年輕人能返鄉。",
@@ -923,6 +946,26 @@
    }
   ],
   "id": "2026-11-01-penghu-1"
+ },
+ {
+  "date": "2026-11-01",
+  "raceId": "penghu",
+  "title": "葉竹林推線上平台政策島 介紹政見",
+  "summary": "無黨籍澎湖縣長參選人葉竹林推出以虛擬島嶼為概念的線上平台，結合政策介紹與小遊戲，也開放民眾對交通、醫療、觀光等議題留言。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "penghu-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010161.aspx"
+   }
+  ],
+  "id": "2026-11-01-penghu-2"
  },
  {
   "date": "2026-11-01",
@@ -973,6 +1016,46 @@
    }
   ],
   "id": "2026-11-01-taipei-1"
+ },
+ {
+  "date": "2026-11-01",
+  "raceId": "taipei",
+  "title": "沈伯洋大安文山車掃 公布五項政見",
+  "summary": "沈伯洋11月1日在大安、文山舉辦車掃，於大安森林公園公布「疫苗市府出」「上學走路免驚」「心事有人陪」「毛孩安心養」及水圳到茶山串聯文化徑等政見。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010177.aspx"
+   }
+  ],
+  "id": "2026-11-01-taipei-2"
+ },
+ {
+  "date": "2026-11-01",
+  "raceId": "taipei",
+  "title": "蔣萬安談清潔隊員夜點費 北市先行調整",
+  "summary": "蔣萬安出席北市總工會勞動政見公開講，表示將向中央爭取首都勤務加給，中央核定前由環保局先行調高夜點費。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611010132.aspx"
+   }
+  ],
+  "id": "2026-11-01-taipei-3"
  },
  {
   "date": "2026-11-01",
