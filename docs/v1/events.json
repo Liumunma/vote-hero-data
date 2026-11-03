@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T13:03:22+08:00",
+ "updatedAt": "2026-11-03T20:04:12+08:00",
  "events": [
   {
    "id": "2026-11-03-tainan-1",
@@ -40,6 +40,52 @@
     {
      "name": "聯合報",
      "url": "https://udn.com/news/story/124652/9854138"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-lienchiang-1",
+   "date": "2026-11-03",
+   "raceId": "lienchiang",
+   "title": "連江縣長參選人各提寵物醫療政見",
+   "summary": "王忠銘提出流浪寵物急難救助最高補助2萬5000元及寵物友善公園；曹爾元提出在地巡迴看診、寵物保險與毛小孩運動公園，雙方都提到赴台治療補助。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "lienchiang-1",
+     "delta": null
+    },
+    {
+     "candidateId": "lienchiang-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611030297.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-keelung-1",
+   "date": "2026-11-03",
+   "raceId": "keelung",
+   "title": "童子瑋與蕭美琴騎YouBike提共享運具",
+   "summary": "童子瑋與副總統蕭美琴沿基隆河自行車道騎乘YouBike進入基隆，童子瑋提出連結新北的共享運具與兩河兩海自行車路線構想。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "keelung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611030166.aspx"
     }
    ]
   },

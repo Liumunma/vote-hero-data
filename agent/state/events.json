@@ -1219,6 +1219,49 @@
  },
  {
   "date": "2026-11-03",
+  "raceId": "keelung",
+  "title": "童子瑋與蕭美琴騎YouBike提共享運具",
+  "summary": "童子瑋與副總統蕭美琴沿基隆河自行車道騎乘YouBike進入基隆，童子瑋提出連結新北的共享運具與兩河兩海自行車路線構想。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "keelung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611030166.aspx"
+   }
+  ],
+  "id": "2026-11-03-keelung-1"
+ },
+ {
+  "date": "2026-11-03",
+  "raceId": "lienchiang",
+  "title": "連江縣長參選人各提寵物醫療政見",
+  "summary": "王忠銘提出流浪寵物急難救助最高補助2萬5000元及寵物友善公園；曹爾元提出在地巡迴看診、寵物保險與毛小孩運動公園，雙方都提到赴台治療補助。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "lienchiang-1"
+   },
+   {
+    "candidateId": "lienchiang-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611030297.aspx"
+   }
+  ],
+  "id": "2026-11-03-lienchiang-1"
+ },
+ {
+  "date": "2026-11-03",
   "raceId": "new-taipei",
   "title": "李四川三蘆市場掃街 提四項交通醫療規劃",
   "summary": "李四川前往三重、蘆洲市場掃街，提出蘆社大橋、蘆洲醫院、大漢溪捷運縱貫線與三重忠孝碼頭跨河景觀橋四項規劃，涵蓋交通與醫療。",
