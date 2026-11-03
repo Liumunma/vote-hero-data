@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-11-03T08:03:33+08:00",
+ "updatedAt": "2026-11-03T13:03:22+08:00",
  "events": [
+  {
+   "id": "2026-11-03-tainan-1",
+   "date": "2026-11-03",
+   "raceId": "tainan",
+   "title": "陳亭妃啟動37區鐵馬拜會 陳水扁到場",
+   "summary": "陳亭妃從歸仁仁壽宮出發，展開37區鐵馬拜會，聆聽基層意見；前總統陳水扁出發前到場，臺南市長黃偉哲與多位議員參選人同行。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "tainan-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9854002"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-new-taipei-1",
+   "date": "2026-11-03",
+   "raceId": "new-taipei",
+   "title": "李四川三蘆市場掃街 提四項交通醫療規劃",
+   "summary": "李四川前往三重、蘆洲市場掃街，提出蘆社大橋、蘆洲醫院、大漢溪捷運縱貫線與三重忠孝碼頭跨河景觀橋四項規劃，涵蓋交通與醫療。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9854138"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-hsinchu-county-1",
+   "date": "2026-11-03",
+   "raceId": "hsinchu-county",
+   "title": "徐欣瑩競選官網上線 列六大面向政見",
+   "summary": "徐欣瑩推出競選官網，依六大面向列出151項政見，包括生育補助10萬元、國中小學生配發平板，以及與新竹市合作規劃的跨城交通。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-county-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9854009"
+    }
+   ]
+  },
   {
    "id": "2026-11-02-yilan-1",
    "date": "2026-11-02",
