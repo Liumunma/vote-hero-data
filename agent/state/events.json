@@ -1326,6 +1326,26 @@
  },
  {
   "date": "2026-11-04",
+  "raceId": "kaohsiung",
+  "title": "柯志恩公布首支競選廣告",
+  "summary": "柯志恩公布首支競選廣告，內容為她走訪市場與街頭、與攤商及學生互動。她表示四年來走遍高雄38個行政區。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611040317.aspx"
+   }
+  ],
+  "id": "2026-11-04-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-04",
   "raceId": "new-taipei",
   "title": "蘇巧慧清晨赴蘆洲果菜市場掃街",
   "summary": "蘇巧慧4日清晨前往蘆洲大台北果菜市場掃街，並預告本週末在板橋與蘆洲舉辦造勢晚會，行政院長卓榮泰、副總統蕭美琴將到場。",
@@ -1343,5 +1363,48 @@
    }
   ],
   "id": "2026-11-04-new-taipei-1"
+ },
+ {
+  "date": "2026-11-04",
+  "raceId": "new-taipei",
+  "title": "李四川板橋聯合競總成立 提小巨蛋政見",
+  "summary": "李四川與市議員曾煥嘉在板橋民生公園舉行聯合競選總部成立大會，侯友宜、洪秀柱到場。李四川提出升級板橋體育館為新北小巨蛋、推動泰板輕軌，並擴大敬老卡300點使用範圍。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611040324.aspx"
+   }
+  ],
+  "id": "2026-11-04-new-taipei-2"
+ },
+ {
+  "date": "2026-11-04",
+  "raceId": "taipei",
+  "title": "沈伯洋提邀蔣萬安共辦肥皂箱活動",
+  "summary": "蔣萬安陣營推出競選文宣「萬安警報」，沈伯洋的文宣為「順報」。沈伯洋表示希望雙方共同舉辦肥皂箱活動，讓現任市長與挑戰者同時回答市民提問。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   },
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "公視",
+    "url": "https://news.pts.org.tw/article/834201"
+   }
+  ],
+  "id": "2026-11-04-taipei-1"
  }
 ]
