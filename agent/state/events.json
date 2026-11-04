@@ -1299,5 +1299,49 @@
    }
   ],
   "id": "2026-11-03-tainan-1"
+ },
+ {
+  "date": "2026-11-03",
+  "raceId": "taipei",
+  "title": "蔣萬安邀柯志恩寧夏夜市掃街",
+  "summary": "台北市長蔣萬安與高雄市長參選人柯志恩3日晚間在台北寧夏夜市掃街，蔣萬安表示柯志恩先前到高雄六合夜市替他拜票，這次換他邀請；柯志恩呼籲住台北的高雄市民11月28日返鄉投票。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611030318.aspx"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9855298"
+   }
+  ],
+  "id": "2026-11-03-taipei-1"
+ },
+ {
+  "date": "2026-11-04",
+  "raceId": "new-taipei",
+  "title": "蘇巧慧清晨赴蘆洲果菜市場掃街",
+  "summary": "蘇巧慧4日清晨前往蘆洲大台北果菜市場掃街，並預告本週末在板橋與蘆洲舉辦造勢晚會，行政院長卓榮泰、副總統蕭美琴將到場。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9855774"
+   }
+  ],
+  "id": "2026-11-04-new-taipei-1"
  }
 ]
