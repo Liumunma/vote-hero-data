@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-05T08:03:30+08:00",
+ "updatedAt": "2026-11-05T13:03:16+08:00",
  "events": [
+  {
+   "id": "2026-11-05-taitung-1",
+   "date": "2026-11-05",
+   "raceId": "taitung",
+   "title": "陳瑩提音樂原創基地 吳秀華鄉鎮掃街",
+   "summary": "陳瑩提出音樂原創基地政見，規劃錄音、編曲、混音設施與人才培訓；吳秀華到綠島、鹿野鄉掃街，表示持續檢視文化健康站服務品質。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taitung-2",
+     "delta": null
+    },
+    {
+     "candidateId": "taitung-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611050102.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-04-yunlin-1",
    "date": "2026-11-04",
