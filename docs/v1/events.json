@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T13:03:16+08:00",
+ "updatedAt": "2026-11-05T20:02:51+08:00",
  "events": [
   {
    "id": "2026-11-05-taitung-1",
@@ -23,6 +23,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611050102.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-taipei-1",
+   "date": "2026-11-05",
+   "raceId": "taipei",
+   "title": "蔣萬安宣布11月14日安心大遊行",
+   "summary": "蔣萬安競辦於11月5日說明11月14日將舉辦遊行，分北、南兩路線，最後在市府路會合，由盧秀燕與石舫亘分別帶隊。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611050288.aspx"
     }
    ]
   },

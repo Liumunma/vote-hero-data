@@ -1452,6 +1452,26 @@
  },
  {
   "date": "2026-11-05",
+  "raceId": "taipei",
+  "title": "蔣萬安宣布11月14日安心大遊行",
+  "summary": "蔣萬安競辦於11月5日說明11月14日將舉辦遊行，分北、南兩路線，最後在市府路會合，由盧秀燕與石舫亘分別帶隊。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611050288.aspx"
+   }
+  ],
+  "id": "2026-11-05-taipei-1"
+ },
+ {
+  "date": "2026-11-05",
   "raceId": "taitung",
   "title": "陳瑩提音樂原創基地 吳秀華鄉鎮掃街",
   "summary": "陳瑩提出音樂原創基地政見，規劃錄音、編曲、混音設施與人才培訓；吳秀華到綠島、鹿野鄉掃街，表示持續檢視文化健康站服務品質。",
