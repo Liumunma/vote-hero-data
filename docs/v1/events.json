@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-04T20:03:17+08:00",
+ "updatedAt": "2026-11-05T08:03:30+08:00",
  "events": [
+  {
+   "id": "2026-11-04-yunlin-1",
+   "date": "2026-11-04",
+   "raceId": "yunlin",
+   "title": "張嘉郡提雲林ACG青年創業計畫",
+   "summary": "國民黨雲林縣長參選人張嘉郡提出ACG青年創業計畫，內容含六大行動，創業支持金最高新台幣48萬元；劉建國同日與沈伯洋推廣古坑咖啡。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yunlin-2",
+     "delta": null
+    },
+    {
+     "candidateId": "yunlin-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611040270.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-04-taipei-1",
    "date": "2026-11-04",
@@ -23,6 +48,27 @@
     {
      "name": "公視",
      "url": "https://news.pts.org.tw/article/834201"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-new-taipei-3",
+   "date": "2026-11-04",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧中和拜票 提瓦磘溝綠廊政見",
+   "summary": "民進黨新北市長候選人蘇巧慧在中和大勇街夜市拜票，提出瓦磘溝綠廊串連、雙和親水生活圈與智慧醫療等規劃。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611040347.aspx"
     }
    ]
   },

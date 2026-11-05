@@ -1386,6 +1386,26 @@
  },
  {
   "date": "2026-11-04",
+  "raceId": "new-taipei",
+  "title": "蘇巧慧中和拜票 提瓦磘溝綠廊政見",
+  "summary": "民進黨新北市長候選人蘇巧慧在中和大勇街夜市拜票，提出瓦磘溝綠廊串連、雙和親水生活圈與智慧醫療等規劃。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611040347.aspx"
+   }
+  ],
+  "id": "2026-11-04-new-taipei-3"
+ },
+ {
+  "date": "2026-11-04",
   "raceId": "taipei",
   "title": "沈伯洋提邀蔣萬安共辦肥皂箱活動",
   "summary": "蔣萬安陣營推出競選文宣「萬安警報」，沈伯洋的文宣為「順報」。沈伯洋表示希望雙方共同舉辦肥皂箱活動，讓現任市長與挑戰者同時回答市民提問。",
@@ -1406,5 +1426,28 @@
    }
   ],
   "id": "2026-11-04-taipei-1"
+ },
+ {
+  "date": "2026-11-04",
+  "raceId": "yunlin",
+  "title": "張嘉郡提雲林ACG青年創業計畫",
+  "summary": "國民黨雲林縣長參選人張嘉郡提出ACG青年創業計畫，內容含六大行動，創業支持金最高新台幣48萬元；劉建國同日與沈伯洋推廣古坑咖啡。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "yunlin-2"
+   },
+   {
+    "candidateId": "yunlin-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611040270.aspx"
+   }
+  ],
+  "id": "2026-11-04-yunlin-1"
  }
 ]
