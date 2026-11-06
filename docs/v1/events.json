@@ -1,6 +1,77 @@
 {
- "updatedAt": "2026-11-06T08:03:25+08:00",
+ "updatedAt": "2026-11-06T13:02:46+08:00",
  "events": [
+  {
+   "id": "2026-11-06-yilan-1",
+   "date": "2026-11-06",
+   "raceId": "yilan",
+   "title": "林國漳拜會宋楚瑜 請益治水經驗",
+   "summary": "民進黨宜蘭縣長參選人林國漳拜會親民黨主席宋楚瑜，請益地方治理。宋楚瑜分享整治台南運河與羅東溪治水經驗，林國漳表示水患與基礎建設不分政黨。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yilan-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5631488"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-kaohsiung-1",
+   "date": "2026-11-06",
+   "raceId": "kaohsiung",
+   "title": "賴瑞隆說明小港機場明年2月包機直飛羽田",
+   "summary": "民進黨高雄市長參選人賴瑞隆在立法院記者會表示，小港機場明年2月起以包機直飛東京羽田，之後再規劃定期航班，並提到市府將加速小港新航廈建設。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611060065.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-hualien-1",
+   "date": "2026-11-06",
+   "raceId": "hualien",
+   "title": "花蓮縣長參選人談普發現金與財政規劃",
+   "summary": "游淑貞表示當選後普發2萬元，稱經精算可行；張峻說明其普發1萬元的財源估算；魏嘉賢則提出「12本未來存摺」全齡福利方案，不發現金。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hualien-1",
+     "delta": null
+    },
+    {
+     "candidateId": "hualien-2",
+     "delta": null
+    },
+    {
+     "candidateId": "hualien-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611060106.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-05-taitung-1",
    "date": "2026-11-05",
