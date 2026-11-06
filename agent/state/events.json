@@ -1581,6 +1581,26 @@
  },
  {
   "date": "2026-11-06",
+  "raceId": "new-taipei",
+  "title": "侯友宜首度陪同李四川車隊掃街",
+  "summary": "新北市長侯友宜6日下午首度陪同李四川車隊掃街，兩人先到板橋區深丘福德宮祈福。侯友宜表示李四川是承擔責任的接棒人選，李四川表示會全力投入選戰。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611060223.aspx"
+   }
+  ],
+  "id": "2026-11-06-new-taipei-1"
+ },
+ {
+  "date": "2026-11-06",
   "raceId": "yilan",
   "title": "林國漳拜會宋楚瑜 請益治水經驗",
   "summary": "民進黨宜蘭縣長參選人林國漳拜會親民黨主席宋楚瑜，請益地方治理。宋楚瑜分享整治台南運河與羅東溪治水經驗，林國漳表示水患與基礎建設不分政黨。",

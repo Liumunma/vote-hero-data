@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T13:02:46+08:00",
+ "updatedAt": "2026-11-06T20:02:23+08:00",
  "events": [
   {
    "id": "2026-11-06-yilan-1",
@@ -19,6 +19,27 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5631488"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-new-taipei-1",
+   "date": "2026-11-06",
+   "raceId": "new-taipei",
+   "title": "侯友宜首度陪同李四川車隊掃街",
+   "summary": "新北市長侯友宜6日下午首度陪同李四川車隊掃街，兩人先到板橋區深丘福德宮祈福。侯友宜表示李四川是承擔責任的接棒人選，李四川表示會全力投入選戰。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611060223.aspx"
     }
    ]
   },
