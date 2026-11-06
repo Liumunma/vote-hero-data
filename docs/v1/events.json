@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T20:02:51+08:00",
+ "updatedAt": "2026-11-06T08:03:25+08:00",
  "events": [
   {
    "id": "2026-11-05-taitung-1",
@@ -44,6 +44,48 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611050288.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-taichung-2",
+   "date": "2026-11-05",
+   "raceId": "taichung",
+   "title": "江啟臣首度車隊掃街 成立客家後援會",
+   "summary": "江啟臣11月5日在潭子、新社展開車隊掃街，並於東勢成立客家後援會，11月6日預計與韓國瑜在海線舉行聯合造勢。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611050280.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-taichung-1",
+   "date": "2026-11-05",
+   "raceId": "taichung",
+   "title": "蔡英文赴台中為何欣純站台參香",
+   "summary": "前總統蔡英文11月5日到台中，與何欣純到潭子得天宮參香，並出席南屯區文心森林公園的寵物友善活動，談及台中各區均衡發展與交通公共建設。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611050227.aspx"
     }
    ]
   },
