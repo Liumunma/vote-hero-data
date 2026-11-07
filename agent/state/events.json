@@ -1581,6 +1581,29 @@
  },
  {
   "date": "2026-11-06",
+  "raceId": "kaohsiung",
+  "title": "賴瑞隆發布新住民政見影片 柯志恩推台語MV",
+  "summary": "賴瑞隆6日發布新住民政見影片，介紹「新高雄一家人」與「幸福川計畫」。柯志恩5日晚間推出台語競選主題曲MV。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-3"
+   },
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611060266.aspx"
+   }
+  ],
+  "id": "2026-11-06-kaohsiung-2"
+ },
+ {
+  "date": "2026-11-06",
   "raceId": "new-taipei",
   "title": "侯友宜首度陪同李四川車隊掃街",
   "summary": "新北市長侯友宜6日下午首度陪同李四川車隊掃街，兩人先到板橋區深丘福德宮祈福。侯友宜表示李四川是承擔責任的接棒人選，李四川表示會全力投入選戰。",
@@ -1598,6 +1621,26 @@
    }
   ],
   "id": "2026-11-06-new-taipei-1"
+ },
+ {
+  "date": "2026-11-06",
+  "raceId": "taichung",
+  "title": "江啟臣沙鹿造勢 盧秀燕韓國瑜到場",
+  "summary": "國民黨參選人江啟臣在台中沙鹿舉辦造勢活動，盧秀燕、韓國瑜到場站台。江啟臣提到將推動捷運藍線完工、發展會展經濟並爭取大型機場。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611060331.aspx"
+   }
+  ],
+  "id": "2026-11-06-taichung-1"
  },
  {
   "date": "2026-11-06",
