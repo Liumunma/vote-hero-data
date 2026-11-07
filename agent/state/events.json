@@ -1664,6 +1664,113 @@
  },
  {
   "date": "2026-11-07",
+  "raceId": "kaohsiung",
+  "title": "柯志恩旗山大會 蔣萬安到場助講",
+  "summary": "柯志恩在旗山舉辦大會，台北市長蔣萬安南下出席。柯志恩提出北高連線，並表示當選後將成立高高平等辦公室。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611070180.aspx"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9864121"
+   }
+  ],
+  "id": "2026-11-07-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-07",
+  "raceId": "kaohsiung",
+  "title": "賴瑞隆岡山造勢 賴清德到場",
+  "summary": "賴瑞隆在岡山舉辦造勢活動，總統賴清德與高雄市長陳其邁出席。賴瑞隆提出半導體封測中心、產業升級基金與交通建設等規劃。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611070181.aspx"
+   }
+  ],
+  "id": "2026-11-07-kaohsiung-2"
+ },
+ {
+  "date": "2026-11-07",
+  "raceId": "miaoli",
+  "title": "鍾東錦與陳品安各談育兒政見",
+  "summary": "鍾東錦宣布興建竹南親子館暨托嬰中心；陳品安提出一鄉鎮一公托一親子館，兩人各自發表育兒相關政見。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "miaoli-1"
+   },
+   {
+    "candidateId": "miaoli-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9864069"
+   }
+  ],
+  "id": "2026-11-07-miaoli-1"
+ },
+ {
+  "date": "2026-11-07",
+  "raceId": "new-taipei",
+  "title": "蘇巧慧瑞芳競總成立 提東北角政見",
+  "summary": "蘇巧慧與議員林裔綺成立瑞芳聯合競選總部，並在平溪、雙溪、貢寮成立後援會，提出醫療、長照、交通與觀光政見。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611070171.aspx"
+   }
+  ],
+  "id": "2026-11-07-new-taipei-1"
+ },
+ {
+  "date": "2026-11-07",
+  "raceId": "taipei",
+  "title": "沈伯洋內湖南港車掃 蕭美琴助講",
+  "summary": "沈伯洋在內湖南港舉行車掃，運動部長李洋陪同掃街，副總統蕭美琴晚間以神秘嘉賓身分上台助講。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9864131"
+   }
+  ],
+  "id": "2026-11-07-taipei-1"
+ },
+ {
+  "date": "2026-11-07",
   "raceId": "taitung",
   "title": "前縣長徐慶元赴陳瑩競總表態支持",
   "summary": "前台東縣長徐慶元6日到民進黨參選人陳瑩的競選總部拜訪，表態支持陳瑩，並表示會動員過去支持者輔選。陳瑩表示地方各方力量願意合作。",
@@ -1681,5 +1788,25 @@
    }
   ],
   "id": "2026-11-07-taitung-1"
+ },
+ {
+  "date": "2026-11-07",
+  "raceId": "yunlin",
+  "title": "林佳龍返鄉陪劉建國車掃",
+  "summary": "劉建國邀請林佳龍陪同在麥寮車掃拜票，林佳龍並到吉安宮參拜，談及麥寮交通建設議題。",
+  "category": "endorsement",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "yunlin-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633011"
+   }
+  ],
+  "id": "2026-11-07-yunlin-1"
  }
 ]
