@@ -1661,5 +1661,25 @@
    }
   ],
   "id": "2026-11-06-yilan-1"
+ },
+ {
+  "date": "2026-11-07",
+  "raceId": "taitung",
+  "title": "前縣長徐慶元赴陳瑩競總表態支持",
+  "summary": "前台東縣長徐慶元6日到民進黨參選人陳瑩的競選總部拜訪，表態支持陳瑩，並表示會動員過去支持者輔選。陳瑩表示地方各方力量願意合作。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taitung-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611070036.aspx"
+   }
+  ],
+  "id": "2026-11-07-taitung-1"
  }
 ]
