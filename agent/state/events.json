@@ -1925,6 +1925,26 @@
  },
  {
   "date": "2026-11-08",
+  "raceId": "hsinchu-county",
+  "title": "徐欣瑩湖口競總成立 韓國瑜到場",
+  "summary": "徐欣瑩在新竹縣湖口鄉成立競選總部，立法院長韓國瑜出席。徐欣瑩提出生育補助10萬元、打通13鄉鎮市交通節點、成立AI智慧產業學院等政見。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "hsinchu-county-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611080165.aspx"
+   }
+  ],
+  "id": "2026-11-08-hsinchu-county-1"
+ },
+ {
+  "date": "2026-11-08",
   "raceId": "kaohsiung",
   "title": "賴瑞隆與柯志恩分赴市場拜訪",
   "summary": "賴瑞隆偕議員訪左營哈囉市場，柯志恩走訪苓雅國民市場，兩人都與攤商直接互動。",
@@ -1945,5 +1965,111 @@
    }
   ],
   "id": "2026-11-08-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-08",
+  "raceId": "keelung",
+  "title": "基隆民團政策訴求 候選人簽承諾書",
+  "summary": "基隆16個民間團體提出4大願景、12項政策訴求，童子瑋、謝國樑及魏造文均已簽署承諾書。謝國樑表示每年至少與團體會面兩次。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "keelung-1"
+   },
+   {
+    "candidateId": "keelung-2"
+   },
+   {
+    "candidateId": "keelung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "公視",
+    "url": "https://news.pts.org.tw/article/834802"
+   }
+  ],
+  "id": "2026-11-08-keelung-1"
+ },
+ {
+  "date": "2026-11-08",
+  "raceId": "keelung",
+  "title": "林右昌陪童子瑋參觀基隆400特展",
+  "summary": "前基隆市長林右昌返台後與童子瑋、鄭麗君參觀基隆400特展，並表示童子瑋若當選，他願擔任市政顧問團總團長。",
+  "category": "endorsement",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "keelung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611080103.aspx"
+   }
+  ],
+  "id": "2026-11-08-keelung-2"
+ },
+ {
+  "date": "2026-11-08",
+  "raceId": "nantou",
+  "title": "温世政提婦幼與新住民政見",
+  "summary": "温世政出席婦女與新住民座談，提出每一萬人口設置一處托育中心、設立多語服務中心，並為求職或創業的新住民提供技能培訓與租屋補助。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "nantou-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633771"
+   }
+  ],
+  "id": "2026-11-08-nantou-1"
+ },
+ {
+  "date": "2026-11-08",
+  "raceId": "penghu",
+  "title": "賴清德赴澎湖為吳淑瑾站台",
+  "summary": "總統賴清德抵達澎湖，為吳淑瑾站台，前往馬公文澳城隍廟參拜並獻匾，也向民眾說明兒童及少年成長津貼等社福政策。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "penghu-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633803"
+   }
+  ],
+  "id": "2026-11-08-penghu-1"
+ },
+ {
+  "date": "2026-11-08",
+  "raceId": "taichung",
+  "title": "何欣純談74號快速道路交通規劃",
+  "summary": "何欣純在國際獅子後援會成立大會表示，當選後將興建74號之外的第二環道，並在74號匝道下方平面道路架設智慧交通管控系統，推動區域分流計畫。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633805"
+   }
+  ],
+  "id": "2026-11-08-taichung-1"
  }
 ]
