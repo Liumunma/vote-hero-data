@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T20:02:58+08:00",
+ "updatedAt": "2026-11-08T08:03:29+08:00",
  "events": [
   {
    "id": "2026-11-07-yunlin-1",
@@ -19,6 +19,27 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633011"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-taoyuan-1",
+   "date": "2026-11-07",
+   "raceId": "taoyuan",
+   "title": "侯友宜趙少康到中壢 張善政出席",
+   "summary": "國民黨議員參選人彭康傑7日在中壢舉行競選總部成立大會，侯友宜、趙少康、吳志揚與張善政到場。張善政提及綠線捷運延伸等規畫，並請託鄉親支持其連任。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taoyuan-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9864229"
     }
    ]
   },
@@ -44,6 +65,52 @@
    ]
   },
   {
+   "id": "2026-11-07-taipei-3",
+   "date": "2026-11-07",
+   "raceId": "taipei",
+   "title": "盧秀燕與石舫亘赴松山平安福宴",
+   "summary": "台中市長盧秀燕與蔣萬安之妻石舫亘7日晚間出席松山奉天宮平安福宴，共120桌逐桌致意，為蔣萬安拜票。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611070211.aspx"
+    },
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9864177"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-taipei-2",
+   "date": "2026-11-07",
+   "raceId": "taipei",
+   "title": "沈伯洋公布內湖南港四項政見",
+   "summary": "沈伯洋11月7日在內湖、南港活動中公布政見，內容包括釋出公立幼兒園閒置空間、興建自行車橋、推動錯峰上班，以及規劃三條文化徑。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633209"
+    }
+   ]
+  },
+  {
    "id": "2026-11-07-taipei-1",
    "date": "2026-11-07",
    "raceId": "taipei",
@@ -61,6 +128,35 @@
     {
      "name": "聯合報",
      "url": "https://udn.com/news/story/124652/9864131"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-new-taipei-2",
+   "date": "2026-11-07",
+   "raceId": "new-taipei",
+   "title": "卓榮泰板橋晚會為蘇巧慧站台",
+   "summary": "行政院長卓榮泰7日晚間在板橋為蘇巧慧站台，表示希望民進黨議員參選人多數當選，讓蘇巧慧推動市政較為順利。李四川事後回應卓榮泰的發言。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611070209.aspx"
+    },
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9864272"
     }
    ]
   },
