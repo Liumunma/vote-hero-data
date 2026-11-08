@@ -1899,5 +1899,51 @@
    }
   ],
   "id": "2026-11-07-yunlin-1"
+ },
+ {
+  "date": "2026-11-08",
+  "raceId": "chiayi-county",
+  "title": "嘉義縣長參選人朴子各辦活動",
+  "summary": "蔡易餘在朴子市舉辦造勢活動，沈伯洋以視訊方式站台。吳品叡則在朴子市鎮安宮參拜，與韓國瑜沿街掃街前往競選總部。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "chiayi-county-1"
+   },
+   {
+    "candidateId": "chiayi-county-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633377"
+   }
+  ],
+  "id": "2026-11-08-chiayi-county-1"
+ },
+ {
+  "date": "2026-11-08",
+  "raceId": "kaohsiung",
+  "title": "賴瑞隆與柯志恩分赴市場拜訪",
+  "summary": "賴瑞隆偕議員訪左營哈囉市場，柯志恩走訪苓雅國民市場，兩人都與攤商直接互動。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-3"
+   },
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633361"
+   }
+  ],
+  "id": "2026-11-08-kaohsiung-1"
  }
 ]
