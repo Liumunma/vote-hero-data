@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T13:03:07+08:00",
+ "updatedAt": "2026-11-09T20:04:00+08:00",
  "events": [
   {
    "id": "2026-11-09-yunlin-1",
@@ -52,6 +52,52 @@
    ]
   },
   {
+   "id": "2026-11-09-taichung-2",
+   "date": "2026-11-09",
+   "raceId": "taichung",
+   "title": "何欣純車隊掃街 江啟臣妻赴市場",
+   "summary": "何欣純9日在中區、西區、北區車隊掃街。石舫亘與劉姿伶同日在北屯、潭子兩處市場為江啟臣拜票。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611090220.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-taichung-1",
+   "date": "2026-11-09",
+   "raceId": "taichung",
+   "title": "江啟臣出席水湳空橋開工 談場館串聯",
+   "summary": "江啟臣9日出席水湳立體空橋開工典禮，表示空橋是起點，未來可能繼續延伸，串聯場館與整個大台中。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5634727"
+    }
+   ]
+  },
+  {
    "id": "2026-11-09-nantou-1",
    "date": "2026-11-09",
    "raceId": "nantou",
@@ -98,6 +144,69 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5634299"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-kaohsiung-2",
+   "date": "2026-11-09",
+   "raceId": "kaohsiung",
+   "title": "柯志恩推出第2則競選廣告",
+   "summary": "柯志恩9日推出第2則競選廣告，以街頭日常場景呈現，競選主軸為夢想海港，世界雄心。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611090085.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-kaohsiung-1",
+   "date": "2026-11-09",
+   "raceId": "kaohsiung",
+   "title": "賴瑞隆提左營科技門戶規劃",
+   "summary": "賴瑞隆在左營後援會成立大會提出，結合國家校際人才中心、左營高鐵科技之心與捷運紫線，推動1機場、3中心的產業布局。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611090084.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-changhua-1",
+   "date": "2026-11-09",
+   "raceId": "changhua",
+   "title": "魏平政提產業轉型政見",
+   "summary": "魏平政9日舉行記者會提出產業轉型政見，內容包括AI設計加彰化製造、中科二林園區定位，以及招商引資單一服務窗口。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "changhua-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611090094.aspx"
     }
    ]
   },
