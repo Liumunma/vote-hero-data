@@ -1,6 +1,106 @@
 {
- "updatedAt": "2026-11-09T08:03:22+08:00",
+ "updatedAt": "2026-11-09T13:03:07+08:00",
  "events": [
+  {
+   "id": "2026-11-09-yunlin-1",
+   "date": "2026-11-09",
+   "raceId": "yunlin",
+   "title": "雲林縣長公辦政見發表會錄影",
+   "summary": "雲林縣選委會舉辦縣長選舉公辦政見發表會錄影。張嘉郡提出調高老農津貼、青年創業加碼1億元等政見，劉建國就雲林建設與債務表達看法。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yunlin-2",
+     "delta": null
+    },
+    {
+     "candidateId": "yunlin-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611090076.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-taipei-1",
+   "date": "2026-11-09",
+   "raceId": "taipei",
+   "title": "沈伯洋提文化幣加碼 蔣萬安回應",
+   "summary": "沈伯洋主張臺北市加碼文化幣，並把適用年齡延伸至30歲。蔣萬安回應表示，沈伯洋在立法院可以趕快來推動。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    },
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611090078.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-nantou-1",
+   "date": "2026-11-09",
+   "raceId": "nantou",
+   "title": "許淑華規劃選前一週車隊掃街",
+   "summary": "許淑華表示，規劃在選前最後一週以車隊掃街，走訪全縣13鄉鎮市拜票，期間仍持續掌握縣政運作。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "nantou-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5634338"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-keelung-1",
+   "date": "2026-11-09",
+   "raceId": "keelung",
+   "title": "童子瑋與謝國樑11月10日辯論",
+   "summary": "基隆市長候選人童子瑋與謝國樑將於11月10日在網路直播辯論，由匯流新聞網主辦。童子瑋表示要讓市民清楚基隆的未來藍圖，謝國樑表示將報告4年施政成果與未來規劃。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "keelung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "keelung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611090081.aspx"
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5634299"
+    }
+   ]
+  },
   {
    "id": "2026-11-08-taichung-1",
    "date": "2026-11-08",
@@ -182,6 +282,31 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611080165.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-chiayi-county-2",
+   "date": "2026-11-08",
+   "raceId": "chiayi-county",
+   "title": "沈伯洋視訊助選蔡易餘 韓國瑜挺吳品叡",
+   "summary": "沈伯洋以視訊方式為蔡易餘助選，談縣市合作。立法院長韓國瑜赴嘉義縣朴子市，與吳品叡及支持者步行至競選總部並致詞。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-county-1",
+     "delta": null
+    },
+    {
+     "candidateId": "chiayi-county-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611080126.aspx"
     }
    ]
   },
