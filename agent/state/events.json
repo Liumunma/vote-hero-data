@@ -1664,6 +1664,26 @@
  },
  {
   "date": "2026-11-07",
+  "raceId": "hsinchu-county",
+  "title": "鄭朝方竹東辦親子派對 提雙軸發展",
+  "summary": "鄭朝方在竹東二重埔公五公園出席親子派對，表示將規劃公園綠地與兒童遊戲場，並提出竹北、竹東雙軸發展的主張。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "hsinchu-county-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/paper/1777808"
+   }
+  ],
+  "id": "2026-11-07-hsinchu-county-1"
+ },
+ {
+  "date": "2026-11-07",
   "raceId": "kaohsiung",
   "title": "柯志恩旗山大會 蔣萬安到場助講",
   "summary": "柯志恩在旗山舉辦大會，台北市長蔣萬安南下出席。柯志恩提出北高連線，並表示當選後將成立高高平等辦公室。",
@@ -1965,6 +1985,29 @@
    }
   ],
   "id": "2026-11-08-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-08",
+  "raceId": "kaohsiung",
+  "title": "賴瑞隆赴左營哈囉市場拜訪採買",
+  "summary": "賴瑞隆到左營區哈囉市場拜訪民眾並採買蔬菜，表示自己出身菜市場；柯志恩表示大家都會走訪較不熟悉的地方。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-5"
+   },
+   {
+    "candidateId": "kaohsiung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/paper/1777820"
+   }
+  ],
+  "id": "2026-11-08-kaohsiung-2"
  },
  {
   "date": "2026-11-08",
