@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-11-10T08:02:49+08:00",
+ "updatedAt": "2026-11-10T13:03:25+08:00",
  "events": [
+  {
+   "id": "2026-11-10-new-taipei-2",
+   "date": "2026-11-10",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧出席耕莘醫院大樓動土典禮",
+   "summary": "民進黨參選人蘇巧慧出席新店耕莘醫院醫療大樓動土典禮，表示會做醫事人員的後盾，並提到改善醫療量能、支持智慧醫療與減輕行政負擔。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635484"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-new-taipei-1",
+   "date": "2026-11-10",
+   "raceId": "new-taipei",
+   "title": "李四川出席耕莘動土 提五大醫療建設",
+   "summary": "國民黨參選人李四川與新北市長侯友宜出席耕莘醫院醫療大樓動土典禮，李四川提出五大醫療建設，包括興建蘆洲醫院、加速板橋醫療園區、推動淡海新市鎮醫院、擴充土城醫療園區。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635468"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-hsinchu-county-1",
+   "date": "2026-11-10",
+   "raceId": "hsinchu-county",
+   "title": "鄭朝方提竹縣好市 規劃13鄉鎮市集",
+   "summary": "民進黨參選人鄭朝方提出竹縣好市政見，盤點公共空間規劃常態地景市集，優先評估竹東火車站周邊、竹北與新豐濱海空間，並提供品牌輔導與招商媒合。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-county-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635455"
+    }
+   ]
+  },
   {
    "id": "2026-11-09-yunlin-2",
    "date": "2026-11-09",
