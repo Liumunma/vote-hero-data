@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-09T20:04:00+08:00",
+ "updatedAt": "2026-11-10T08:02:49+08:00",
  "events": [
+  {
+   "id": "2026-11-09-yunlin-2",
+   "date": "2026-11-09",
+   "raceId": "yunlin",
+   "title": "劉建國六師後援會成立 張嘉郡斗六掃街",
+   "summary": "劉建國舉行全國六師後援會成立大會，由邱泰源擔任總召集人；張嘉郡與黃尤美同日在斗六黃昏市場掃街，表示將延續斗六建設。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yunlin-2",
+     "delta": null
+    },
+    {
+     "candidateId": "yunlin-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611090228.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-09-yunlin-1",
    "date": "2026-11-09",
