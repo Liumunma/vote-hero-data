@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-10T13:03:25+08:00",
+ "updatedAt": "2026-11-10T20:03:33+08:00",
  "events": [
+  {
+   "id": "2026-11-10-yilan-1",
+   "date": "2026-11-10",
+   "raceId": "yilan",
+   "title": "賴清德赴宜蘭為林國漳輔選",
+   "summary": "賴清德10日走訪壯圍、員山、羅東與宜蘭市廟宇，為民進黨參選人林國漳輔選，提到高鐵延伸宜蘭案與宜蘭至羅東鐵路高架化計畫已核定。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yilan-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611100303.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-penghu-1",
+   "date": "2026-11-10",
+   "raceId": "penghu",
+   "title": "周倪安提澎湖農業政見",
+   "summary": "台聯黨參選人周倪安提出荒地代管復耕辦法，並主張爭取澎湖科技大學升格為台灣大學澎湖分校、增設農業經濟學院，目標培養八百名農業人才。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "penghu-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611100294.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-10-new-taipei-2",
    "date": "2026-11-10",
@@ -44,6 +86,52 @@
    ]
   },
   {
+   "id": "2026-11-10-keelung-1",
+   "date": "2026-11-10",
+   "raceId": "keelung",
+   "title": "基隆市長網路辯論 交鋒捷運路線",
+   "summary": "謝國樑與童子瑋在網路直播辯論會中，針對基隆捷運第2階段路線交叉詰問。謝國樑主張台鐵不退場、捷運經安樂區延伸；童子瑋表示將以台鐵路廊雙軌共構，任內不拆台鐵。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "keelung-3",
+     "delta": null
+    },
+    {
+     "candidateId": "keelung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611100199.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-hualien-1",
+   "date": "2026-11-10",
+   "raceId": "hualien",
+   "title": "蕭美琴花蓮贈扁擔予張峻",
+   "summary": "蕭美琴在花蓮吉安鄉將扁擔贈予無黨籍參選人張峻，表示「希望花蓮這個特殊而且珍貴的地方，大家要共同的來守護，所以今天在這裡，一起把政黨擺兩邊，花蓮擺中間。」",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hualien-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611100296.aspx"
+    }
+   ]
+  },
+  {
    "id": "2026-11-10-hsinchu-county-1",
    "date": "2026-11-10",
    "raceId": "hsinchu-county",
@@ -61,6 +149,27 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635455"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-hsinchu-city-1",
+   "date": "2026-11-10",
+   "raceId": "hsinchu-city",
+   "title": "林右昌陪莊競程新竹車掃",
+   "summary": "前內政部長林右昌10日在新竹市陪同民進黨參選人莊競程車掃，表示願分享基隆市長與內政部長任內經驗；莊競程說希望重新啟動新竹的建設。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-city-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611100284.aspx"
     }
    ]
   },
