@@ -2519,5 +2519,25 @@
    }
   ],
   "id": "2026-11-10-yilan-1"
+ },
+ {
+  "date": "2026-11-10",
+  "raceId": "yunlin",
+  "title": "張嘉郡出席四大國際社團後援會成立",
+  "summary": "張嘉郡出席四大國際社團後援會成立大會，並表示若當選將捐出依法領取的選舉補助款，用於監護兒少照顧，例如為每位監護兒少準備5萬元定存。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "yunlin-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611100253.aspx"
+   }
+  ],
+  "id": "2026-11-10-yunlin-1"
  }
 ]
