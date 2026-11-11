@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-11T13:03:18+08:00",
+ "updatedAt": "2026-11-11T20:03:16+08:00",
  "events": [
+  {
+   "id": "2026-11-11-yunlin-1",
+   "date": "2026-11-11",
+   "raceId": "yunlin",
+   "title": "劉建國提高齡醫療與失智照護規劃",
+   "summary": "劉建國11日表示，將整合國家高齡中心與臺大雲林分院虎尾院區二期等資源，打造醫療照護產業園區，並推動失智症資料庫與早期篩檢。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yunlin-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637470"
+    }
+   ]
+  },
   {
    "id": "2026-11-11-taoyuan-1",
    "date": "2026-11-11",
@@ -69,6 +90,52 @@
    ]
   },
   {
+   "id": "2026-11-11-taichung-2",
+   "date": "2026-11-11",
+   "raceId": "taichung",
+   "title": "何欣純提潭雅神新政 江啟臣與韓國瑜掃街",
+   "summary": "何欣純11日提出潭雅神新政，內容含神岡豐洲科技工業園區二期、機場捷運橘線與豐科軸線、公共托育與一里一活動中心。江啟臣同日與韓國瑜在霧峰、大里拜票掃街。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611110294.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-taichung-1",
+   "date": "2026-11-11",
+   "raceId": "taichung",
+   "title": "江啟臣成立律師後援會 約30位律師到場",
+   "summary": "江啟臣11日車隊掃街後，在競選總部舉行律師後援會成立大會，約有30位律師到場，並成立上百人的律師顧問團。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637504"
+    }
+   ]
+  },
+  {
    "id": "2026-11-11-hsinchu-county-1",
    "date": "2026-11-11",
    "raceId": "hsinchu-county",
@@ -86,6 +153,27 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636775"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-chiayi-city-1",
+   "date": "2026-11-11",
+   "raceId": "chiayi-city",
+   "title": "王美惠15日晚辦造勢晚會 邀蔡英文等助講",
+   "summary": "王美惠11日表示，15日晚間在公明路、啟明路口舉辦造勢晚會，邀請蔡英文、蕭美琴、卓榮泰、劉世芳站台，並提出AI交通、長照與智慧防災等政見。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-city-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611110206.aspx"
     }
    ]
   },
@@ -216,6 +304,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611100199.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-kaohsiung-1",
+   "date": "2026-11-10",
+   "raceId": "kaohsiung",
+   "title": "賴瑞隆與社工團體座談 提五大面向承諾",
+   "summary": "賴瑞隆10日晚間出席高雄市社工工會與社工師公會的座談並簽署承諾書，提出待遇、行政減壓、專業保障、執業安全與制度參與五大面向。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611110189.aspx"
     }
    ]
   },
