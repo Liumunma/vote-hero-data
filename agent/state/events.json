@@ -2539,5 +2539,89 @@
    }
   ],
   "id": "2026-11-10-yunlin-1"
+ },
+ {
+  "date": "2026-11-11",
+  "raceId": "hsinchu-county",
+  "title": "鄭朝方提公共鋼琴 擴大全縣13鄉鎮市",
+  "summary": "鄭朝方提出在新竹縣適合地點設置公共鋼琴，作為居民表演的舞台，並規劃把竹北經驗推廣到全縣13個鄉鎮市。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "hsinchu-county-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636775"
+   }
+  ],
+  "id": "2026-11-11-hsinchu-county-1"
+ },
+ {
+  "date": "2026-11-11",
+  "raceId": "taipei",
+  "title": "沈伯洋表示12日起請假投入競選",
+  "summary": "沈伯洋表示將自11月12日起請假，希望選前有更多時間走訪基層。他並提到14日將出席公開政見論壇，說明自己的政見。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611110065.aspx"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9871563"
+   }
+  ],
+  "id": "2026-11-11-taipei-1"
+ },
+ {
+  "date": "2026-11-11",
+  "raceId": "taipei",
+  "title": "蔣萬安12日起請假 說明市政運作",
+  "summary": "蔣萬安表示將自11月12日起請假投入競選，市政團隊持續留守崗位。他也提到14日北市首場公辦電視辯論，會說明過去四年成果與未來規劃。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611110097.aspx"
+   }
+  ],
+  "id": "2026-11-11-taipei-2"
+ },
+ {
+  "date": "2026-11-11",
+  "raceId": "taoyuan",
+  "title": "張善政宣布12日起請假衝刺競選",
+  "summary": "張善政在市議會表示將自11月12日起請假參選，並說明市府由副市長等人持續運作，已承諾的政策與建設會持續推進。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taoyuan-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636809"
+   }
+  ],
+  "id": "2026-11-11-taoyuan-1"
  }
 ]
