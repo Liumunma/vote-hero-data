@@ -2602,6 +2602,26 @@
  },
  {
   "date": "2026-11-11",
+  "raceId": "penghu",
+  "title": "楊曜陪吳淑瑾展開澎湖全島掃街",
+  "summary": "已宣布不再參選公職的立委楊曜，11日起陪同民進黨澎湖縣長參選人吳淑瑾掃街拜票。吳淑瑾表示，醫療、交通補助、基礎建設與觀光發展需要中央與地方配合。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "penghu-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611110325.aspx"
+   }
+  ],
+  "id": "2026-11-11-penghu-1"
+ },
+ {
+  "date": "2026-11-11",
   "raceId": "taichung",
   "title": "江啟臣成立律師後援會 約30位律師到場",
   "summary": "江啟臣11日車隊掃街後，在競選總部舉行律師後援會成立大會，約有30位律師到場，並成立上百人的律師顧問團。",

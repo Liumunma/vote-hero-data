@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T20:03:16+08:00",
+ "updatedAt": "2026-11-12T08:03:14+08:00",
  "events": [
   {
    "id": "2026-11-11-yunlin-1",
@@ -132,6 +132,27 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637504"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-penghu-1",
+   "date": "2026-11-11",
+   "raceId": "penghu",
+   "title": "楊曜陪吳淑瑾展開澎湖全島掃街",
+   "summary": "已宣布不再參選公職的立委楊曜，11日起陪同民進黨澎湖縣長參選人吳淑瑾掃街拜票。吳淑瑾表示，醫療、交通補助、基礎建設與觀光發展需要中央與地方配合。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "penghu-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611110325.aspx"
     }
    ]
   },
