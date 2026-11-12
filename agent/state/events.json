@@ -2746,5 +2746,88 @@
    }
   ],
   "id": "2026-11-11-yunlin-1"
+ },
+ {
+  "date": "2026-11-12",
+  "raceId": "chiayi-city",
+  "title": "張啓楷邀張善政為社宅政見說明",
+  "summary": "嘉義市長參選人張啓楷邀桃園市長張善政到競選總部，就「嘉義好嘉宅」社宅政見說明，張善政介紹桃園的可負擔住宅制度。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "chiayi-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611120242.aspx"
+   }
+  ],
+  "id": "2026-11-12-chiayi-city-1"
+ },
+ {
+  "date": "2026-11-12",
+  "raceId": "kaohsiung",
+  "title": "賴瑞隆競總推3D互動政見地圖",
+  "summary": "賴瑞隆競選總部推出「大港政策島」互動政見地圖，整合21項主題政見與11個選區的在地建設，並標示捷運與輕軌路線。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611120194.aspx"
+   }
+  ],
+  "id": "2026-11-12-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-12",
+  "raceId": "taipei",
+  "title": "沈伯洋提市民大道政策 蔣萬安回應",
+  "summary": "沈伯洋公布「城市縫合-點亮市民大道」政策，規劃三處模擬基地。蔣萬安受訪表示，市府最優先考慮市民大道的安全與交通通勤。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   },
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9875158"
+   }
+  ],
+  "id": "2026-11-12-taipei-1"
+ },
+ {
+  "date": "2026-11-12",
+  "raceId": "taitung",
+  "title": "陳瑩提親子與教育政見",
+  "summary": "台東縣長參選人陳瑩提出一鄉鎮一公托、育兒彈性工時、AI學習工具與偏鄉教師住宿改善等親子及教育政見。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "taitung-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9874948"
+   }
+  ],
+  "id": "2026-11-12-taitung-1"
  }
 ]

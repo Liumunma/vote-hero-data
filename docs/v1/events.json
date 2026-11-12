@@ -1,6 +1,94 @@
 {
- "updatedAt": "2026-11-12T13:03:03+08:00",
+ "updatedAt": "2026-11-12T20:03:13+08:00",
  "events": [
+  {
+   "id": "2026-11-12-taitung-1",
+   "date": "2026-11-12",
+   "raceId": "taitung",
+   "title": "陳瑩提親子與教育政見",
+   "summary": "台東縣長參選人陳瑩提出一鄉鎮一公托、育兒彈性工時、AI學習工具與偏鄉教師住宿改善等親子及教育政見。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taitung-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9874948"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-taipei-1",
+   "date": "2026-11-12",
+   "raceId": "taipei",
+   "title": "沈伯洋提市民大道政策 蔣萬安回應",
+   "summary": "沈伯洋公布「城市縫合-點亮市民大道」政策，規劃三處模擬基地。蔣萬安受訪表示，市府最優先考慮市民大道的安全與交通通勤。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    },
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9875158"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-kaohsiung-1",
+   "date": "2026-11-12",
+   "raceId": "kaohsiung",
+   "title": "賴瑞隆競總推3D互動政見地圖",
+   "summary": "賴瑞隆競選總部推出「大港政策島」互動政見地圖，整合21項主題政見與11個選區的在地建設，並標示捷運與輕軌路線。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611120194.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-chiayi-city-1",
+   "date": "2026-11-12",
+   "raceId": "chiayi-city",
+   "title": "張啓楷邀張善政為社宅政見說明",
+   "summary": "嘉義市長參選人張啓楷邀桃園市長張善政到競選總部，就「嘉義好嘉宅」社宅政見說明，張善政介紹桃園的可負擔住宅制度。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-city-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611120242.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-11-yunlin-1",
    "date": "2026-11-11",
@@ -2658,106 +2746,6 @@
     {
      "name": "公視",
      "url": "https://news.pts.org.tw/article/833196"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-27-tainan-1",
-   "date": "2026-10-27",
-   "raceId": "tainan",
-   "title": "謝龍介再邀辯論 陳亭妃推AI政見影片",
-   "summary": "台南市長號次抽出後，謝龍介由競辦代抽2號，並在永康車掃時再度邀對手公開辯論；陳亭妃抽中3號，推出AI政見影片與政見網站。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "tainan-2",
-     "delta": null
-    },
-    {
-     "candidateId": "tainan-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/Tainan/paper/1776261"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-27-new-taipei-1",
-   "date": "2026-10-27",
-   "raceId": "new-taipei",
-   "title": "AI產業廊帶政見 蘇李兩陣營交鋒",
-   "summary": "蘇巧慧提出串聯北投士林、內湖、南港園區的AI產業廊帶並結合淡海科學城；李四川陣營稱淡海科學城為其先提出，批對方缺交通與產業配套，蘇巧慧回應兩者路線不同。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    },
-    {
-     "candidateId": "new-taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9838330"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-27-chiayi-city-1",
-   "date": "2026-10-27",
-   "raceId": "chiayi-city",
-   "title": "張啓楷抽籤現場邀辯 王美惠稱尊重",
-   "summary": "嘉義市長號次抽籤，張啓楷抽中3號、王美惠4號。張啓楷在抽籤前後當面邀王美惠辯論，王美惠未正面回應，僅表示尊重；場外兩方支持者由警方隔開。",
-   "category": "debate",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "chiayi-city-3",
-     "delta": null
-    },
-    {
-     "candidateId": "chiayi-city-4",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9839295"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-26-taichung-1",
-   "date": "2026-10-26",
-   "raceId": "taichung",
-   "title": "何欣純提青年局 江啟臣推校園安全",
-   "summary": "何欣純在大里青年座談提出設青年局等七項青年政策；江啟臣在大肚政見會提出每年至少10億元改善老舊校舍與校園安全，並提帶狀疱疹疫苗補助與敬老卡點數年度結算。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-1",
-     "delta": null
-    },
-    {
-     "candidateId": "taichung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610260237.aspx"
     }
    ]
   }
