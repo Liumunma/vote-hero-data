@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-13T13:02:56+08:00",
+ "updatedAt": "2026-11-13T20:03:14+08:00",
  "events": [
+  {
+   "id": "2026-11-13-taoyuan-1",
+   "date": "2026-11-13",
+   "raceId": "taoyuan",
+   "title": "黃世杰與沈伯洋中壢聯合車掃",
+   "summary": "桃園市長候選人黃世杰與臺北市長候選人沈伯洋13日晚間在中壢區車隊掃街。沈伯洋表示北北基桃是同一個生活圈，希望交通、居民照顧等政策標準更一致。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taoyuan-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611130265.aspx"
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5639995"
+    }
+   ]
+  },
   {
    "id": "2026-11-13-taipei-1",
    "date": "2026-11-13",
@@ -2713,31 +2738,6 @@
     {
      "name": "公視",
      "url": "https://news.pts.org.tw/article/833431"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-28-tainan-1",
-   "date": "2026-10-28",
-   "raceId": "tainan",
-   "title": "謝龍介提婚育宅 陳亭妃質疑可行性",
-   "summary": "謝龍介提出「你生孩子我供房子」，以每坪15萬元成本價依子女數申購婚育宅；陳亭妃質疑其財源與預算法限制，主張福利比照其他五都並完善托育。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "tainan-2",
-     "delta": null
-    },
-    {
-     "candidateId": "tainan-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "三立新聞",
-     "url": "https://setn.com/news/1928854"
     }
    ]
   }

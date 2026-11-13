@@ -2938,5 +2938,29 @@
    }
   ],
   "id": "2026-11-13-taipei-1"
+ },
+ {
+  "date": "2026-11-13",
+  "raceId": "taoyuan",
+  "title": "黃世杰與沈伯洋中壢聯合車掃",
+  "summary": "桃園市長候選人黃世杰與臺北市長候選人沈伯洋13日晚間在中壢區車隊掃街。沈伯洋表示北北基桃是同一個生活圈，希望交通、居民照顧等政策標準更一致。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taoyuan-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611130265.aspx"
+   },
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5639995"
+   }
+  ],
+  "id": "2026-11-13-taoyuan-1"
  }
 ]
