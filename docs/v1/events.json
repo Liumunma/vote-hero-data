@@ -1,6 +1,77 @@
 {
- "updatedAt": "2026-11-13T08:03:05+08:00",
+ "updatedAt": "2026-11-13T13:02:56+08:00",
  "events": [
+  {
+   "id": "2026-11-13-taipei-1",
+   "date": "2026-11-13",
+   "raceId": "taipei",
+   "title": "蔣萬安與韓國瑜邀市民參加14日遊行",
+   "summary": "蔣萬安與立法院長韓國瑜、國民黨立委在立法院召開記者會，邀請市民參加14日下午2時集結的安心大遊行，分南北兩路前往市府路。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611130084.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-13-new-taipei-1",
+   "date": "2026-11-13",
+   "raceId": "new-taipei",
+   "title": "新北市長政見發表會 三位候選人陳述",
+   "summary": "新北市長電視政見發表會13日舉行，蘇巧慧提出都更局、智慧交通與口袋公園，李四川提出都更推動委員會、AI科技產業廊道與蘆生大橋，蘇輝湟談民生與生育議題。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-2",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611130087.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-13-changhua-1",
+   "date": "2026-11-13",
+   "raceId": "changhua",
+   "title": "魏平政公布三項福利政見",
+   "summary": "魏平政在國民黨中央黨部記者會提出65歲以上及6歲以下免繳健保費、農漁會長青幸福卡折抵額度提高到500元，並承諾每年加發65歲以上長者每人1萬元敬老金。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "changhua-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611130112.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-12-yunlin-1",
    "date": "2026-11-12",
@@ -2667,85 +2738,6 @@
     {
      "name": "三立新聞",
      "url": "https://setn.com/news/1928854"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-28-new-taipei-1",
-   "date": "2026-10-28",
-   "raceId": "new-taipei",
-   "title": "蔡英文侯友宜分別陪同掃街拜廟",
-   "summary": "28日蔡英文陪蘇巧慧參拜蘆洲湧蓮寺等廟宇，稱盼她成為新北首位女市長；侯友宜陪李四川在板橋首度街頭拜票，李四川同日提出長照支持方案。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    },
-    {
-     "candidateId": "new-taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9843435"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-28-keelung-1",
-   "date": "2026-10-28",
-   "raceId": "keelung",
-   "title": "童子瑋謝國樑敲定11月10日辯論",
-   "summary": "基隆市長候選人童子瑋與謝國樑經主持人協調，敲定11月10日中午舉行網路直播辯論。雙方先前對11月4日場次是否說定各有說法。",
-   "category": "debate",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "keelung-1",
-     "delta": null
-    },
-    {
-     "candidateId": "keelung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "NOWnews",
-     "url": "https://www.nownews.com/news/6887126"
-    },
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9843431"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-28-kaohsiung-1",
-   "date": "2026-10-28",
-   "raceId": "kaohsiung",
-   "title": "高雄首辯前 柯志恩質疑賴瑞隆迴避",
-   "summary": "高雄市長首場電視辯論訂30日晚間舉行。柯志恩稱賴瑞隆先前不願同台、接受辯論是被迫，並調侃其造勢造型；報導未見賴瑞隆回應。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-3",
-     "delta": null
-    },
-    {
-     "candidateId": "kaohsiung-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9843181"
     }
    ]
   }

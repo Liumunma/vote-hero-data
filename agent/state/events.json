@@ -2872,5 +2872,71 @@
    }
   ],
   "id": "2026-11-12-yunlin-1"
+ },
+ {
+  "date": "2026-11-13",
+  "raceId": "changhua",
+  "title": "魏平政公布三項福利政見",
+  "summary": "魏平政在國民黨中央黨部記者會提出65歲以上及6歲以下免繳健保費、農漁會長青幸福卡折抵額度提高到500元，並承諾每年加發65歲以上長者每人1萬元敬老金。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "changhua-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611130112.aspx"
+   }
+  ],
+  "id": "2026-11-13-changhua-1"
+ },
+ {
+  "date": "2026-11-13",
+  "raceId": "new-taipei",
+  "title": "新北市長政見發表會 三位候選人陳述",
+  "summary": "新北市長電視政見發表會13日舉行，蘇巧慧提出都更局、智慧交通與口袋公園，李四川提出都更推動委員會、AI科技產業廊道與蘆生大橋，蘇輝湟談民生與生育議題。",
+  "category": "debate",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   },
+   {
+    "candidateId": "new-taipei-2"
+   },
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611130087.aspx"
+   }
+  ],
+  "id": "2026-11-13-new-taipei-1"
+ },
+ {
+  "date": "2026-11-13",
+  "raceId": "taipei",
+  "title": "蔣萬安與韓國瑜邀市民參加14日遊行",
+  "summary": "蔣萬安與立法院長韓國瑜、國民黨立委在立法院召開記者會，邀請市民參加14日下午2時集結的安心大遊行，分南北兩路前往市府路。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611130084.aspx"
+   }
+  ],
+  "id": "2026-11-13-taipei-1"
  }
 ]
