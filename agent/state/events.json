@@ -2769,6 +2769,29 @@
  },
  {
   "date": "2026-11-12",
+  "raceId": "hualien",
+  "title": "花蓮縣長參選人游淑貞、魏嘉賢各提政策",
+  "summary": "游淑貞在玉里表示，將結合宗教文化、自行車道、地方產業與觀光。魏嘉賢在東華大學青年座談提出，擴大縣府青年諮詢機制，納入各大專院校推薦的青年代表。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "hualien-3"
+   },
+   {
+    "candidateId": "hualien-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+   }
+  ],
+  "id": "2026-11-12-hualien-1"
+ },
+ {
+  "date": "2026-11-12",
   "raceId": "kaohsiung",
   "title": "賴瑞隆競總推3D互動政見地圖",
   "summary": "賴瑞隆競選總部推出「大港政策島」互動政見地圖，整合21項主題政見與11個選區的在地建設，並標示捷運與輕軌路線。",
@@ -2829,5 +2852,25 @@
    }
   ],
   "id": "2026-11-12-taitung-1"
+ },
+ {
+  "date": "2026-11-12",
+  "raceId": "yunlin",
+  "title": "張善政南下雲林 與張嘉郡談雙城科技",
+  "summary": "張善政請假首日南下雲林，在斗南與張嘉郡車隊掃街，雙方談桃園與雲林的雙城科技合作。張嘉郡規劃電動車、半導體供應鏈、AI智慧製造、無人機及智慧物流等5大領域交流。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "yunlin-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611120302.aspx"
+   }
+  ],
+  "id": "2026-11-12-yunlin-1"
  }
 ]

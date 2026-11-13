@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-12T20:03:13+08:00",
+ "updatedAt": "2026-11-13T08:03:05+08:00",
  "events": [
+  {
+   "id": "2026-11-12-yunlin-1",
+   "date": "2026-11-12",
+   "raceId": "yunlin",
+   "title": "張善政南下雲林 與張嘉郡談雙城科技",
+   "summary": "張善政請假首日南下雲林，在斗南與張嘉郡車隊掃街，雙方談桃園與雲林的雙城科技合作。張嘉郡規劃電動車、半導體供應鏈、AI智慧製造、無人機及智慧物流等5大領域交流。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yunlin-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611120302.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-12-taitung-1",
    "date": "2026-11-12",
@@ -65,6 +86,31 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611120194.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-hualien-1",
+   "date": "2026-11-12",
+   "raceId": "hualien",
+   "title": "花蓮縣長參選人游淑貞、魏嘉賢各提政策",
+   "summary": "游淑貞在玉里表示，將結合宗教文化、自行車道、地方產業與觀光。魏嘉賢在東華大學青年座談提出，擴大縣府青年諮詢機制，納入各大專院校推薦的青年代表。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hualien-3",
+     "delta": null
+    },
+    {
+     "candidateId": "hualien-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611120320.aspx"
     }
    ]
   },
@@ -2700,52 +2746,6 @@
     {
      "name": "聯合報",
      "url": "https://udn.com/news/story/124652/9843181"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-28-changhua-1",
-   "date": "2026-10-28",
-   "raceId": "changhua",
-   "title": "陳素月缺席健保表決 遭魏平政質疑",
-   "summary": "魏平政在和美造勢質疑陳素月未出席長者免繳健保費法案表決；陳素月回應該案未經委員會審查即逕付二讀，違反民主程序，當選後將在財政可負擔範圍推動。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "changhua-1",
-     "delta": null
-    },
-    {
-     "candidateId": "changhua-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9843052"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-27-taipei-1",
-   "date": "2026-10-27",
-   "raceId": "taipei",
-   "title": "沈伯洋發表五冊政策白皮書",
-   "summary": "沈伯洋發表「洋流誌」五本政策白皮書，涵蓋市政與城市外交、交通、育兒、都更、勞動經濟，並與創作者合作呈現；蔣萬安則表示將掃街並寄送市政成果文宣。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "公視",
-     "url": "https://news.pts.org.tw/article/833196"
     }
    ]
   }
