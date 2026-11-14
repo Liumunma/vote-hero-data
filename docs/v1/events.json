@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T20:03:14+08:00",
+ "updatedAt": "2026-11-14T08:03:02+08:00",
  "events": [
   {
    "id": "2026-11-13-taoyuan-1",
@@ -44,6 +44,52 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611130084.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-13-taichung-1",
+   "date": "2026-11-13",
+   "raceId": "taichung",
+   "title": "江啟臣屯區造勢 盧秀燕到場",
+   "summary": "江啟臣13日晚間在台中市太平區舉辦屯區造勢晚會，表示將延續盧秀燕施政，包括興建社會住宅、照顧長輩與補助健保費。魏平政提出與台中、南投合組跨縣市治理平台。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611130304.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-13-new-taipei-2",
+   "date": "2026-11-13",
+   "raceId": "new-taipei",
+   "title": "朱立倫陪李四川新莊車掃",
+   "summary": "前新北市長朱立倫13日陪同李四川在新莊區從鳳山宮出發車隊掃街。蘇巧慧當天到板橋重慶黃昏市場掃街，團隊預告14日晚間在新莊舉辦大型造勢。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611130295.aspx"
     }
    ]
   },
@@ -2684,60 +2730,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623215"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-28-taoyuan-1",
-   "date": "2026-10-28",
-   "raceId": "taoyuan",
-   "title": "黃世杰提馬祖聯絡處 張善政談大溪交通",
-   "summary": "黃世杰28日赴馬祖，提出設桃園駐馬祖聯絡處、由市長主持交流專案；張善政在大溪成立後援會，提出號誌智慧化、第三座橋與捷運綠線延伸的分階段交通方案。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taoyuan-1",
-     "delta": null
-    },
-    {
-     "candidateId": "taoyuan-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9843425"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-28-taipei-1",
-   "date": "2026-10-28",
-   "raceId": "taipei",
-   "title": "蔣萬安身體不適 取消隔日預排行程",
-   "summary": "蔣萬安28日晚間在士林天母三玉宮拜票後身體不適，競辦宣布取消29日所有預排行程，以休養並準備31日電視辯論，29日由妻子石舫亘代為掃街。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202610280338.aspx"
-    },
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5622009"
-    },
-    {
-     "name": "公視",
-     "url": "https://news.pts.org.tw/article/833431"
     }
    ]
   }

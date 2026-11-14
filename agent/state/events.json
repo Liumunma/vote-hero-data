@@ -2921,6 +2921,49 @@
  },
  {
   "date": "2026-11-13",
+  "raceId": "new-taipei",
+  "title": "朱立倫陪李四川新莊車掃",
+  "summary": "前新北市長朱立倫13日陪同李四川在新莊區從鳳山宮出發車隊掃街。蘇巧慧當天到板橋重慶黃昏市場掃街，團隊預告14日晚間在新莊舉辦大型造勢。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   },
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611130295.aspx"
+   }
+  ],
+  "id": "2026-11-13-new-taipei-2"
+ },
+ {
+  "date": "2026-11-13",
+  "raceId": "taichung",
+  "title": "江啟臣屯區造勢 盧秀燕到場",
+  "summary": "江啟臣13日晚間在台中市太平區舉辦屯區造勢晚會，表示將延續盧秀燕施政，包括興建社會住宅、照顧長輩與補助健保費。魏平政提出與台中、南投合組跨縣市治理平台。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611130304.aspx"
+   }
+  ],
+  "id": "2026-11-13-taichung-1"
+ },
+ {
+  "date": "2026-11-13",
   "raceId": "taipei",
   "title": "蔣萬安與韓國瑜邀市民參加14日遊行",
   "summary": "蔣萬安與立法院長韓國瑜、國民黨立委在立法院召開記者會，邀請市民參加14日下午2時集結的安心大遊行，分南北兩路前往市府路。",
