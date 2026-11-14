@@ -3005,5 +3005,116 @@
    }
   ],
   "id": "2026-11-13-taoyuan-1"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "keelung",
+  "title": "童子瑋與林右昌公布基隆新國門規劃",
+  "summary": "童子瑋與前市長林右昌公布「基隆新國門」規劃，範圍涵蓋基隆港東、西兩岸，東岸整合郵輪旅運設施與威海營區開發，西岸結合捷運延伸與海洋生態館。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "keelung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9878501"
+   },
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640500"
+   }
+  ],
+  "id": "2026-11-14-keelung-1"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "new-taipei",
+  "title": "蘇巧慧與李四川同日走訪淡水八里",
+  "summary": "蘇巧慧上午在淡水清水市場掃街並展開北海岸車隊掃街；李四川與立委洪孟楷等人從八里展開車掃，表示將持續走遍新北29區說明政見。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   },
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611140086.aspx"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9878405"
+   }
+  ],
+  "id": "2026-11-14-new-taipei-1"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "pingtung",
+  "title": "蕭美琴屏東萬丹為周春米站台",
+  "summary": "副總統蕭美琴在屏東縣萬丹鄉為周春米站台，肯定周春米推動的育兒三部曲，包括月嫂到宅服務與幼兒加碼營養金。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "pingtung-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9878525"
+   }
+  ],
+  "id": "2026-11-14-pingtung-1"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "taichung",
+  "title": "柯文哲台中車掃 與江啟臣合體直播",
+  "summary": "柯文哲在台中與民眾黨市議員候選人車掃，表示中午將與江啟臣合體直播，並提到江啟臣擔任立法院副院長的國際事務經驗。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611140043.aspx"
+   }
+  ],
+  "id": "2026-11-14-taichung-1"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "taoyuan",
+  "title": "黃世杰出席市議員競總 簽反霸凌盟友證",
+  "summary": "黃世杰到桃園區參加市議員候選人李柏瑟的競選總部成立大會，簽署反霸凌盟友證，並提出健全霸凌防治機制與推動「一校一改善」的通學環境承諾。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "taoyuan-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9878546"
+   }
+  ],
+  "id": "2026-11-14-taoyuan-1"
  }
 ]
