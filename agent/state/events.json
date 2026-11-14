@@ -3008,6 +3008,26 @@
  },
  {
   "date": "2026-11-14",
+  "raceId": "hsinchu-city",
+  "title": "蔡英文與林智堅陪莊競程走訪香山漁場",
+  "summary": "前總統蔡英文14日在莊競程、前市長林智堅陪同下走訪新竹市香山區定置漁場。莊競程表示，未來將延續城市美學精神，發展南寮及香山觀光廊帶。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "hsinchu-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611140177.aspx"
+   }
+  ],
+  "id": "2026-11-14-hsinchu-city-1"
+ },
+ {
+  "date": "2026-11-14",
   "raceId": "keelung",
   "title": "童子瑋與林右昌公布基隆新國門規劃",
   "summary": "童子瑋與前市長林右昌公布「基隆新國門」規劃，範圍涵蓋基隆港東、西兩岸，東岸整合郵輪旅運設施與威海營區開發，西岸結合捷運延伸與海洋生態館。",
@@ -3029,6 +3049,30 @@
    }
   ],
   "id": "2026-11-14-keelung-1"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "miaoli",
+  "title": "蔡英文與卓榮泰到苑裡為陳品安造勢",
+  "summary": "前總統蔡英文與行政院長卓榮泰14日在苗栗縣苑裡鎮出席陳品安造勢活動。蔡英文介紹陳品安的公共托育、老屋巡查等政見，卓榮泰表示苗栗具備承接高科技研發製造的區位優勢。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "miaoli-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611140198.aspx"
+   },
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640872"
+   }
+  ],
+  "id": "2026-11-14-miaoli-1"
  },
  {
   "date": "2026-11-14",
@@ -3099,6 +3143,26 @@
  },
  {
   "date": "2026-11-14",
+  "raceId": "taipei",
+  "title": "沈伯洋在二二八公園舉辦洋流祭",
+  "summary": "沈伯洋14日在台北市二二八和平公園舉辦「洋流祭」，邀請多個獨立樂團演出並設有政策互動關卡。沈伯洋致詞表示，希望2週後與市民一起創造台北市的歷史。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611140196.aspx"
+   }
+  ],
+  "id": "2026-11-14-taipei-1"
+ },
+ {
+  "date": "2026-11-14",
   "raceId": "taoyuan",
   "title": "黃世杰出席市議員競總 簽反霸凌盟友證",
   "summary": "黃世杰到桃園區參加市議員候選人李柏瑟的競選總部成立大會，簽署反霸凌盟友證，並提出健全霸凌防治機制與推動「一校一改善」的通學環境承諾。",
@@ -3116,5 +3180,29 @@
    }
   ],
   "id": "2026-11-14-taoyuan-1"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "taoyuan",
+  "title": "韓國瑜出席張善政桃園造勢大會",
+  "summary": "立法院長韓國瑜14日出席張善政在桃園市風禾公園的造勢大會，表示張善政過去4年在交通建設、引進台積電投資及醫療資源等方面有所作為，呼籲市民支持連任。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taoyuan-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640926"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9878985"
+   }
+  ],
+  "id": "2026-11-14-taoyuan-2"
  }
 ]
