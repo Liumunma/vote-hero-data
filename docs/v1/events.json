@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-15T13:02:57+08:00",
+ "updatedAt": "2026-11-15T20:03:00+08:00",
  "events": [
+  {
+   "id": "2026-11-15-taipei-2",
+   "date": "2026-11-15",
+   "raceId": "taipei",
+   "title": "沈伯洋士林北投車掃 陳其邁同行",
+   "summary": "沈伯洋15日在士林、北投舉行「台北大洋流」車隊掃街，高雄市長陳其邁北上陪同，最後一站在關渡宮與支持者會合。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9880231"
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641805"
+    }
+   ]
+  },
   {
    "id": "2026-11-15-taipei-1",
    "date": "2026-11-15",
@@ -40,6 +65,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611150056.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-15-chiayi-county-1",
+   "date": "2026-11-15",
+   "raceId": "chiayi-county",
+   "title": "卓榮泰嘉義縣為蔡易餘站台",
+   "summary": "行政院長卓榮泰15日到嘉義縣出席民進黨縣長參選人蔡易餘的活動，表示蔡易餘曾請中央協助擴建嘉義科學園區，中央會全力支持。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-county-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9880255"
     }
    ]
   },
@@ -2656,56 +2702,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202610310123.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-31-taoyuan-1",
-   "date": "2026-10-31",
-   "raceId": "taoyuan",
-   "title": "黃世杰提原住民族政策主張",
-   "summary": "黃世杰出席市議員參選人謝卓儒競總成立活動，提出恢復歲時祭儀補助、振興北橫觀光、活化KIRI原住民族文創園區等主張。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taoyuan-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625081"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-31-taipei-1",
-   "date": "2026-10-31",
-   "raceId": "taipei",
-   "title": "北市長首場電視辯論 都更議題交換意見",
-   "summary": "台北市長首場電視辯論中，蔣萬安說明任內推動的都更案件，沈伯洋表示都更應看入口與出口，並提出提高住宅基金提撥、增聘人力的主張。",
-   "category": "debate",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    },
-    {
-     "candidateId": "taipei-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624785"
-    },
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610310020.aspx"
     }
    ]
   }
