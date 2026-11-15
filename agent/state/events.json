@@ -3284,5 +3284,45 @@
    }
   ],
   "id": "2026-11-14-yunlin-1"
+ },
+ {
+  "date": "2026-11-15",
+  "raceId": "new-taipei",
+  "title": "蘇巧慧三峽土城掃街 重申長者假牙補助",
+  "summary": "蘇巧慧15日到三峽廣行宮參拜，並在三峽、土城一帶掃街，重申長者假牙補助政見，表示將照顧新北市每一位長輩。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611150056.aspx"
+   }
+  ],
+  "id": "2026-11-15-new-taipei-1"
+ },
+ {
+  "date": "2026-11-15",
+  "raceId": "taipei",
+  "title": "民眾黨21日北市府前辦全國造勢",
+  "summary": "民眾黨主席黃國昌15日表示，民眾黨將於21日在台北市政府前舉辦全國造勢活動，已正式邀請台北市長蔣萬安參與，蔣萬安表示有意願出席。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611150046.aspx"
+   }
+  ],
+  "id": "2026-11-15-taipei-1"
  }
 ]

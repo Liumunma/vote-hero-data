@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-15T08:02:56+08:00",
+ "updatedAt": "2026-11-15T13:02:57+08:00",
  "events": [
+  {
+   "id": "2026-11-15-taipei-1",
+   "date": "2026-11-15",
+   "raceId": "taipei",
+   "title": "民眾黨21日北市府前辦全國造勢",
+   "summary": "民眾黨主席黃國昌15日表示，民眾黨將於21日在台北市政府前舉辦全國造勢活動，已正式邀請台北市長蔣萬安參與，蔣萬安表示有意願出席。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611150046.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-15-new-taipei-1",
+   "date": "2026-11-15",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧三峽土城掃街 重申長者假牙補助",
+   "summary": "蘇巧慧15日到三峽廣行宮參拜，並在三峽、土城一帶掃街，重申長者假牙補助政見，表示將照顧新北市每一位長輩。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611150056.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-14-yunlin-1",
    "date": "2026-11-14",
@@ -2664,48 +2706,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202610310020.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-31-taichung-1",
-   "date": "2026-10-31",
-   "raceId": "taichung",
-   "title": "蕭美琴大甲出席何欣純聯合競總",
-   "summary": "蕭美琴在台中大甲出席何欣純與市議員參選人施志昌的聯合競選總部成立活動，並為兩人站台。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610310174.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-31-nantou-1",
-   "date": "2026-10-31",
-   "raceId": "nantou",
-   "title": "温世政聯合競總成立 賴清德出席",
-   "summary": "温世政與南投市長參選人沈夙崢等人在南投縣舉行聯合競選總本部成立大會，賴清德出席。温世政表示將推動輕軌捷運，長者與青年政策也在會中被提及。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "nantou-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610310185.aspx"
     }
    ]
   }
