@@ -3028,6 +3028,26 @@
  },
  {
   "date": "2026-11-14",
+  "raceId": "hsinchu-county",
+  "title": "徐欣瑩尖石服務處成立 提原鄉政見",
+  "summary": "國民黨新竹縣長參選人徐欣瑩14日在尖石鄉成立服務處，提出原鄉交通、醫療與教育政見，包含遠距視訊醫療與偏鄉共學。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "hsinchu-county-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611140117.aspx"
+   }
+  ],
+  "id": "2026-11-14-hsinchu-county-1"
+ },
+ {
+  "date": "2026-11-14",
   "raceId": "keelung",
   "title": "童子瑋與林右昌公布基隆新國門規劃",
   "summary": "童子瑋與前市長林右昌公布「基隆新國門」規劃，範圍涵蓋基隆港東、西兩岸，東岸整合郵輪旅運設施與威海營區開發，西岸結合捷運延伸與海洋生態館。",
@@ -3123,6 +3143,26 @@
  },
  {
   "date": "2026-11-14",
+  "raceId": "pingtung",
+  "title": "蘇清泉東港舉辦屏東好未來造勢",
+  "summary": "國民黨屏東縣長參選人蘇清泉14日在東港東隆宮廟埕舉辦造勢活動，多名黨籍參選人同台，因雨勢提早結束。",
+  "category": "rally",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "pingtung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611140216.aspx"
+   }
+  ],
+  "id": "2026-11-14-pingtung-2"
+ },
+ {
+  "date": "2026-11-14",
   "raceId": "taichung",
   "title": "柯文哲台中車掃 與江啟臣合體直播",
   "summary": "柯文哲在台中與民眾黨市議員候選人車掃，表示中午將與江啟臣合體直播，並提到江啟臣擔任立法院副院長的國際事務經驗。",
@@ -3160,6 +3200,26 @@
    }
   ],
   "id": "2026-11-14-taipei-1"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "taipei",
+  "title": "蔣萬安舉辦安心大遊行 盧秀燕韓國瑜到場",
+  "summary": "國民黨台北市長候選人蔣萬安14日舉辦安心大遊行，分北、南兩路線，盧秀燕與韓國瑜到場，蔣萬安提到交通、居住等施政方向。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611140130.aspx"
+   }
+  ],
+  "id": "2026-11-14-taipei-2"
  },
  {
   "date": "2026-11-14",
@@ -3204,5 +3264,25 @@
    }
   ],
   "id": "2026-11-14-taoyuan-2"
+ },
+ {
+  "date": "2026-11-14",
+  "raceId": "yunlin",
+  "title": "賴清德雲林為劉建國競總成立站台",
+  "summary": "總統賴清德14日到雲林麥寮，出席民進黨縣長參選人劉建國競選總部成立大會，劉建國提出醫療照護、農業雙技與AI科技等政見主軸。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "yunlin-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611140171.aspx"
+   }
+  ],
+  "id": "2026-11-14-yunlin-1"
  }
 ]

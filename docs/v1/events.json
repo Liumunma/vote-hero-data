@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-14T20:02:56+08:00",
+ "updatedAt": "2026-11-15T08:02:56+08:00",
  "events": [
+  {
+   "id": "2026-11-14-yunlin-1",
+   "date": "2026-11-14",
+   "raceId": "yunlin",
+   "title": "賴清德雲林為劉建國競總成立站台",
+   "summary": "總統賴清德14日到雲林麥寮，出席民進黨縣長參選人劉建國競選總部成立大會，劉建國提出醫療照護、農業雙技與AI科技等政見主軸。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yunlin-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611140171.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-14-taoyuan-2",
    "date": "2026-11-14",
@@ -48,6 +69,27 @@
    ]
   },
   {
+   "id": "2026-11-14-taipei-2",
+   "date": "2026-11-14",
+   "raceId": "taipei",
+   "title": "蔣萬安舉辦安心大遊行 盧秀燕韓國瑜到場",
+   "summary": "國民黨台北市長候選人蔣萬安14日舉辦安心大遊行，分北、南兩路線，盧秀燕與韓國瑜到場，蔣萬安提到交通、居住等施政方向。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611140130.aspx"
+    }
+   ]
+  },
+  {
    "id": "2026-11-14-taipei-1",
    "date": "2026-11-14",
    "raceId": "taipei",
@@ -86,6 +128,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611140043.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-pingtung-2",
+   "date": "2026-11-14",
+   "raceId": "pingtung",
+   "title": "蘇清泉東港舉辦屏東好未來造勢",
+   "summary": "國民黨屏東縣長參選人蘇清泉14日在東港東隆宮廟埕舉辦造勢活動，多名黨籍參選人同台，因雨勢提早結束。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "pingtung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611140216.aspx"
     }
    ]
   },
@@ -186,6 +249,27 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640500"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-hsinchu-county-1",
+   "date": "2026-11-14",
+   "raceId": "hsinchu-county",
+   "title": "徐欣瑩尖石服務處成立 提原鄉政見",
+   "summary": "國民黨新竹縣長參選人徐欣瑩14日在尖石鄉成立服務處，提出原鄉交通、醫療與教育政見，包含遠距視訊醫療與偏鄉共學。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-county-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611140117.aspx"
     }
    ]
   },
@@ -2622,94 +2706,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202610310185.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-31-hsinchu-city-1",
-   "date": "2026-10-31",
-   "raceId": "hsinchu-city",
-   "title": "莊競程競總成立 提交通政見",
-   "summary": "莊競程在新竹市成立競選總部，賴清德出席。莊競程表示將在四年內啟動捷運施工，並提出公車整合與AI交通管理等構想。",
-   "category": "rally",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "hsinchu-city-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610310115.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-31-changhua-1",
-   "date": "2026-10-31",
-   "raceId": "changhua",
-   "title": "陳素月競總成立 提出四項彰化政見",
-   "summary": "陳素月在彰化市舉行競選總部成立大會，賴清德、蔡英文出席。陳素月提出大車站計畫、65歲以上長者健保費由縣府全額補助、設立產業加速辦公室，並恢復校校有保全。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "changhua-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610310204.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-30-taitung-1",
-   "date": "2026-10-30",
-   "raceId": "taitung",
-   "title": "台東縣長參選人陳瑩吳秀華各提政見",
-   "summary": "陳瑩29日提出設立設計長、研議一日文化假等五點文化與設計倡議；吳秀華與青年座談，提議成立1億元青年創業基金。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taitung-2",
-     "delta": null
-    },
-    {
-     "candidateId": "taitung-4",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610300063.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-30-taichung-1",
-   "date": "2026-10-30",
-   "raceId": "taichung",
-   "title": "何欣純成立宗教後援會道教總會",
-   "summary": "何欣純出席宗教後援會道教總會成立暨授證大會，表示若當選將支持宮廟活動、推動國際交流，並結合觀光與周邊商圈。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9847573"
     }
    ]
   }
