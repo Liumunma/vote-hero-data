@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-16T08:03:39+08:00",
+ "updatedAt": "2026-11-16T13:02:25+08:00",
  "events": [
+  {
+   "id": "2026-11-16-taichung-1",
+   "date": "2026-11-16",
+   "raceId": "taichung",
+   "title": "臺中市長公辦政見會17日晚間登場",
+   "summary": "臺中市長候選人公辦政見發表會訂17日晚上7時舉行，各候選人先做10分鐘政見申論，再回答公正人士提問並做結論。何欣純16日到東勢、石岡掃街，江啟臣當天沒有公開行程。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611160030.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-15-taipei-3",
    "date": "2026-11-15",
@@ -2673,31 +2698,6 @@
     {
      "name": "聯合報",
      "url": "https://udn.com/news/story/124652/9850063"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-01-hsinchu-county-1",
-   "date": "2026-11-01",
-   "raceId": "hsinchu-county",
-   "title": "徐欣瑩竹東客家後援會成立 鄭麗文到場",
-   "summary": "徐欣瑩與竹東鎮長參選人范國威在竹東戲曲公園成立客家後援會，國民黨主席鄭麗文到場。徐欣瑩提出客庄國際行銷中心、支持竹東升格為市、智慧公車等主張。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "hsinchu-county-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611010146.aspx"
-    },
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625910"
     }
    ]
   }

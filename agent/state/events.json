@@ -3408,5 +3408,28 @@
    }
   ],
   "id": "2026-11-15-taipei-3"
+ },
+ {
+  "date": "2026-11-16",
+  "raceId": "taichung",
+  "title": "臺中市長公辦政見會17日晚間登場",
+  "summary": "臺中市長候選人公辦政見發表會訂17日晚上7時舉行，各候選人先做10分鐘政見申論，再回答公正人士提問並做結論。何欣純16日到東勢、石岡掃街，江啟臣當天沒有公開行程。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   },
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611160030.aspx"
+   }
+  ],
+  "id": "2026-11-16-taichung-1"
  }
 ]
