@@ -3411,6 +3411,26 @@
  },
  {
   "date": "2026-11-16",
+  "raceId": "chiayi-city",
+  "title": "張啓楷發表嘉義產業三箭政見",
+  "summary": "張啓楷在競選總部發表產業三箭政見，包括北港路產業廊帶、嘉北醫療健康特區與商圈擴大計畫，雲林縣長張麗善到場站台。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "chiayi-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642804"
+   }
+  ],
+  "id": "2026-11-16-chiayi-city-1"
+ },
+ {
+  "date": "2026-11-16",
   "raceId": "taichung",
   "title": "臺中市長公辦政見會17日晚間登場",
   "summary": "臺中市長候選人公辦政見發表會訂17日晚上7時舉行，各候選人先做10分鐘政見申論，再回答公正人士提問並做結論。何欣純16日到東勢、石岡掃街，江啟臣當天沒有公開行程。",
@@ -3431,5 +3451,28 @@
    }
   ],
   "id": "2026-11-16-taichung-1"
+ },
+ {
+  "date": "2026-11-16",
+  "raceId": "taichung",
+  "title": "臺中11月20日藍綠各辦造勢活動",
+  "summary": "何欣純將與沈伯洋於11月20日在臺中車隊掃街，晚間有聯合造勢；江啟臣同日在神岡區辦造勢，侯友宜與盧秀燕到場。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   },
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611160169.aspx"
+   }
+  ],
+  "id": "2026-11-16-taichung-2"
  }
 ]
