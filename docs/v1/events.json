@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-15T20:03:00+08:00",
+ "updatedAt": "2026-11-16T08:03:39+08:00",
  "events": [
+  {
+   "id": "2026-11-15-taipei-3",
+   "date": "2026-11-15",
+   "raceId": "taipei",
+   "title": "沈伯洋關渡車掃 提青年與AI政見",
+   "summary": "沈伯洋在士林北投車掃終點關渡宮停車場，提出設立台北研究院、24小時數位圖書館、青年AI錢包及投入新台幣20億元的青年圓夢計畫等政見。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611150201.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-15-taipei-2",
    "date": "2026-11-15",
@@ -86,6 +107,27 @@
     {
      "name": "聯合報",
      "url": "https://udn.com/news/story/124652/9880255"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-15-chiayi-city-1",
+   "date": "2026-11-15",
+   "raceId": "chiayi-city",
+   "title": "王美惠嘉義市造勢晚會 蕭美琴蔡英文到場",
+   "summary": "王美惠在嘉義市舉辦造勢晚會，副總統蕭美琴、前總統蔡英文、行政院長卓榮泰到場。蕭美琴提議成立跨領域觀光文化推動委員會，並結合嘉義縣資源帶動產業。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-city-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611150202.aspx"
     }
    ]
   },
@@ -2656,52 +2698,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625910"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-31-yunlin-1",
-   "date": "2026-10-31",
-   "raceId": "yunlin",
-   "title": "張嘉郡西螺掃街 劉建國走訪斗六市場",
-   "summary": "張嘉郡與韓國瑜在西螺鎮車隊掃街拜票；劉建國則走訪斗六西市場，談文化保存與在地生活。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yunlin-2",
-     "delta": null
-    },
-    {
-     "candidateId": "yunlin-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610310171.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-31-yilan-1",
-   "date": "2026-10-31",
-   "raceId": "yilan",
-   "title": "林國漳溪北競總成立 蔡英文蕭美琴出席",
-   "summary": "林國漳在宜蘭運動公園體育館成立溪北競選總部，蔡英文與蕭美琴到場站台，呼籲支持者團結。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yilan-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202610310123.aspx"
     }
    ]
   }

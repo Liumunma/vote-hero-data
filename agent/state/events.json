@@ -3287,6 +3287,26 @@
  },
  {
   "date": "2026-11-15",
+  "raceId": "chiayi-city",
+  "title": "王美惠嘉義市造勢晚會 蕭美琴蔡英文到場",
+  "summary": "王美惠在嘉義市舉辦造勢晚會，副總統蕭美琴、前總統蔡英文、行政院長卓榮泰到場。蕭美琴提議成立跨領域觀光文化推動委員會，並結合嘉義縣資源帶動產業。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "chiayi-city-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611150202.aspx"
+   }
+  ],
+  "id": "2026-11-15-chiayi-city-1"
+ },
+ {
+  "date": "2026-11-15",
   "raceId": "chiayi-county",
   "title": "卓榮泰嘉義縣為蔡易餘站台",
   "summary": "行政院長卓榮泰15日到嘉義縣出席民進黨縣長參選人蔡易餘的活動，表示蔡易餘曾請中央協助擴建嘉義科學園區，中央會全力支持。",
@@ -3368,5 +3388,25 @@
    }
   ],
   "id": "2026-11-15-taipei-2"
+ },
+ {
+  "date": "2026-11-15",
+  "raceId": "taipei",
+  "title": "沈伯洋關渡車掃 提青年與AI政見",
+  "summary": "沈伯洋在士林北投車掃終點關渡宮停車場，提出設立台北研究院、24小時數位圖書館、青年AI錢包及投入新台幣20億元的青年圓夢計畫等政見。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611150201.aspx"
+   }
+  ],
+  "id": "2026-11-15-taipei-3"
  }
 ]
