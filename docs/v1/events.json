@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-17T13:02:27+08:00",
+ "updatedAt": "2026-11-17T20:03:08+08:00",
  "events": [
+  {
+   "id": "2026-11-17-yilan-1",
+   "date": "2026-11-17",
+   "raceId": "yilan",
+   "title": "吳宗憲提可負擔住宅政見 四年500戶",
+   "summary": "宜蘭縣長參選人吳宗憲17日召開記者會，提出可負擔住宅政見，規劃四年內推出500戶，並說明信託型住宅與地上權住宅兩種模式。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yilan-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611170265.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-17-taoyuan-2",
    "date": "2026-11-17",
@@ -73,6 +94,60 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611170082.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17-taichung-1",
+   "date": "2026-11-17",
+   "raceId": "taichung",
+   "title": "臺中市長公辦政見會 三位候選人出席",
+   "summary": "臺中市長公辦政見會17日晚間舉行，何欣純、洪麗華、江啟臣出席，每人有10分鐘政見陳述，並回答提問及發表結語。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taichung-2",
+     "delta": null
+    },
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611170284.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17-pingtung-1",
+   "date": "2026-11-17",
+   "raceId": "pingtung",
+   "title": "周春米21日潮州造勢 蘇清泉同日南州開講",
+   "summary": "周春米競辦表示，將於11月21日下午在潮州愛國夜市舉辦造勢活動，邀卓榮泰等人輔選；蘇清泉競辦表示同日下午在南州鄉開講。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "pingtung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "pingtung-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611170285.aspx"
     }
    ]
   },
@@ -2639,69 +2714,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626517"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-02-new-taipei-1",
-   "date": "2026-11-02",
-   "raceId": "new-taipei",
-   "title": "李四川成立工商後援會 提產業與交通政見",
-   "summary": "李四川出席工商團體後援組織成立活動，提出擴大產業用地、興建跨河橋梁串聯科技園區，以及檢討鬆綁老舊法規等主張。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626453"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-02-changhua-1",
-   "date": "2026-11-02",
-   "raceId": "changhua",
-   "title": "魏平政發表城鎮升級政見 談交通與文化",
-   "summary": "魏平政在彰化舉行記者會，提出區域共榮與文化新生兩大主軸，包括持續推進台中捷運延伸彰化段、整合中彰投公共運輸，以及古蹟活化、一鄉鎮一特色觀光等項目。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "changhua-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611020237.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-01-taoyuan-1",
-   "date": "2026-11-01",
-   "raceId": "taoyuan",
-   "title": "黃世杰偕妻赴忠貞市場掃街",
-   "summary": "黃世杰11月1日前往桃園忠貞市場掃街拜票，妻子首度公開陪同。他提出研議延長龍岡米干節活動時間、增加大龍岡觀光亮點，並關注托育、教育、交通與長輩醫療。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taoyuan-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611010031.aspx"
     }
    ]
   }

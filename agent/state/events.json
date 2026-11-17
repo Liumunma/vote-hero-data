@@ -3540,6 +3540,55 @@
  },
  {
   "date": "2026-11-17",
+  "raceId": "pingtung",
+  "title": "周春米21日潮州造勢 蘇清泉同日南州開講",
+  "summary": "周春米競辦表示，將於11月21日下午在潮州愛國夜市舉辦造勢活動，邀卓榮泰等人輔選；蘇清泉競辦表示同日下午在南州鄉開講。",
+  "category": "rally",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "pingtung-1"
+   },
+   {
+    "candidateId": "pingtung-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611170285.aspx"
+   }
+  ],
+  "id": "2026-11-17-pingtung-1"
+ },
+ {
+  "date": "2026-11-17",
+  "raceId": "taichung",
+  "title": "臺中市長公辦政見會 三位候選人出席",
+  "summary": "臺中市長公辦政見會17日晚間舉行，何欣純、洪麗華、江啟臣出席，每人有10分鐘政見陳述，並回答提問及發表結語。",
+  "category": "debate",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   },
+   {
+    "candidateId": "taichung-2"
+   },
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611170284.aspx"
+   }
+  ],
+  "id": "2026-11-17-taichung-1"
+ },
+ {
+  "date": "2026-11-17",
   "raceId": "taipei",
   "title": "沈伯洋與林國漳簽署北宜生活圈備忘錄",
   "summary": "台北市長候選人沈伯洋與宜蘭縣長候選人林國漳在沈伯洋競總簽署備忘錄，內容包括高鐵延伸、產業與住宅合作，並規劃當選後成立協作平台。",
@@ -3607,5 +3656,25 @@
    }
   ],
   "id": "2026-11-17-taoyuan-2"
+ },
+ {
+  "date": "2026-11-17",
+  "raceId": "yilan",
+  "title": "吳宗憲提可負擔住宅政見 四年500戶",
+  "summary": "宜蘭縣長參選人吳宗憲17日召開記者會，提出可負擔住宅政見，規劃四年內推出500戶，並說明信託型住宅與地上權住宅兩種模式。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "yilan-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611170265.aspx"
+   }
+  ],
+  "id": "2026-11-17-yilan-1"
  }
 ]
