@@ -1,6 +1,35 @@
 {
- "updatedAt": "2026-11-17T08:02:44+08:00",
+ "updatedAt": "2026-11-17T13:02:27+08:00",
  "events": [
+  {
+   "id": "2026-11-17-taoyuan-2",
+   "date": "2026-11-17",
+   "raceId": "taoyuan",
+   "title": "桃園市長公辦政見會 兩候選人陳述政見",
+   "summary": "桃園市長公辦電視政見發表會登場，黃世杰提出公車三級路網與社會住宅目標，張善政說明捷運綠線進度與可負擔住宅自治條例，雙方也談及產業與醫療。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taoyuan-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taoyuan-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611170053.aspx"
+    },
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/836045"
+    }
+   ]
+  },
   {
    "id": "2026-11-17-taoyuan-1",
    "date": "2026-11-17",
@@ -23,6 +52,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611160279.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17-taipei-1",
+   "date": "2026-11-17",
+   "raceId": "taipei",
+   "title": "沈伯洋與林國漳簽署北宜生活圈備忘錄",
+   "summary": "台北市長候選人沈伯洋與宜蘭縣長候選人林國漳在沈伯洋競總簽署備忘錄，內容包括高鐵延伸、產業與住宅合作，並規劃當選後成立協作平台。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611170082.aspx"
     }
    ]
   },
@@ -2652,48 +2702,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611010031.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-01-taipei-3",
-   "date": "2026-11-01",
-   "raceId": "taipei",
-   "title": "蔣萬安談清潔隊員夜點費 北市先行調整",
-   "summary": "蔣萬安出席北市總工會勞動政見公開講，表示將向中央爭取首都勤務加給，中央核定前由環保局先行調高夜點費。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611010132.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-01-taipei-2",
-   "date": "2026-11-01",
-   "raceId": "taipei",
-   "title": "沈伯洋大安文山車掃 公布五項政見",
-   "summary": "沈伯洋11月1日在大安、文山舉辦車掃，於大安森林公園公布「疫苗市府出」「上學走路免驚」「心事有人陪」「毛孩安心養」及水圳到茶山串聯文化徑等政見。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611010177.aspx"
     }
    ]
   }
