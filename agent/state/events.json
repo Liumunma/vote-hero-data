@@ -3431,6 +3431,29 @@
  },
  {
   "date": "2026-11-16",
+  "raceId": "kaohsiung",
+  "title": "賴瑞隆東高雄車掃 柯志恩推新廣告",
+  "summary": "賴瑞隆16日在東高雄展開車隊掃街，走訪六龜、甲仙、杉林、美濃、內門、旗山等區；柯志恩同日推出以教育為主軸的新形象廣告。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-5"
+   },
+   {
+    "candidateId": "kaohsiung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611160191.aspx"
+   }
+  ],
+  "id": "2026-11-16-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-16",
   "raceId": "taichung",
   "title": "臺中市長公辦政見會17日晚間登場",
   "summary": "臺中市長候選人公辦政見發表會訂17日晚上7時舉行，各候選人先做10分鐘政見申論，再回答公正人士提問並做結論。何欣純16日到東勢、石岡掃街，江啟臣當天沒有公開行程。",
@@ -3474,5 +3497,68 @@
    }
   ],
   "id": "2026-11-16-taichung-2"
+ },
+ {
+  "date": "2026-11-16",
+  "raceId": "tainan",
+  "title": "蔣萬安赴台南為謝龍介站台",
+  "summary": "蔣萬安16日到台南為謝龍介站台並參與車隊掃街，謝龍介提出移除烏山頭水庫光電板的政見，蔣萬安表示支持。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "tainan-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611160269.aspx"
+   }
+  ],
+  "id": "2026-11-16-tainan-1"
+ },
+ {
+  "date": "2026-11-17",
+  "raceId": "nantou",
+  "title": "温世政提南投十字路網輕軌政見",
+  "summary": "民進黨候選人温世政提出「南投十字路網」交通政見，規劃4年內推動台中至竹山輕軌，總經費約400億元。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "nantou-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643095"
+   }
+  ],
+  "id": "2026-11-17-nantou-1"
+ },
+ {
+  "date": "2026-11-17",
+  "raceId": "taoyuan",
+  "title": "桃園市長電視政見發表會17日登場",
+  "summary": "桃園市長電視政見發表會17日上午9時在桃園市選舉委員會舉行，黃世杰與張善政出席，由有線電視與YouTube同步直播。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taoyuan-1"
+   },
+   {
+    "candidateId": "taoyuan-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611160279.aspx"
+   }
+  ],
+  "id": "2026-11-17-taoyuan-1"
  }
 ]

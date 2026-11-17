@@ -1,6 +1,73 @@
 {
- "updatedAt": "2026-11-16T20:03:30+08:00",
+ "updatedAt": "2026-11-17T08:02:44+08:00",
  "events": [
+  {
+   "id": "2026-11-17-taoyuan-1",
+   "date": "2026-11-17",
+   "raceId": "taoyuan",
+   "title": "桃園市長電視政見發表會17日登場",
+   "summary": "桃園市長電視政見發表會17日上午9時在桃園市選舉委員會舉行，黃世杰與張善政出席，由有線電視與YouTube同步直播。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taoyuan-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taoyuan-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611160279.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17-nantou-1",
+   "date": "2026-11-17",
+   "raceId": "nantou",
+   "title": "温世政提南投十字路網輕軌政見",
+   "summary": "民進黨候選人温世政提出「南投十字路網」交通政見，規劃4年內推動台中至竹山輕軌，總經費約400億元。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "nantou-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643095"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-tainan-1",
+   "date": "2026-11-16",
+   "raceId": "tainan",
+   "title": "蔣萬安赴台南為謝龍介站台",
+   "summary": "蔣萬安16日到台南為謝龍介站台並參與車隊掃街，謝龍介提出移除烏山頭水庫光電板的政見，蔣萬安表示支持。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "tainan-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611160269.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-16-taichung-2",
    "date": "2026-11-16",
@@ -48,6 +115,31 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611160030.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-kaohsiung-1",
+   "date": "2026-11-16",
+   "raceId": "kaohsiung",
+   "title": "賴瑞隆東高雄車掃 柯志恩推新廣告",
+   "summary": "賴瑞隆16日在東高雄展開車隊掃街，走訪六龜、甲仙、杉林、美濃、內門、旗山等區；柯志恩同日推出以教育為主軸的新形象廣告。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    },
+    {
+     "candidateId": "kaohsiung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611160191.aspx"
     }
    ]
   },
@@ -2602,102 +2694,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611010177.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-01-taipei-1",
-   "date": "2026-11-01",
-   "raceId": "taipei",
-   "title": "北市總工會勞動政見公開講 兩人提勞動政見",
-   "summary": "台北市產業總工會在府前廣場舉辦勞動政見公開講，沈伯洋提出勞動安全、保障與支援三類主張，蔣萬安說明過去任內成果並提出四項新政，內容包含清潔隊員用餐與夜點費。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    },
-    {
-     "candidateId": "taipei-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611010078.aspx"
-    },
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9850426"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-01-taichung-1",
-   "date": "2026-11-01",
-   "raceId": "taichung",
-   "title": "何欣純江啟臣各赴議員參選人總部成立",
-   "summary": "何欣純出席三位民進黨市議員參選人的競選總部成立大會；江啟臣上午掃街，並出席多位市議員參選人的總部成立，也到南投出席聯合競總，晚間在大甲夜市掃街。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-1",
-     "delta": null
-    },
-    {
-     "candidateId": "taichung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611010124.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-01-penghu-2",
-   "date": "2026-11-01",
-   "raceId": "penghu",
-   "title": "葉竹林推線上平台政策島 介紹政見",
-   "summary": "無黨籍澎湖縣長參選人葉竹林推出以虛擬島嶼為概念的線上平台，結合政策介紹與小遊戲，也開放民眾對交通、醫療、觀光等議題留言。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "penghu-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611010161.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-01-penghu-1",
-   "date": "2026-11-01",
-   "raceId": "penghu",
-   "title": "周倪安成立競選總部 提漁業與海底隧道評估",
-   "summary": "周倪安在馬公市成立競選總部，政見包括協助漁民、推動海洋資源復育、研議台澎海底隧道可行性，並引進適合澎湖的企業，讓年輕人能返鄉。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "penghu-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611010073.aspx"
     }
    ]
   }
