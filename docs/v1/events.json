@@ -1,6 +1,180 @@
 {
- "updatedAt": "2026-11-18T13:02:30+08:00",
+ "updatedAt": "2026-11-18T20:03:28+08:00",
  "events": [
+  {
+   "id": "2026-11-18-taitung-1",
+   "date": "2026-11-18",
+   "raceId": "taitung",
+   "title": "台東縣長電視政見會 候選人提青年政策",
+   "summary": "台東縣長選舉電視公辦政見會18日舉行。陳瑩提出設立青年夢想基金，吳秀華提出1億元青年創業基金，李吳穎智與王志偉也各自說明政見。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taitung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taitung-2",
+     "delta": null
+    },
+    {
+     "candidateId": "taitung-3",
+     "delta": null
+    },
+    {
+     "candidateId": "taitung-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611180276.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18-taipei-1",
+   "date": "2026-11-18",
+   "raceId": "taipei",
+   "title": "沈伯洋參拜艋舺青山宮 談文化保存",
+   "summary": "沈伯洋18日到艋舺青山宮參拜，宣傳青山王祭。他表示文化資產需要保存，並讓更多人知道。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611180323.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18-penghu-1",
+   "date": "2026-11-18",
+   "raceId": "penghu",
+   "title": "澎湖縣長首場公辦政見會 六人陳述",
+   "summary": "澎湖縣長選舉首場公辦政見發表會18日舉行，六位候選人依序提出政見，議題涵蓋交通、醫療、觀光與全齡照護。吳淑瑾提出編列1億元醫療基金，陳振中提出10大務實政見。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "penghu-1",
+     "delta": null
+    },
+    {
+     "candidateId": "penghu-2",
+     "delta": null
+    },
+    {
+     "candidateId": "penghu-3",
+     "delta": null
+    },
+    {
+     "candidateId": "penghu-4",
+     "delta": null
+    },
+    {
+     "candidateId": "penghu-5",
+     "delta": null
+    },
+    {
+     "candidateId": "penghu-6",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611180277.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18-new-taipei-1",
+   "date": "2026-11-18",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧與李四川 18日走訪東北角",
+   "summary": "蘇巧慧18日在瑞芳、平溪、雙溪、貢寮掃街，提出區域均衡與山海城鎮公共運輸規劃。李四川在瑞芳車掃，提出興建直達九份的觀光纜車構想。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611180298.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18-kaohsiung-1",
+   "date": "2026-11-18",
+   "raceId": "kaohsiung",
+   "title": "賴瑞隆與柯志恩 21日各辦造勢",
+   "summary": "賴瑞隆21日舉辦「大旗美團結應援大會」，邀請卓榮泰、陳其邁等人站台。柯志恩同日在鳳山舉辦「贏回高雄－大勝利之夜」，韓國瑜、王金平等人出席。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-3",
+     "delta": null
+    },
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611180240.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18-hsinchu-city-1",
+   "date": "2026-11-18",
+   "raceId": "hsinchu-city",
+   "title": "新竹市長電視政見會 聚焦交通教育",
+   "summary": "新竹市長公辦電視政見發表會18日舉行，依序由莊競程、高虹安、何志勇陳述。三人政見涵蓋輕軌與交通建設、教育及社會福利等議題。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-city-1",
+     "delta": null
+    },
+    {
+     "candidateId": "hsinchu-city-2",
+     "delta": null
+    },
+    {
+     "candidateId": "hsinchu-city-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611180212.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-18-changhua-1",
    "date": "2026-11-18",
@@ -2608,136 +2782,6 @@
     {
      "name": "聯合報",
      "url": "https://udn.com/news/story/124652/9855298"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-03-tainan-1",
-   "date": "2026-11-03",
-   "raceId": "tainan",
-   "title": "陳亭妃啟動37區鐵馬拜會 陳水扁到場",
-   "summary": "陳亭妃從歸仁仁壽宮出發，展開37區鐵馬拜會，聆聽基層意見；前總統陳水扁出發前到場，臺南市長黃偉哲與多位議員參選人同行。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "tainan-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9854002"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-03-new-taipei-1",
-   "date": "2026-11-03",
-   "raceId": "new-taipei",
-   "title": "李四川三蘆市場掃街 提四項交通醫療規劃",
-   "summary": "李四川前往三重、蘆洲市場掃街，提出蘆社大橋、蘆洲醫院、大漢溪捷運縱貫線與三重忠孝碼頭跨河景觀橋四項規劃，涵蓋交通與醫療。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9854138"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-03-lienchiang-1",
-   "date": "2026-11-03",
-   "raceId": "lienchiang",
-   "title": "連江縣長參選人各提寵物醫療政見",
-   "summary": "王忠銘提出流浪寵物急難救助最高補助2萬5000元及寵物友善公園；曹爾元提出在地巡迴看診、寵物保險與毛小孩運動公園，雙方都提到赴台治療補助。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "lienchiang-1",
-     "delta": null
-    },
-    {
-     "candidateId": "lienchiang-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611030297.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-03-keelung-1",
-   "date": "2026-11-03",
-   "raceId": "keelung",
-   "title": "童子瑋與蕭美琴騎YouBike提共享運具",
-   "summary": "童子瑋與副總統蕭美琴沿基隆河自行車道騎乘YouBike進入基隆，童子瑋提出連結新北的共享運具與兩河兩海自行車路線構想。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "keelung-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611030166.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-03-hsinchu-county-1",
-   "date": "2026-11-03",
-   "raceId": "hsinchu-county",
-   "title": "徐欣瑩競選官網上線 列六大面向政見",
-   "summary": "徐欣瑩推出競選官網，依六大面向列出151項政見，包括生育補助10萬元、國中小學生配發平板，以及與新竹市合作規劃的跨城交通。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "hsinchu-county-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9854009"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-02-yilan-1",
-   "date": "2026-11-02",
-   "raceId": "yilan",
-   "title": "林國漳蓋漳大車掃自冬山鄉起跑",
-   "summary": "林國漳的蓋漳大車掃從宜蘭冬山鄉起跑，與宜蘭隊鄉鎮長及議員參選人同行，他表示當選後將持續走訪社區。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yilan-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9852497"
     }
    ]
   }

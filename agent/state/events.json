@@ -3754,5 +3754,161 @@
    }
   ],
   "id": "2026-11-18-changhua-1"
+ },
+ {
+  "date": "2026-11-18",
+  "raceId": "hsinchu-city",
+  "title": "新竹市長電視政見會 聚焦交通教育",
+  "summary": "新竹市長公辦電視政見發表會18日舉行，依序由莊競程、高虹安、何志勇陳述。三人政見涵蓋輕軌與交通建設、教育及社會福利等議題。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "hsinchu-city-1"
+   },
+   {
+    "candidateId": "hsinchu-city-2"
+   },
+   {
+    "candidateId": "hsinchu-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611180212.aspx"
+   }
+  ],
+  "id": "2026-11-18-hsinchu-city-1"
+ },
+ {
+  "date": "2026-11-18",
+  "raceId": "kaohsiung",
+  "title": "賴瑞隆與柯志恩 21日各辦造勢",
+  "summary": "賴瑞隆21日舉辦「大旗美團結應援大會」，邀請卓榮泰、陳其邁等人站台。柯志恩同日在鳳山舉辦「贏回高雄－大勝利之夜」，韓國瑜、王金平等人出席。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-3"
+   },
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611180240.aspx"
+   }
+  ],
+  "id": "2026-11-18-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-18",
+  "raceId": "new-taipei",
+  "title": "蘇巧慧與李四川 18日走訪東北角",
+  "summary": "蘇巧慧18日在瑞芳、平溪、雙溪、貢寮掃街，提出區域均衡與山海城鎮公共運輸規劃。李四川在瑞芳車掃，提出興建直達九份的觀光纜車構想。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   },
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611180298.aspx"
+   }
+  ],
+  "id": "2026-11-18-new-taipei-1"
+ },
+ {
+  "date": "2026-11-18",
+  "raceId": "penghu",
+  "title": "澎湖縣長首場公辦政見會 六人陳述",
+  "summary": "澎湖縣長選舉首場公辦政見發表會18日舉行，六位候選人依序提出政見，議題涵蓋交通、醫療、觀光與全齡照護。吳淑瑾提出編列1億元醫療基金，陳振中提出10大務實政見。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "penghu-1"
+   },
+   {
+    "candidateId": "penghu-2"
+   },
+   {
+    "candidateId": "penghu-3"
+   },
+   {
+    "candidateId": "penghu-4"
+   },
+   {
+    "candidateId": "penghu-5"
+   },
+   {
+    "candidateId": "penghu-6"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611180277.aspx"
+   }
+  ],
+  "id": "2026-11-18-penghu-1"
+ },
+ {
+  "date": "2026-11-18",
+  "raceId": "taipei",
+  "title": "沈伯洋參拜艋舺青山宮 談文化保存",
+  "summary": "沈伯洋18日到艋舺青山宮參拜，宣傳青山王祭。他表示文化資產需要保存，並讓更多人知道。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611180323.aspx"
+   }
+  ],
+  "id": "2026-11-18-taipei-1"
+ },
+ {
+  "date": "2026-11-18",
+  "raceId": "taitung",
+  "title": "台東縣長電視政見會 候選人提青年政策",
+  "summary": "台東縣長選舉電視公辦政見會18日舉行。陳瑩提出設立青年夢想基金，吳秀華提出1億元青年創業基金，李吳穎智與王志偉也各自說明政見。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taitung-1"
+   },
+   {
+    "candidateId": "taitung-2"
+   },
+   {
+    "candidateId": "taitung-3"
+   },
+   {
+    "candidateId": "taitung-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611180276.aspx"
+   }
+  ],
+  "id": "2026-11-18-taitung-1"
  }
 ]
