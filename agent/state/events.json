@@ -3725,5 +3725,34 @@
    }
   ],
   "id": "2026-11-17-yilan-2"
+ },
+ {
+  "date": "2026-11-18",
+  "raceId": "changhua",
+  "title": "彰化縣長公辦電視政見發表會登場",
+  "summary": "彰化縣長候選人在公辦電視政見發表會陳述政見，陳素月提出幸福小黃公車與產業加速辦公室，魏平政提出長青幸福卡農會消費抵用額度提高至500元，邱建富提出青年返鄉與產業轉型。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "changhua-1"
+   },
+   {
+    "candidateId": "changhua-2"
+   },
+   {
+    "candidateId": "changhua-3"
+   },
+   {
+    "candidateId": "changhua-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611180103.aspx"
+   }
+  ],
+  "id": "2026-11-18-changhua-1"
  }
 ]
