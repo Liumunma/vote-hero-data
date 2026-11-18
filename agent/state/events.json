@@ -3589,6 +3589,35 @@
  },
  {
   "date": "2026-11-17",
+  "raceId": "tainan",
+  "title": "臺南市長公辦政見會 候選人陳述政見",
+  "summary": "臺南市選委會17日晚間舉辦市長公辦電視政見發表會第1場，葉人文、謝龍介、蕭燐洪、陳亭妃出席；謝龍介提出65歲以上免健保費與婚育宅方案，並重申拆除烏山頭水庫光電板。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "tainan-1"
+   },
+   {
+    "candidateId": "tainan-2"
+   },
+   {
+    "candidateId": "tainan-3"
+   },
+   {
+    "candidateId": "tainan-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611170310.aspx"
+   }
+  ],
+  "id": "2026-11-17-tainan-1"
+ },
+ {
+  "date": "2026-11-17",
   "raceId": "taipei",
   "title": "沈伯洋與林國漳簽署北宜生活圈備忘錄",
   "summary": "台北市長候選人沈伯洋與宜蘭縣長候選人林國漳在沈伯洋競總簽署備忘錄，內容包括高鐵延伸、產業與住宅合作，並規劃當選後成立協作平台。",
@@ -3676,5 +3705,25 @@
    }
   ],
   "id": "2026-11-17-yilan-1"
+ },
+ {
+  "date": "2026-11-17",
+  "raceId": "yilan",
+  "title": "賴清德赴礁溪為林國漳站台",
+  "summary": "總統賴清德17日在宜蘭礁溪三皇宮參香，表示中央明年給宜蘭的經費達333億元，並支持台62線延伸至礁溪，呼籲支持民進黨縣長候選人林國漳。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "yilan-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611170241.aspx"
+   }
+  ],
+  "id": "2026-11-17-yilan-2"
  }
 ]

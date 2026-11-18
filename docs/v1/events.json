@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-17T20:03:08+08:00",
+ "updatedAt": "2026-11-18T08:02:35+08:00",
  "events": [
+  {
+   "id": "2026-11-17-yilan-2",
+   "date": "2026-11-17",
+   "raceId": "yilan",
+   "title": "賴清德赴礁溪為林國漳站台",
+   "summary": "總統賴清德17日在宜蘭礁溪三皇宮參香，表示中央明年給宜蘭的經費達333億元，並支持台62線延伸至礁溪，呼籲支持民進黨縣長候選人林國漳。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yilan-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611170241.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-17-yilan-1",
    "date": "2026-11-17",
@@ -94,6 +115,39 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611170082.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17-tainan-1",
+   "date": "2026-11-17",
+   "raceId": "tainan",
+   "title": "臺南市長公辦政見會 候選人陳述政見",
+   "summary": "臺南市選委會17日晚間舉辦市長公辦電視政見發表會第1場，葉人文、謝龍介、蕭燐洪、陳亭妃出席；謝龍介提出65歲以上免健保費與婚育宅方案，並重申拆除烏山頭水庫光電板。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "tainan-1",
+     "delta": null
+    },
+    {
+     "candidateId": "tainan-2",
+     "delta": null
+    },
+    {
+     "candidateId": "tainan-3",
+     "delta": null
+    },
+    {
+     "candidateId": "tainan-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611170310.aspx"
     }
    ]
   },
@@ -2672,48 +2726,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611020035.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-02-new-taipei-3",
-   "date": "2026-11-02",
-   "raceId": "new-taipei",
-   "title": "蘇巧慧競辦公布週末兩場造勢晚會",
-   "summary": "蘇巧慧競辦宣布11月7日在板橋溪北公園、11月8日在蘆洲三民高中各辦一場晚會，分別邀請行政院長卓榮泰與副總統蕭美琴站台。",
-   "category": "rally",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611020240.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-02-new-taipei-2",
-   "date": "2026-11-02",
-   "raceId": "new-taipei",
-   "title": "蘇巧慧辦新北永續餐桌 與青農餐飲業交流",
-   "summary": "蘇巧慧與綠色餐飲指南、青農及餐飲業者舉辦新北永續餐桌活動，討論永續飲食與產業推廣，並表示將與各區農會合作處理通路與品牌。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5626517"
     }
    ]
   }
