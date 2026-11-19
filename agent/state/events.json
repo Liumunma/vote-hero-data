@@ -3945,6 +3945,29 @@
  },
  {
   "date": "2026-11-19",
+  "raceId": "miaoli",
+  "title": "苗栗縣長首場公辦政見會 兩候選人陳述",
+  "summary": "苗栗縣長選舉首場公辦電視政見發表會19日舉行，陳品安提出長輩假牙補助與生育津貼等社福規劃，鍾東錦說明招商成果與建設規劃。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "miaoli-1"
+   },
+   {
+    "candidateId": "miaoli-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611190207.aspx"
+   }
+  ],
+  "id": "2026-11-19-miaoli-1"
+ },
+ {
+  "date": "2026-11-19",
   "raceId": "new-taipei",
   "title": "蘇巧慧提敬老卡改名構想",
   "summary": "蘇巧慧19日在中和烘爐地南山福德宮表示，若當選會在各面向更尊重長者，並希望把敬老卡改名為至尊卡或其他更有意義的名字。",
@@ -3982,5 +4005,25 @@
    }
   ],
   "id": "2026-11-19-taipei-1"
+ },
+ {
+  "date": "2026-11-19",
+  "raceId": "yunlin",
+  "title": "賴清德雲林參拜廟宇 陪劉建國拜票",
+  "summary": "賴清德19日下午在雲林縣陪同劉建國參拜崙背、二崙、莿桐與大埤四處廟宇，並與民眾交流，劉建國提出三個園區規劃。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "yunlin-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611190250.aspx"
+   }
+  ],
+  "id": "2026-11-19-yunlin-1"
  }
 ]

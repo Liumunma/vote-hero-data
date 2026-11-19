@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T13:02:43+08:00",
+ "updatedAt": "2026-11-19T20:03:19+08:00",
  "events": [
+  {
+   "id": "2026-11-19-yunlin-1",
+   "date": "2026-11-19",
+   "raceId": "yunlin",
+   "title": "賴清德雲林參拜廟宇 陪劉建國拜票",
+   "summary": "賴清德19日下午在雲林縣陪同劉建國參拜崙背、二崙、莿桐與大埤四處廟宇，並與民眾交流，劉建國提出三個園區規劃。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yunlin-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611190250.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-19-taipei-1",
    "date": "2026-11-19",
@@ -40,6 +61,31 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611190064.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-miaoli-1",
+   "date": "2026-11-19",
+   "raceId": "miaoli",
+   "title": "苗栗縣長首場公辦政見會 兩候選人陳述",
+   "summary": "苗栗縣長選舉首場公辦電視政見發表會19日舉行，陳品安提出長輩假牙補助與生育津貼等社福規劃，鍾東錦說明招商成果與建設規劃。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "miaoli-1",
+     "delta": null
+    },
+    {
+     "candidateId": "miaoli-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611190207.aspx"
     }
    ]
   },
@@ -2752,48 +2798,6 @@
     {
      "name": "公視",
      "url": "https://news.pts.org.tw/article/834201"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-04-new-taipei-3",
-   "date": "2026-11-04",
-   "raceId": "new-taipei",
-   "title": "蘇巧慧中和拜票 提瓦磘溝綠廊政見",
-   "summary": "民進黨新北市長候選人蘇巧慧在中和大勇街夜市拜票，提出瓦磘溝綠廊串連、雙和親水生活圈與智慧醫療等規劃。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611040347.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-04-new-taipei-2",
-   "date": "2026-11-04",
-   "raceId": "new-taipei",
-   "title": "李四川板橋聯合競總成立 提小巨蛋政見",
-   "summary": "李四川與市議員曾煥嘉在板橋民生公園舉行聯合競選總部成立大會，侯友宜、洪秀柱到場。李四川提出升級板橋體育館為新北小巨蛋、推動泰板輕軌，並擴大敬老卡300點使用範圍。",
-   "category": "rally",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611040324.aspx"
     }
    ]
   }
