@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T08:02:46+08:00",
+ "updatedAt": "2026-11-19T13:02:43+08:00",
  "events": [
+  {
+   "id": "2026-11-19-taipei-1",
+   "date": "2026-11-19",
+   "raceId": "taipei",
+   "title": "沈伯洋19日晚間直播回應提問",
+   "summary": "沈伯洋19日晚間將在YouTube直播，延續肥皂箱活動，回應市民線上提出的問題；他也表示21日將出席台北2030觀光創新政策座談。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611190048.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-new-taipei-1",
+   "date": "2026-11-19",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧提敬老卡改名構想",
+   "summary": "蘇巧慧19日在中和烘爐地南山福德宮表示，若當選會在各面向更尊重長者，並希望把敬老卡改名為至尊卡或其他更有意義的名字。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611190064.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-18-yilan-1",
    "date": "2026-11-18",
@@ -2752,48 +2794,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611040324.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-04-new-taipei-1",
-   "date": "2026-11-04",
-   "raceId": "new-taipei",
-   "title": "蘇巧慧清晨赴蘆洲果菜市場掃街",
-   "summary": "蘇巧慧4日清晨前往蘆洲大台北果菜市場掃街，並預告本週末在板橋與蘆洲舉辦造勢晚會，行政院長卓榮泰、副總統蕭美琴將到場。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9855774"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-04-kaohsiung-1",
-   "date": "2026-11-04",
-   "raceId": "kaohsiung",
-   "title": "柯志恩公布首支競選廣告",
-   "summary": "柯志恩公布首支競選廣告，內容為她走訪市場與街頭、與攤商及學生互動。她表示四年來走遍高雄38個行政區。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611040317.aspx"
     }
    ]
   }
