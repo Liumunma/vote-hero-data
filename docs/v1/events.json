@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T20:03:19+08:00",
+ "updatedAt": "2026-11-20T08:02:44+08:00",
  "events": [
+  {
+   "id": "2026-11-20-nantou-1",
+   "date": "2026-11-20",
+   "raceId": "nantou",
+   "title": "沈伯洋等人20日南投為温世政造勢",
+   "summary": "沈伯洋、蘇巧慧、黃世杰、童子瑋預定20日到南投市祖祠路夜市，出席温世政造勢晚會，賴清德總統預定致詞，活動當晚5時30分開放進場。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "nantou-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647072"
+    }
+   ]
+  },
   {
    "id": "2026-11-19-yunlin-1",
    "date": "2026-11-19",
@@ -23,6 +44,64 @@
    ]
   },
   {
+   "id": "2026-11-19-yilan-1",
+   "date": "2026-11-19",
+   "raceId": "yilan",
+   "title": "林國漳與吳宗憲簽署宜蘭反開礦承諾書",
+   "summary": "護水源反開礦行動聯盟邀請縣長候選人簽署承諾書，林國漳與吳宗憲都已簽署。兩人分別表示會尊重居民意見、保護宜蘭水源。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yilan-1",
+     "delta": null
+    },
+    {
+     "candidateId": "yilan-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/836422"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-taitung-1",
+   "date": "2026-11-19",
+   "raceId": "taitung",
+   "title": "台東縣長電視政見會 四位候選人發表政見",
+   "summary": "台東縣長選委會錄影電視政見發表會19日播出，四位候選人陳述政見。陳瑩提到農產品行銷，王志偉提出補貼導遊和司機非假日住宿費，吳秀華談家庭幸福。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taitung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taitung-2",
+     "delta": null
+    },
+    {
+     "candidateId": "taitung-3",
+     "delta": null
+    },
+    {
+     "candidateId": "taitung-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/836420"
+    }
+   ]
+  },
+  {
    "id": "2026-11-19-taipei-1",
    "date": "2026-11-19",
    "raceId": "taipei",
@@ -40,6 +119,35 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611190048.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-new-taipei-2",
+   "date": "2026-11-19",
+   "raceId": "new-taipei",
+   "title": "李四川與蔣萬安中和掃街 蘇巧慧走訪山城",
+   "summary": "李四川與蔣萬安19日共同召開記者會，下午到中和福和宮參香並車隊掃街，表示雙北可合作打造30分鐘生活圈。蘇巧慧同日走訪坪林、石碇、深坑，提出串連淡蘭古道的鑽石山城計畫。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611190345.aspx"
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/paper/1779171"
     }
    ]
   },
@@ -2706,98 +2814,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611050288.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-05-taichung-2",
-   "date": "2026-11-05",
-   "raceId": "taichung",
-   "title": "江啟臣首度車隊掃街 成立客家後援會",
-   "summary": "江啟臣11月5日在潭子、新社展開車隊掃街，並於東勢成立客家後援會，11月6日預計與韓國瑜在海線舉行聯合造勢。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611050280.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-05-taichung-1",
-   "date": "2026-11-05",
-   "raceId": "taichung",
-   "title": "蔡英文赴台中為何欣純站台參香",
-   "summary": "前總統蔡英文11月5日到台中，與何欣純到潭子得天宮參香，並出席南屯區文心森林公園的寵物友善活動，談及台中各區均衡發展與交通公共建設。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611050227.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-04-yunlin-1",
-   "date": "2026-11-04",
-   "raceId": "yunlin",
-   "title": "張嘉郡提雲林ACG青年創業計畫",
-   "summary": "國民黨雲林縣長參選人張嘉郡提出ACG青年創業計畫，內容含六大行動，創業支持金最高新台幣48萬元；劉建國同日與沈伯洋推廣古坑咖啡。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yunlin-2",
-     "delta": null
-    },
-    {
-     "candidateId": "yunlin-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611040270.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-04-taipei-1",
-   "date": "2026-11-04",
-   "raceId": "taipei",
-   "title": "沈伯洋提邀蔣萬安共辦肥皂箱活動",
-   "summary": "蔣萬安陣營推出競選文宣「萬安警報」，沈伯洋的文宣為「順報」。沈伯洋表示希望雙方共同舉辦肥皂箱活動，讓現任市長與挑戰者同時回答市民提問。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    },
-    {
-     "candidateId": "taipei-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "公視",
-     "url": "https://news.pts.org.tw/article/834201"
     }
    ]
   }

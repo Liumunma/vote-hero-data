@@ -3988,6 +3988,33 @@
  },
  {
   "date": "2026-11-19",
+  "raceId": "new-taipei",
+  "title": "李四川與蔣萬安中和掃街 蘇巧慧走訪山城",
+  "summary": "李四川與蔣萬安19日共同召開記者會，下午到中和福和宮參香並車隊掃街，表示雙北可合作打造30分鐘生活圈。蘇巧慧同日走訪坪林、石碇、深坑，提出串連淡蘭古道的鑽石山城計畫。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-1"
+   },
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611190345.aspx"
+   },
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/paper/1779171"
+   }
+  ],
+  "id": "2026-11-19-new-taipei-2"
+ },
+ {
+  "date": "2026-11-19",
   "raceId": "taipei",
   "title": "沈伯洋19日晚間直播回應提問",
   "summary": "沈伯洋19日晚間將在YouTube直播，延續肥皂箱活動，回應市民線上提出的問題；他也表示21日將出席台北2030觀光創新政策座談。",
@@ -4008,6 +4035,58 @@
  },
  {
   "date": "2026-11-19",
+  "raceId": "taitung",
+  "title": "台東縣長電視政見會 四位候選人發表政見",
+  "summary": "台東縣長選委會錄影電視政見發表會19日播出，四位候選人陳述政見。陳瑩提到農產品行銷，王志偉提出補貼導遊和司機非假日住宿費，吳秀華談家庭幸福。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "taitung-1"
+   },
+   {
+    "candidateId": "taitung-2"
+   },
+   {
+    "candidateId": "taitung-3"
+   },
+   {
+    "candidateId": "taitung-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "公視",
+    "url": "https://news.pts.org.tw/article/836420"
+   }
+  ],
+  "id": "2026-11-19-taitung-1"
+ },
+ {
+  "date": "2026-11-19",
+  "raceId": "yilan",
+  "title": "林國漳與吳宗憲簽署宜蘭反開礦承諾書",
+  "summary": "護水源反開礦行動聯盟邀請縣長候選人簽署承諾書，林國漳與吳宗憲都已簽署。兩人分別表示會尊重居民意見、保護宜蘭水源。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "yilan-1"
+   },
+   {
+    "candidateId": "yilan-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "公視",
+    "url": "https://news.pts.org.tw/article/836422"
+   }
+  ],
+  "id": "2026-11-19-yilan-1"
+ },
+ {
+  "date": "2026-11-19",
   "raceId": "yunlin",
   "title": "賴清德雲林參拜廟宇 陪劉建國拜票",
   "summary": "賴清德19日下午在雲林縣陪同劉建國參拜崙背、二崙、莿桐與大埤四處廟宇，並與民眾交流，劉建國提出三個園區規劃。",
@@ -4025,5 +4104,25 @@
    }
   ],
   "id": "2026-11-19-yunlin-1"
+ },
+ {
+  "date": "2026-11-20",
+  "raceId": "nantou",
+  "title": "沈伯洋等人20日南投為温世政造勢",
+  "summary": "沈伯洋、蘇巧慧、黃世杰、童子瑋預定20日到南投市祖祠路夜市，出席温世政造勢晚會，賴清德總統預定致詞，活動當晚5時30分開放進場。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "nantou-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647072"
+   }
+  ],
+  "id": "2026-11-20-nantou-1"
  }
 ]
