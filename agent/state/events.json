@@ -4107,6 +4107,49 @@
  },
  {
   "date": "2026-11-20",
+  "raceId": "hsinchu-city",
+  "title": "莊競程提推廣5人制足球政見",
+  "summary": "莊競程19日晚間直播並於20日車掃，提出積極推廣5人制足球、增加多元運動場地與設施，也希望引進Outlet購物中心。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "hsinchu-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611200187.aspx"
+   }
+  ],
+  "id": "2026-11-20-hsinchu-city-1"
+ },
+ {
+  "date": "2026-11-20",
+  "raceId": "keelung",
+  "title": "謝國樑與童子瑋20日各發表基隆政見",
+  "summary": "謝國樑20日在競總說明四年12項建設成果；童子瑋提出若當選，將清潔隊員早點費調至200元、夜點費調至400元，並汰換老舊垃圾車。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "keelung-1"
+   },
+   {
+    "candidateId": "keelung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611200220.aspx"
+   }
+  ],
+  "id": "2026-11-20-keelung-1"
+ },
+ {
+  "date": "2026-11-20",
   "raceId": "nantou",
   "title": "沈伯洋等人20日南投為温世政造勢",
   "summary": "沈伯洋、蘇巧慧、黃世杰、童子瑋預定20日到南投市祖祠路夜市，出席温世政造勢晚會，賴清德總統預定致詞，活動當晚5時30分開放進場。",
