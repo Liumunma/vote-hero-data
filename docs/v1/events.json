@@ -1,6 +1,111 @@
 {
- "updatedAt": "2026-11-21T13:02:25+08:00",
+ "updatedAt": "2026-11-21T20:02:42+08:00",
  "events": [
+  {
+   "id": "2026-11-21-yunlin-1",
+   "date": "2026-11-21",
+   "raceId": "yunlin",
+   "title": "賴清德雲林為劉建國後援造勢站台",
+   "summary": "賴清德21日到雲林出席劉建國的後援造勢大會，劉建國在會上提出醫療照護、農業雙技與AI科技三項政見。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yunlin-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611210194.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-pingtung-1",
+   "date": "2026-11-21",
+   "raceId": "pingtung",
+   "title": "周春米潮州造勢 卓榮泰蘇貞昌到場",
+   "summary": "周春米21日在屏東縣潮州愛國夜市停車場舉辦造勢活動，行政院長卓榮泰與前行政院長蘇貞昌到場，周春米說明高鐵延伸屏東等交通建設進度。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "pingtung-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611210192.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-new-taipei-1",
+   "date": "2026-11-21",
+   "raceId": "new-taipei",
+   "title": "侯友宜第4度陪李四川板橋掃街",
+   "summary": "新北市長侯友宜21日在板橋第4度陪同李四川車隊掃街，李四川表示將在既有基礎上加速建設。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611210133.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-hsinchu-city-1",
+   "date": "2026-11-21",
+   "raceId": "hsinchu-city",
+   "title": "黃偉哲新竹市陪莊競程車隊掃街",
+   "summary": "台南市長黃偉哲21日在新竹市陪同莊競程車隊掃街，並贈送台南特產，兩人談到兩市在科技產業與城市治理的交流構想。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-city-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611210131.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-chiayi-city-1",
+   "date": "2026-11-21",
+   "raceId": "chiayi-city",
+   "title": "張啓楷中正公園造勢 韓國瑜助講",
+   "summary": "張啓楷21日下午在嘉義市中正公園舉辦造勢大會，前副總統蕭萬長與立法院長韓國瑜等人到場助講。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-city-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611210183.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-20-taichung-2",
    "date": "2026-11-20",
@@ -2689,119 +2794,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611070171.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-miaoli-1",
-   "date": "2026-11-07",
-   "raceId": "miaoli",
-   "title": "鍾東錦與陳品安各談育兒政見",
-   "summary": "鍾東錦宣布興建竹南親子館暨托嬰中心；陳品安提出一鄉鎮一公托一親子館，兩人各自發表育兒相關政見。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "miaoli-1",
-     "delta": null
-    },
-    {
-     "candidateId": "miaoli-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9864069"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-kaohsiung-2",
-   "date": "2026-11-07",
-   "raceId": "kaohsiung",
-   "title": "賴瑞隆岡山造勢 賴清德到場",
-   "summary": "賴瑞隆在岡山舉辦造勢活動，總統賴清德與高雄市長陳其邁出席。賴瑞隆提出半導體封測中心、產業升級基金與交通建設等規劃。",
-   "category": "rally",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611070181.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-kaohsiung-1",
-   "date": "2026-11-07",
-   "raceId": "kaohsiung",
-   "title": "柯志恩旗山大會 蔣萬安到場助講",
-   "summary": "柯志恩在旗山舉辦大會，台北市長蔣萬安南下出席。柯志恩提出北高連線，並表示當選後將成立高高平等辦公室。",
-   "category": "rally",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611070180.aspx"
-    },
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9864121"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-hsinchu-county-1",
-   "date": "2026-11-07",
-   "raceId": "hsinchu-county",
-   "title": "鄭朝方竹東辦親子派對 提雙軸發展",
-   "summary": "鄭朝方在竹東二重埔公五公園出席親子派對，表示將規劃公園綠地與兒童遊戲場，並提出竹北、竹東雙軸發展的主張。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "hsinchu-county-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/paper/1777808"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-06-yilan-1",
-   "date": "2026-11-06",
-   "raceId": "yilan",
-   "title": "林國漳拜會宋楚瑜 請益治水經驗",
-   "summary": "民進黨宜蘭縣長參選人林國漳拜會親民黨主席宋楚瑜，請益地方治理。宋楚瑜分享整治台南運河與羅東溪治水經驗，林國漳表示水患與基礎建設不分政黨。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yilan-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5631488"
     }
    ]
   }

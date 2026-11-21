@@ -4267,5 +4267,105 @@
    }
   ],
   "id": "2026-11-20-taichung-2"
+ },
+ {
+  "date": "2026-11-21",
+  "raceId": "chiayi-city",
+  "title": "張啓楷中正公園造勢 韓國瑜助講",
+  "summary": "張啓楷21日下午在嘉義市中正公園舉辦造勢大會，前副總統蕭萬長與立法院長韓國瑜等人到場助講。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "chiayi-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611210183.aspx"
+   }
+  ],
+  "id": "2026-11-21-chiayi-city-1"
+ },
+ {
+  "date": "2026-11-21",
+  "raceId": "hsinchu-city",
+  "title": "黃偉哲新竹市陪莊競程車隊掃街",
+  "summary": "台南市長黃偉哲21日在新竹市陪同莊競程車隊掃街，並贈送台南特產，兩人談到兩市在科技產業與城市治理的交流構想。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "hsinchu-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611210131.aspx"
+   }
+  ],
+  "id": "2026-11-21-hsinchu-city-1"
+ },
+ {
+  "date": "2026-11-21",
+  "raceId": "new-taipei",
+  "title": "侯友宜第4度陪李四川板橋掃街",
+  "summary": "新北市長侯友宜21日在板橋第4度陪同李四川車隊掃街，李四川表示將在既有基礎上加速建設。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611210133.aspx"
+   }
+  ],
+  "id": "2026-11-21-new-taipei-1"
+ },
+ {
+  "date": "2026-11-21",
+  "raceId": "pingtung",
+  "title": "周春米潮州造勢 卓榮泰蘇貞昌到場",
+  "summary": "周春米21日在屏東縣潮州愛國夜市停車場舉辦造勢活動，行政院長卓榮泰與前行政院長蘇貞昌到場，周春米說明高鐵延伸屏東等交通建設進度。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "pingtung-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611210192.aspx"
+   }
+  ],
+  "id": "2026-11-21-pingtung-1"
+ },
+ {
+  "date": "2026-11-21",
+  "raceId": "yunlin",
+  "title": "賴清德雲林為劉建國後援造勢站台",
+  "summary": "賴清德21日到雲林出席劉建國的後援造勢大會，劉建國在會上提出醫療照護、農業雙技與AI科技三項政見。",
+  "category": "endorsement",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "yunlin-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611210194.aspx"
+   }
+  ],
+  "id": "2026-11-21-yunlin-1"
  }
 ]
