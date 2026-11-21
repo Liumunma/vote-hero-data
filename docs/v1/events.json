@@ -1,6 +1,90 @@
 {
- "updatedAt": "2026-11-20T20:03:01+08:00",
+ "updatedAt": "2026-11-21T08:02:39+08:00",
  "events": [
+  {
+   "id": "2026-11-20-taichung-2",
+   "date": "2026-11-20",
+   "raceId": "taichung",
+   "title": "江啟臣神岡造勢 侯友宜盧秀燕出席",
+   "summary": "國民黨台中市長候選人江啟臣在神岡舉辦山城大集結造勢晚會，侯友宜與盧秀燕到場。江啟臣表示將延續既有市政，並推動巨蛋如期完工。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611200322.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-taichung-1",
+   "date": "2026-11-20",
+   "raceId": "taichung",
+   "title": "何欣純烏日造勢 賴清德與北部候選人到場",
+   "summary": "民進黨在台中烏日舉辦造勢晚會，何欣純與沈伯洋先進行車隊掃街。賴清德、蘇巧慧、童子瑋、黃世杰、陳品安、陳素月到場，何欣純提出與中央合作發展交通與產業的構想。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611200349.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-pingtung-1",
+   "date": "2026-11-20",
+   "raceId": "pingtung",
+   "title": "周春米小琉球造勢 宣布東琉碼頭計畫核定",
+   "summary": "周春米到小琉球車隊掃街並舉辦聯合造勢大會，宣布東琉線交通船碼頭旅運設施改善計畫已獲行政院核定，縣府將與中央加速後續作業。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "pingtung-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611200319.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-new-taipei-1",
+   "date": "2026-11-20",
+   "raceId": "new-taipei",
+   "title": "韓國瑜陪李四川新店車隊掃街",
+   "summary": "國民黨新北市長候選人李四川在新店、安坑、深坑車隊掃街，立法院長韓國瑜同行。李四川表示將推動深坑輕軌，並研究延伸至石碇。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611200324.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-20-nantou-1",
    "date": "2026-11-20",
@@ -44,6 +128,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611200220.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-hsinchu-city-2",
+   "date": "2026-11-20",
+   "raceId": "hsinchu-city",
+   "title": "張麗善新竹市陪高虹安車隊掃街",
+   "summary": "雲林縣長張麗善在新竹市北區陪同高虹安車隊掃街，表示雲林與新竹產業可互補，呼籲支持高虹安連任。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "hsinchu-city-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611200330.aspx"
     }
    ]
   },
@@ -2697,123 +2802,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5631488"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-06-taichung-1",
-   "date": "2026-11-06",
-   "raceId": "taichung",
-   "title": "江啟臣沙鹿造勢 盧秀燕韓國瑜到場",
-   "summary": "國民黨參選人江啟臣在台中沙鹿舉辦造勢活動，盧秀燕、韓國瑜到場站台。江啟臣提到將推動捷運藍線完工、發展會展經濟並爭取大型機場。",
-   "category": "rally",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611060331.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-06-new-taipei-1",
-   "date": "2026-11-06",
-   "raceId": "new-taipei",
-   "title": "侯友宜首度陪同李四川車隊掃街",
-   "summary": "新北市長侯友宜6日下午首度陪同李四川車隊掃街，兩人先到板橋區深丘福德宮祈福。侯友宜表示李四川是承擔責任的接棒人選，李四川表示會全力投入選戰。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611060223.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-06-kaohsiung-2",
-   "date": "2026-11-06",
-   "raceId": "kaohsiung",
-   "title": "賴瑞隆發布新住民政見影片 柯志恩推台語MV",
-   "summary": "賴瑞隆6日發布新住民政見影片，介紹「新高雄一家人」與「幸福川計畫」。柯志恩5日晚間推出台語競選主題曲MV。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-3",
-     "delta": null
-    },
-    {
-     "candidateId": "kaohsiung-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611060266.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-06-kaohsiung-1",
-   "date": "2026-11-06",
-   "raceId": "kaohsiung",
-   "title": "賴瑞隆說明小港機場明年2月包機直飛羽田",
-   "summary": "民進黨高雄市長參選人賴瑞隆在立法院記者會表示，小港機場明年2月起以包機直飛東京羽田，之後再規劃定期航班，並提到市府將加速小港新航廈建設。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611060065.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-06-hualien-1",
-   "date": "2026-11-06",
-   "raceId": "hualien",
-   "title": "花蓮縣長參選人談普發現金與財政規劃",
-   "summary": "游淑貞表示當選後普發2萬元，稱經精算可行；張峻說明其普發1萬元的財源估算；魏嘉賢則提出「12本未來存摺」全齡福利方案，不發現金。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "hualien-1",
-     "delta": null
-    },
-    {
-     "candidateId": "hualien-2",
-     "delta": null
-    },
-    {
-     "candidateId": "hualien-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611060106.aspx"
     }
    ]
   }
