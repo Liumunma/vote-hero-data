@@ -4350,6 +4350,66 @@
  },
  {
   "date": "2026-11-21",
+  "raceId": "taichung",
+  "title": "蕭美琴台中神岡為何欣純站台",
+  "summary": "副總統蕭美琴21日晚間在台中市神岡區出席何欣純造勢晚會，送給何欣純一頂工程帽，何欣純則介紹走訪29個行政區並提出首都格局、台中大升級政見。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611210210.aspx"
+   }
+  ],
+  "id": "2026-11-21-taichung-1"
+ },
+ {
+  "date": "2026-11-21",
+  "raceId": "taipei",
+  "title": "民眾黨北市府前造勢 柯文哲蔣萬安同台",
+  "summary": "台灣民眾黨21日晚間在台北市政府前廣場舉辦造勢大會，柯文哲、黃國昌與台北市長蔣萬安出席，蔣萬安致謝柯文哲，也感謝民眾黨與國民黨合作。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611210217.aspx"
+   }
+  ],
+  "id": "2026-11-21-taipei-1"
+ },
+ {
+  "date": "2026-11-21",
+  "raceId": "taoyuan",
+  "title": "張善政中壢造勢 朱立倫趙少康到場",
+  "summary": "桃園市長張善政21日晚間在中壢舉辦黃金週造勢大會，朱立倫、吳志揚、趙少康、吳伯雄到場站台，張善政拜託市民出門投票。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taoyuan-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611210226.aspx"
+   }
+  ],
+  "id": "2026-11-21-taoyuan-1"
+ },
+ {
+  "date": "2026-11-21",
   "raceId": "yunlin",
   "title": "賴清德雲林為劉建國後援造勢站台",
   "summary": "賴清德21日到雲林出席劉建國的後援造勢大會，劉建國在會上提出醫療照護、農業雙技與AI科技三項政見。",

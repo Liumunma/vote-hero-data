@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T20:02:42+08:00",
+ "updatedAt": "2026-11-22T08:02:40+08:00",
  "events": [
   {
    "id": "2026-11-21-yunlin-1",
@@ -19,6 +19,69 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611210194.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-taoyuan-1",
+   "date": "2026-11-21",
+   "raceId": "taoyuan",
+   "title": "張善政中壢造勢 朱立倫趙少康到場",
+   "summary": "桃園市長張善政21日晚間在中壢舉辦黃金週造勢大會，朱立倫、吳志揚、趙少康、吳伯雄到場站台，張善政拜託市民出門投票。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taoyuan-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611210226.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-taipei-1",
+   "date": "2026-11-21",
+   "raceId": "taipei",
+   "title": "民眾黨北市府前造勢 柯文哲蔣萬安同台",
+   "summary": "台灣民眾黨21日晚間在台北市政府前廣場舉辦造勢大會，柯文哲、黃國昌與台北市長蔣萬安出席，蔣萬安致謝柯文哲，也感謝民眾黨與國民黨合作。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611210217.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-taichung-1",
+   "date": "2026-11-21",
+   "raceId": "taichung",
+   "title": "蕭美琴台中神岡為何欣純站台",
+   "summary": "副總統蕭美琴21日晚間在台中市神岡區出席何欣純造勢晚會，送給何欣純一頂工程帽，何欣純則介紹走訪29個行政區並提出首都格局、台中大升級政見。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611210210.aspx"
     }
    ]
   },
@@ -2723,77 +2786,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633209"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-taipei-1",
-   "date": "2026-11-07",
-   "raceId": "taipei",
-   "title": "沈伯洋內湖南港車掃 蕭美琴助講",
-   "summary": "沈伯洋在內湖南港舉行車掃，運動部長李洋陪同掃街，副總統蕭美琴晚間以神秘嘉賓身分上台助講。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9864131"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-new-taipei-2",
-   "date": "2026-11-07",
-   "raceId": "new-taipei",
-   "title": "卓榮泰板橋晚會為蘇巧慧站台",
-   "summary": "行政院長卓榮泰7日晚間在板橋為蘇巧慧站台，表示希望民進黨議員參選人多數當選，讓蘇巧慧推動市政較為順利。李四川事後回應卓榮泰的發言。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    },
-    {
-     "candidateId": "new-taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611070209.aspx"
-    },
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9864272"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-new-taipei-1",
-   "date": "2026-11-07",
-   "raceId": "new-taipei",
-   "title": "蘇巧慧瑞芳競總成立 提東北角政見",
-   "summary": "蘇巧慧與議員林裔綺成立瑞芳聯合競選總部，並在平溪、雙溪、貢寮成立後援會，提出醫療、長照、交通與觀光政見。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611070171.aspx"
     }
    ]
   }
