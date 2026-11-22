@@ -4450,6 +4450,46 @@
  },
  {
   "date": "2026-11-22",
+  "raceId": "hsinchu-county",
+  "title": "鄭朝方提高中五方案2.0 增班增額",
+  "summary": "鄭朝方22日提出高中五方案2.0，主張擴增高中職招生名額，並評估在竹北、竹東及新豐湖口生活圈增設完全中學。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "hsinchu-county-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611220140.aspx"
+   }
+  ],
+  "id": "2026-11-22-hsinchu-county-1"
+ },
+ {
+  "date": "2026-11-22",
+  "raceId": "new-taipei",
+  "title": "李四川新北大巨蛋承諾 侯友宜陪同車掃",
+  "summary": "李四川22日在鶯歌、三峽車掃，侯友宜陪同。李四川表示若當選，將以8年內完成新北大巨蛋為目標。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611220166.aspx"
+   }
+  ],
+  "id": "2026-11-22-new-taipei-1"
+ },
+ {
+  "date": "2026-11-22",
   "raceId": "pingtung",
   "title": "屏東縣長第2場公辦政見會登場",
   "summary": "屏東縣長第2場公辦政見會22日舉行，蘇清泉提出青年福利、檢討光電設置、檢討縣管堤防等7項政見，周春米說明全齡福利與產業升級等施政重點。",
@@ -4470,5 +4510,25 @@
    }
   ],
   "id": "2026-11-22-pingtung-1"
+ },
+ {
+  "date": "2026-11-22",
+  "raceId": "taipei",
+  "title": "沈伯洋團隊忠孝東路辦城市行動展",
+  "summary": "沈伯洋競選團隊22日在台北市忠孝東路沿線舉辦城市行動展，設有6個主題舞台，內容包括樂團演出、市民發言與公共鋼琴。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611220149.aspx"
+   }
+  ],
+  "id": "2026-11-22-taipei-1"
  }
 ]
