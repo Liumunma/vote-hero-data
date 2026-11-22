@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-22T08:02:40+08:00",
+ "updatedAt": "2026-11-22T13:02:44+08:00",
  "events": [
+  {
+   "id": "2026-11-22-pingtung-1",
+   "date": "2026-11-22",
+   "raceId": "pingtung",
+   "title": "屏東縣長第2場公辦政見會登場",
+   "summary": "屏東縣長第2場公辦政見會22日舉行，蘇清泉提出青年福利、檢討光電設置、檢討縣管堤防等7項政見，周春米說明全齡福利與產業升級等施政重點。",
+   "category": "debate",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "pingtung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "pingtung-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611220067.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-21-yunlin-1",
    "date": "2026-11-21",
@@ -19,6 +44,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611210194.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-yilan-1",
+   "date": "2026-11-21",
+   "raceId": "yilan",
+   "title": "林國漳提文化立縣2.0政見",
+   "summary": "林國漳在青年後援會舉辦的宜蘭歌仔台派市集表示，上任後將推動宜蘭學與傳統戲曲進入校園，讓學生從認識基本唱詞、聆聽鑼鼓開始接觸在地文化。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "yilan-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649433"
     }
    ]
   },
@@ -2740,52 +2786,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611070036.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-taipei-3",
-   "date": "2026-11-07",
-   "raceId": "taipei",
-   "title": "盧秀燕與石舫亘赴松山平安福宴",
-   "summary": "台中市長盧秀燕與蔣萬安之妻石舫亘7日晚間出席松山奉天宮平安福宴，共120桌逐桌致意，為蔣萬安拜票。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611070211.aspx"
-    },
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9864177"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-07-taipei-2",
-   "date": "2026-11-07",
-   "raceId": "taipei",
-   "title": "沈伯洋公布內湖南港四項政見",
-   "summary": "沈伯洋11月7日在內湖、南港活動中公布政見，內容包括釋出公立幼兒園閒置空間、興建自行車橋、推動錯峰上班，以及規劃三條文化徑。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633209"
     }
    ]
   }
