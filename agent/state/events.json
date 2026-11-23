@@ -4450,6 +4450,26 @@
  },
  {
   "date": "2026-11-22",
+  "raceId": "hsinchu-city",
+  "title": "賴清德新竹市為莊競程站台 談竹竹生活圈交通",
+  "summary": "總統賴清德22日在新竹市為莊競程站台，莊競程提出新竹市縣聯合公車、AI智慧號誌、YouBike與輕軌等交通構想，新竹縣長候選人鄭朝方也出席。",
+  "category": "endorsement",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "hsinchu-city-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611220155.aspx"
+   }
+  ],
+  "id": "2026-11-22-hsinchu-city-1"
+ },
+ {
+  "date": "2026-11-22",
   "raceId": "hsinchu-county",
   "title": "鄭朝方提高中五方案2.0 增班增額",
   "summary": "鄭朝方22日提出高中五方案2.0，主張擴增高中職招生名額，並評估在竹北、竹東及新豐湖口生活圈增設完全中學。",
@@ -4467,6 +4487,26 @@
    }
   ],
   "id": "2026-11-22-hsinchu-county-1"
+ },
+ {
+  "date": "2026-11-22",
+  "raceId": "keelung",
+  "title": "童子瑋國門廣場造勢 賴清德蔡英文到場",
+  "summary": "童子瑋22日晚間在基隆國門廣場舉辦造勢活動，總統賴清德、前總統蔡英文、臺北市長候選人沈伯洋出席，童子瑋表示基隆需要關心市民的生活市長。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "keelung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611220195.aspx"
+   }
+  ],
+  "id": "2026-11-22-keelung-1"
  },
  {
   "date": "2026-11-22",
@@ -4513,6 +4553,26 @@
  },
  {
   "date": "2026-11-22",
+  "raceId": "pingtung",
+  "title": "蘇清泉竹田六堆客家團結大會 黃國昌到場",
+  "summary": "蘇清泉22日在屏東竹田舉辦客家團結大會，民眾黨主席黃國昌出席；蘇清泉提出若當選，客家事務處經費將起跳10億元。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "pingtung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611220190.aspx"
+   }
+  ],
+  "id": "2026-11-22-pingtung-2"
+ },
+ {
+  "date": "2026-11-22",
   "raceId": "taipei",
   "title": "沈伯洋團隊忠孝東路辦城市行動展",
   "summary": "沈伯洋競選團隊22日在台北市忠孝東路沿線舉辦城市行動展，設有6個主題舞台，內容包括樂團演出、市民發言與公共鋼琴。",
@@ -4530,5 +4590,65 @@
    }
   ],
   "id": "2026-11-22-taipei-1"
+ },
+ {
+  "date": "2026-11-22",
+  "raceId": "taipei",
+  "title": "蔣萬安南京東路出發車掃 盧秀燕韓國瑜同行",
+  "summary": "蔣萬安22日晚間自南京東路競選總部出發，行經松山、大安、中正、萬華，沿途設12個支持站，臺中市長盧秀燕與立法院長韓國瑜陪同。",
+  "category": "campaign",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611220181.aspx"
+   }
+  ],
+  "id": "2026-11-22-taipei-2"
+ },
+ {
+  "date": "2026-11-22",
+  "raceId": "taoyuan",
+  "title": "黃世杰朝陽森林公園造勢 賴清德蔡英文出席",
+  "summary": "黃世杰22日晚間在桃園區舉辦造勢晚會，總統賴清德、前總統蔡英文、行政院長卓榮泰出席；黃世杰的政見包括鐵路地下化與龍科三期。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taoyuan-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611220183.aspx"
+   }
+  ],
+  "id": "2026-11-22-taoyuan-1"
+ },
+ {
+  "date": "2026-11-22",
+  "raceId": "yilan",
+  "title": "吳宗憲宜蘭運動公園造勢 柯文哲鄭麗文出席",
+  "summary": "吳宗憲22日在宜蘭運動公園舉辦溪南溪北大會師造勢，民眾黨創黨主席柯文哲與國民黨主席鄭麗文出席，柯文哲呼籲28日縣長票投給吳宗憲。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "yilan-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611220165.aspx"
+   }
+  ],
+  "id": "2026-11-22-yilan-1"
  }
 ]
