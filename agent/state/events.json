@@ -4650,5 +4650,25 @@
    }
   ],
   "id": "2026-11-22-yilan-1"
+ },
+ {
+  "date": "2026-11-23",
+  "raceId": "taipei",
+  "title": "沈伯洋說明北北基桃市長LINE群組與後續平台",
+  "summary": "沈伯洋23日出席醫療論壇受訪時表示，已與童子瑋、蘇巧慧、黃世杰建立LINE群組，之後還會建立平台，公開決策標準與機制，讓市民追蹤。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650328"
+   }
+  ],
+  "id": "2026-11-23-taipei-1"
  }
 ]

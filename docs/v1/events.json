@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-23T13:02:26+08:00",
+ "updatedAt": "2026-11-23T13:02:33+08:00",
  "events": [
+  {
+   "id": "2026-11-23-taipei-1",
+   "date": "2026-11-23",
+   "raceId": "taipei",
+   "title": "沈伯洋說明北北基桃市長LINE群組與後續平台",
+   "summary": "沈伯洋23日出席醫療論壇受訪時表示，已與童子瑋、蘇巧慧、黃世杰建立LINE群組，之後還會建立平台，公開決策標準與機制，讓市民追蹤。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650328"
+    }
+   ]
+  },
   {
    "id": "2026-11-22-yilan-1",
    "date": "2026-11-22",
@@ -2741,27 +2762,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633771"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-08-keelung-2",
-   "date": "2026-11-08",
-   "raceId": "keelung",
-   "title": "林右昌陪童子瑋參觀基隆400特展",
-   "summary": "前基隆市長林右昌返台後與童子瑋、鄭麗君參觀基隆400特展，並表示童子瑋若當選，他願擔任市政顧問團總團長。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "keelung-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611080103.aspx"
     }
    ]
   }
