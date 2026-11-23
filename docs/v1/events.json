@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-23T13:02:33+08:00",
+ "updatedAt": "2026-11-23T20:03:00+08:00",
  "events": [
+  {
+   "id": "2026-11-23-taipei-2",
+   "date": "2026-11-23",
+   "raceId": "taipei",
+   "title": "沈伯洋內湖與里長座談 蔣萬安車掃",
+   "summary": "沈伯洋23日下午到內湖與10多位里長座談並拜訪宮廟；蔣萬安全天車掃，並與民眾黨議員候選人同行。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    },
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/837011"
+    }
+   ]
+  },
   {
    "id": "2026-11-23-taipei-1",
    "date": "2026-11-23",
@@ -19,6 +44,31 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650328"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-23-new-taipei-1",
+   "date": "2026-11-23",
+   "raceId": "new-taipei",
+   "title": "蘇巧慧與李四川23日走訪汐金萬",
+   "summary": "新北市長候選人蘇巧慧上午在板橋拜票後前往金山、萬里、汐止，下午到新店、烏來；李四川上午在汐止，下午在金山與萬里車隊拜票。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/836896"
     }
    ]
   },
@@ -2720,48 +2770,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633805"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-08-penghu-1",
-   "date": "2026-11-08",
-   "raceId": "penghu",
-   "title": "賴清德赴澎湖為吳淑瑾站台",
-   "summary": "總統賴清德抵達澎湖，為吳淑瑾站台，前往馬公文澳城隍廟參拜並獻匾，也向民眾說明兒童及少年成長津貼等社福政策。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "penghu-4",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633803"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-08-nantou-1",
-   "date": "2026-11-08",
-   "raceId": "nantou",
-   "title": "温世政提婦幼與新住民政見",
-   "summary": "温世政出席婦女與新住民座談，提出每一萬人口設置一處托育中心、設立多語服務中心，並為求職或創業的新住民提供技能培訓與租屋補助。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "nantou-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633771"
     }
    ]
   }
