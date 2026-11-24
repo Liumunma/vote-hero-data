@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-24T08:02:48+08:00",
+ "updatedAt": "2026-11-24T13:02:58+08:00",
  "events": [
+  {
+   "id": "2026-11-24-taipei-2",
+   "date": "2026-11-24",
+   "raceId": "taipei",
+   "title": "沈伯洋中正萬華啟動傳統式車掃",
+   "summary": "沈伯洋24日上午在中正萬華啟動為期3天的車掃，由民進黨臺北市黨部主委吳沛憶等人陪同，路線避開通勤時段，以提醒市民投票、與居民互動為主。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611240064.aspx"
+    },
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/837103"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24-taipei-1",
+   "date": "2026-11-24",
+   "raceId": "taipei",
+   "title": "蔣萬安與議員候選人啟動3天車掃",
+   "summary": "蔣萬安24日與國民黨議員候選人啟動為期3天、跑6個選區的車掃，上午從松山、信義出發，下午前往中山、大同。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611240078.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-23-taipei-2",
    "date": "2026-11-23",
@@ -2728,48 +2774,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611090084.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-09-changhua-1",
-   "date": "2026-11-09",
-   "raceId": "changhua",
-   "title": "魏平政提產業轉型政見",
-   "summary": "魏平政9日舉行記者會提出產業轉型政見，內容包括AI設計加彰化製造、中科二林園區定位，以及招商引資單一服務窗口。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "changhua-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611090094.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-08-taichung-1",
-   "date": "2026-11-08",
-   "raceId": "taichung",
-   "title": "何欣純談74號快速道路交通規劃",
-   "summary": "何欣純在國際獅子後援會成立大會表示，當選後將興建74號之外的第二環道，並在74號匝道下方平面道路架設智慧交通管控系統，推動區域分流計畫。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633805"
     }
    ]
   }
