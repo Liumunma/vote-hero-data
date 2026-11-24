@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T13:02:58+08:00",
+ "updatedAt": "2026-11-24T20:03:09+08:00",
  "events": [
   {
    "id": "2026-11-24-taipei-2",
@@ -44,6 +44,77 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611240078.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24-new-taipei-1",
+   "date": "2026-11-24",
+   "raceId": "new-taipei",
+   "title": "蕭美琴林口參香 蘇巧慧陪同",
+   "summary": "副總統蕭美琴24日在林口竹林山觀音寺參香，由蘇巧慧陪同。蘇巧慧表示，29個行政區的車掃已完成一輪，之後還會再走訪一次。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611240113.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24-kaohsiung-1",
+   "date": "2026-11-24",
+   "raceId": "kaohsiung",
+   "title": "賴瑞隆與柯志恩公布27日選前之夜安排",
+   "summary": "賴瑞隆陣營27日晚間在鳳山辦選前應援之夜，開放追風搖滾區報名；柯志恩27日選前之夜將邀朱康演唱台語競選曲，地點在夢時代站旁廣場。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-3",
+     "delta": null
+    },
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611240161.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24-chiayi-city-1",
+   "date": "2026-11-24",
+   "raceId": "chiayi-city",
+   "title": "嘉義市長候選人24日各辦車掃",
+   "summary": "陳其邁與黃捷24日到嘉義市陪同王美惠車掃；張啓楷由黃敏惠、楊瓊瓔等人陪同車掃，表示選戰最後4天會走遍嘉義，陣營同日啟動嘉義市應援小隊。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-city-3",
+     "delta": null
+    },
+    {
+     "candidateId": "chiayi-city-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611240224.aspx"
     }
    ]
   },
@@ -2703,77 +2774,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5634338"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-09-keelung-1",
-   "date": "2026-11-09",
-   "raceId": "keelung",
-   "title": "童子瑋與謝國樑11月10日辯論",
-   "summary": "基隆市長候選人童子瑋與謝國樑將於11月10日在網路直播辯論，由匯流新聞網主辦。童子瑋表示要讓市民清楚基隆的未來藍圖，謝國樑表示將報告4年施政成果與未來規劃。",
-   "category": "debate",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "keelung-1",
-     "delta": null
-    },
-    {
-     "candidateId": "keelung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611090081.aspx"
-    },
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5634299"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-09-kaohsiung-2",
-   "date": "2026-11-09",
-   "raceId": "kaohsiung",
-   "title": "柯志恩推出第2則競選廣告",
-   "summary": "柯志恩9日推出第2則競選廣告，以街頭日常場景呈現，競選主軸為夢想海港，世界雄心。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611090085.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-09-kaohsiung-1",
-   "date": "2026-11-09",
-   "raceId": "kaohsiung",
-   "title": "賴瑞隆提左營科技門戶規劃",
-   "summary": "賴瑞隆在左營後援會成立大會提出，結合國家校際人才中心、左營高鐵科技之心與捷運紫線，推動1機場、3中心的產業布局。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611090084.aspx"
     }
    ]
   }
