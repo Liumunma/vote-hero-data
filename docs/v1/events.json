@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-25T08:02:49+08:00",
+ "updatedAt": "2026-11-25T13:02:29+08:00",
  "events": [
+  {
+   "id": "2026-11-25-taichung-1",
+   "date": "2026-11-25",
+   "raceId": "taichung",
+   "title": "盧秀燕宣布26、27日請假輔選",
+   "summary": "臺中市長盧秀燕25日表示，因輔選邀約多，將在26、27日請假全力投入輔選。針對何欣純邀請總統輔選，她回應江啟臣最大的王牌是人民。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611250108.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-24-taipei-2",
    "date": "2026-11-24",
@@ -2753,31 +2778,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611090078.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-09-taichung-2",
-   "date": "2026-11-09",
-   "raceId": "taichung",
-   "title": "何欣純車隊掃街 江啟臣妻赴市場",
-   "summary": "何欣純9日在中區、西區、北區車隊掃街。石舫亘與劉姿伶同日在北屯、潭子兩處市場為江啟臣拜票。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-1",
-     "delta": null
-    },
-    {
-     "candidateId": "taichung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611090220.aspx"
     }
    ]
   }

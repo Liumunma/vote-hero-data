@@ -4869,5 +4869,28 @@
    }
   ],
   "id": "2026-11-24-taipei-2"
+ },
+ {
+  "date": "2026-11-25",
+  "raceId": "taichung",
+  "title": "盧秀燕宣布26、27日請假輔選",
+  "summary": "臺中市長盧秀燕25日表示，因輔選邀約多，將在26、27日請假全力投入輔選。針對何欣純邀請總統輔選，她回應江啟臣最大的王牌是人民。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   },
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611250108.aspx"
+   }
+  ],
+  "id": "2026-11-25-taichung-1"
  }
 ]
