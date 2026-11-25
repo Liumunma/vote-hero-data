@@ -4872,6 +4872,52 @@
  },
  {
   "date": "2026-11-25",
+  "raceId": "chiayi-county",
+  "title": "吳品叡提警消升級四大政策",
+  "summary": "吳品叡25日在臉書提出「守護嘉園」警消升級政策，內容包括夜間勤務補貼與勤務調度改善；陳其邁同日陪同蔡易餘車掃。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "chiayi-county-1"
+   },
+   {
+    "candidateId": "chiayi-county-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611250299.aspx"
+   }
+  ],
+  "id": "2026-11-25-chiayi-county-1"
+ },
+ {
+  "date": "2026-11-25",
+  "raceId": "kinmen",
+  "title": "金門縣長候選人陳玉珍啟動3天車掃",
+  "summary": "陳玉珍25日起展開3天車隊掃街，走訪金門5個鄉鎮；李文良同日到金城鎮東門市場拜票。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "kinmen-5"
+   },
+   {
+    "candidateId": "kinmen-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611250178.aspx"
+   }
+  ],
+  "id": "2026-11-25-kinmen-1"
+ },
+ {
+  "date": "2026-11-25",
   "raceId": "taichung",
   "title": "盧秀燕宣布26、27日請假輔選",
   "summary": "臺中市長盧秀燕25日表示，因輔選邀約多，將在26、27日請假全力投入輔選。針對何欣純邀請總統輔選，她回應江啟臣最大的王牌是人民。",
@@ -4892,5 +4938,28 @@
    }
   ],
   "id": "2026-11-25-taichung-1"
+ },
+ {
+  "date": "2026-11-25",
+  "raceId": "taichung",
+  "title": "何欣純與江啟臣25日各辦車隊掃街",
+  "summary": "何欣純與前總統蔡英文25日在台中豐原車隊掃街；江啟臣則偕韓國瑜、盧秀燕車掃，並預告選前之夜韓國瑜將再到台中。",
+  "category": "campaign",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   },
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611250293.aspx"
+   }
+  ],
+  "id": "2026-11-25-taichung-2"
  }
 ]

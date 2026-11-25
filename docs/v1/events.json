@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-25T13:02:29+08:00",
+ "updatedAt": "2026-11-25T20:03:02+08:00",
  "events": [
+  {
+   "id": "2026-11-25-taichung-2",
+   "date": "2026-11-25",
+   "raceId": "taichung",
+   "title": "何欣純與江啟臣25日各辦車隊掃街",
+   "summary": "何欣純與前總統蔡英文25日在台中豐原車隊掃街；江啟臣則偕韓國瑜、盧秀燕車掃，並預告選前之夜韓國瑜將再到台中。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taichung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "taichung-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611250293.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-25-taichung-1",
    "date": "2026-11-25",
@@ -23,6 +48,56 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611250108.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25-kinmen-1",
+   "date": "2026-11-25",
+   "raceId": "kinmen",
+   "title": "金門縣長候選人陳玉珍啟動3天車掃",
+   "summary": "陳玉珍25日起展開3天車隊掃街，走訪金門5個鄉鎮；李文良同日到金城鎮東門市場拜票。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kinmen-5",
+     "delta": null
+    },
+    {
+     "candidateId": "kinmen-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611250178.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25-chiayi-county-1",
+   "date": "2026-11-25",
+   "raceId": "chiayi-county",
+   "title": "吳品叡提警消升級四大政策",
+   "summary": "吳品叡25日在臉書提出「守護嘉園」警消升級政策，內容包括夜間勤務補貼與勤務調度改善；陳其邁同日陪同蔡易餘車掃。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-county-1",
+     "delta": null
+    },
+    {
+     "candidateId": "chiayi-county-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611250299.aspx"
     }
    ]
   },
@@ -2703,81 +2778,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611100284.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-09-yunlin-2",
-   "date": "2026-11-09",
-   "raceId": "yunlin",
-   "title": "劉建國六師後援會成立 張嘉郡斗六掃街",
-   "summary": "劉建國舉行全國六師後援會成立大會，由邱泰源擔任總召集人；張嘉郡與黃尤美同日在斗六黃昏市場掃街，表示將延續斗六建設。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yunlin-2",
-     "delta": null
-    },
-    {
-     "candidateId": "yunlin-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611090228.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-09-yunlin-1",
-   "date": "2026-11-09",
-   "raceId": "yunlin",
-   "title": "雲林縣長公辦政見發表會錄影",
-   "summary": "雲林縣選委會舉辦縣長選舉公辦政見發表會錄影。張嘉郡提出調高老農津貼、青年創業加碼1億元等政見，劉建國就雲林建設與債務表達看法。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yunlin-2",
-     "delta": null
-    },
-    {
-     "candidateId": "yunlin-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611090076.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-09-taipei-1",
-   "date": "2026-11-09",
-   "raceId": "taipei",
-   "title": "沈伯洋提文化幣加碼 蔣萬安回應",
-   "summary": "沈伯洋主張臺北市加碼文化幣，並把適用年齡延伸至30歲。蔣萬安回應表示，沈伯洋在立法院可以趕快來推動。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    },
-    {
-     "candidateId": "taipei-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611090078.aspx"
     }
    ]
   }
