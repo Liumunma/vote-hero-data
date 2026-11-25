@@ -17,9 +17,10 @@ POLLS_CLOSE = datetime(2026, 11, 28, 16, 0, tzinfo=TW)
 NIGHT_END = datetime(2026, 11, 29, 6, 0, tzinfo=TW)
 FINAL_WEEK = datetime(2026, 11, 11, 0, 0, tzinfo=TW)
 
-# 開票夜即時資料：ElectionNight/count.py 每分鐘推到 live 分支，App 透過 GitHub API 讀（帶 ETag，304 不計流量限制）。
-# 被限流時 App 會退回讀 Pages 上的 v1/results.json（約每 6 分鐘更新）。
-RESULTS_LIVE_URL = "https://api.github.com/repos/Liumunma/vote-hero-data/contents/results.json?ref=live"
+# 開票夜即時資料：ElectionNight/count.py 每 20 秒推到 live 分支，App 經 Cloudflare 轉接站讀取
+# （ElectionNight/live-worker.js，邊緣快取 10 秒、帶 ETag，不受 GitHub API 每 IP 每小時 60 次限制）。
+# 轉接站失敗時 App 會退回讀 Pages 上的 v1/results.json（約每 6 分鐘更新）。
+RESULTS_LIVE_URL = "https://votehero-live.urpig.com/results.json"
 
 PARTIES = {"KMT", "DPP", "TPP", "OTHER", "IND"}
 CATEGORIES = {"policy", "debate", "rally", "scandal", "gaffe", "endorsement", "poll", "campaign", "other"}

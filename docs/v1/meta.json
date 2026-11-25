@@ -1,20 +1,20 @@
 {
  "schema": 1,
- "updatedAt": "2026-11-25T20:03:02+08:00",
+ "updatedAt": "2026-11-25T22:57:58+08:00",
  "mode": "blackout",
  "pollInterval": 900,
  "electionDay": "2026-11-28",
  "blackoutStart": "2026-11-18T00:00:00+08:00",
  "pollsClose": "2026-11-28T16:00:00+08:00",
- "resultsURL": "https://api.github.com/repos/Liumunma/vote-hero-data/contents/results.json?ref=live",
+ "resultsURL": "https://votehero-live.urpig.com/results.json",
  "minAppVersion": "1.0.0",
  "sealed": true,
  "notice": "投票勇者不做民調與選情預測；戰報整理自公開新聞，開票以中選會公告為準。",
  "files": {
   "candidates": "9f032565e77d",
-  "sentiment": "4ac823910bdd",
-  "forecast": "4ac823910bdd",
-  "events": "ea1a813c7d3e",
+  "sentiment": "1906c1eafffc",
+  "forecast": "1906c1eafffc",
+  "events": "2cef8ac8fc81",
   "results": "647fe2f286fe"
  }
 }
