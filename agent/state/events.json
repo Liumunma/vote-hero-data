@@ -4742,6 +4742,26 @@
  },
  {
   "date": "2026-11-24",
+  "raceId": "hsinchu-city",
+  "title": "黃敏惠陪高虹安新竹市車掃",
+  "summary": "嘉義市長黃敏惠24日北上新竹市，陪同高虹安車隊掃街。黃敏惠表示，此行是感謝新竹市去年協助嘉義災後復原，也盼市民支持高虹安連任。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "hsinchu-city-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611240288.aspx"
+   }
+  ],
+  "id": "2026-11-24-hsinchu-city-1"
+ },
+ {
+  "date": "2026-11-24",
   "raceId": "kaohsiung",
   "title": "賴瑞隆與柯志恩公布27日選前之夜安排",
   "summary": "賴瑞隆陣營27日晚間在鳳山辦選前應援之夜，開放追風搖滾區報名；柯志恩27日選前之夜將邀朱康演唱台語競選曲，地點在夢時代站旁廣場。",
@@ -4782,6 +4802,29 @@
    }
   ],
   "id": "2026-11-24-new-taipei-1"
+ },
+ {
+  "date": "2026-11-24",
+  "raceId": "pingtung",
+  "title": "鄭麗文陪蘇清泉潮州車掃 周春米屏北拜票",
+  "summary": "國民黨主席鄭麗文24日陪同蘇清泉在屏東潮州車掃，晚間出席原鄉音樂會；周春米則在中央市場、高樹鄉與九如鄉進行拜票及車掃行程。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "pingtung-1"
+   },
+   {
+    "candidateId": "pingtung-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611240309.aspx"
+   }
+  ],
+  "id": "2026-11-24-pingtung-1"
  },
  {
   "date": "2026-11-24",
