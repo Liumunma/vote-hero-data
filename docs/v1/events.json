@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-26T13:02:56+08:00",
+ "updatedAt": "2026-11-26T20:02:51+08:00",
  "events": [
+  {
+   "id": "2026-11-26-taipei-1",
+   "date": "2026-11-26",
+   "raceId": "taipei",
+   "title": "蔣萬安南港內湖車掃 韓國瑜同行",
+   "summary": "蔣萬安26日進行連續3天全市車掃的最終場，前往南港與內湖，立法院長韓國瑜與數位國民黨議員及議員候選人到場陪同。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611260219.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-26-pingtung-1",
    "date": "2026-11-26",
@@ -23,6 +44,48 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611260110.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26-keelung-1",
+   "date": "2026-11-26",
+   "raceId": "keelung",
+   "title": "童子瑋騎單車掃街 提YouBike政見",
+   "summary": "童子瑋26日下午5時從基隆夢想館騎單車經仁愛區掃街，終點為慶安宮。他提出若當選，一年內把YouBike引進基隆，方便搭火車或國道客運的通勤者接駁。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "keelung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611260245.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26-kaohsiung-1",
+   "date": "2026-11-26",
+   "raceId": "kaohsiung",
+   "title": "陳其邁陪賴瑞隆三民區車掃",
+   "summary": "賴瑞隆26日在三民區車掃，高雄市長陳其邁上午同行，下午與晚上預定前往前鎮、左營一帶。賴瑞隆呼籲民眾28日出門投票，並表示27日鳳山場改稱「隆洋之夜」。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611260161.aspx"
     }
    ]
   },
@@ -2723,69 +2786,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611100303.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-penghu-1",
-   "date": "2026-11-10",
-   "raceId": "penghu",
-   "title": "周倪安提澎湖農業政見",
-   "summary": "台聯黨參選人周倪安提出荒地代管復耕辦法，並主張爭取澎湖科技大學升格為台灣大學澎湖分校、增設農業經濟學院，目標培養八百名農業人才。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "penghu-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611100294.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-new-taipei-2",
-   "date": "2026-11-10",
-   "raceId": "new-taipei",
-   "title": "蘇巧慧出席耕莘醫院大樓動土典禮",
-   "summary": "民進黨參選人蘇巧慧出席新店耕莘醫院醫療大樓動土典禮，表示會做醫事人員的後盾，並提到改善醫療量能、支持智慧醫療與減輕行政負擔。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635484"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-new-taipei-1",
-   "date": "2026-11-10",
-   "raceId": "new-taipei",
-   "title": "李四川出席耕莘動土 提五大醫療建設",
-   "summary": "國民黨參選人李四川與新北市長侯友宜出席耕莘醫院醫療大樓動土典禮，李四川提出五大醫療建設，包括興建蘆洲醫院、加速板橋醫療園區、推動淡海新市鎮醫院、擴充土城醫療園區。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "new-taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635468"
     }
    ]
   }

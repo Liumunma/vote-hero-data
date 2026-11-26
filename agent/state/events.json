@@ -5051,6 +5051,46 @@
  },
  {
   "date": "2026-11-26",
+  "raceId": "kaohsiung",
+  "title": "陳其邁陪賴瑞隆三民區車掃",
+  "summary": "賴瑞隆26日在三民區車掃，高雄市長陳其邁上午同行，下午與晚上預定前往前鎮、左營一帶。賴瑞隆呼籲民眾28日出門投票，並表示27日鳳山場改稱「隆洋之夜」。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611260161.aspx"
+   }
+  ],
+  "id": "2026-11-26-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-26",
+  "raceId": "keelung",
+  "title": "童子瑋騎單車掃街 提YouBike政見",
+  "summary": "童子瑋26日下午5時從基隆夢想館騎單車經仁愛區掃街，終點為慶安宮。他提出若當選，一年內把YouBike引進基隆，方便搭火車或國道客運的通勤者接駁。",
+  "category": "policy",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "keelung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611260245.aspx"
+   }
+  ],
+  "id": "2026-11-26-keelung-1"
+ },
+ {
+  "date": "2026-11-26",
   "raceId": "pingtung",
   "title": "周春米與蘇清泉公布選前之夜活動",
   "summary": "屏東縣長候選人周春米預告26日晚間6點30分從聯合競選總部出發辦踩街嘉年華；蘇清泉同晚6點在屏東慈鳳宮前辦定點造勢，邀李鴻源、陳菁徽助講。",
@@ -5071,5 +5111,25 @@
    }
   ],
   "id": "2026-11-26-pingtung-1"
+ },
+ {
+  "date": "2026-11-26",
+  "raceId": "taipei",
+  "title": "蔣萬安南港內湖車掃 韓國瑜同行",
+  "summary": "蔣萬安26日進行連續3天全市車掃的最終場，前往南港與內湖，立法院長韓國瑜與數位國民黨議員及議員候選人到場陪同。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611260219.aspx"
+   }
+  ],
+  "id": "2026-11-26-taipei-1"
  }
 ]
