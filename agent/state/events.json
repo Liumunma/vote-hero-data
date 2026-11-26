@@ -5048,5 +5048,28 @@
    }
   ],
   "id": "2026-11-25-taichung-2"
+ },
+ {
+  "date": "2026-11-26",
+  "raceId": "pingtung",
+  "title": "周春米與蘇清泉公布選前之夜活動",
+  "summary": "屏東縣長候選人周春米預告26日晚間6點30分從聯合競選總部出發辦踩街嘉年華；蘇清泉同晚6點在屏東慈鳳宮前辦定點造勢，邀李鴻源、陳菁徽助講。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "pingtung-1"
+   },
+   {
+    "candidateId": "pingtung-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611260110.aspx"
+   }
+  ],
+  "id": "2026-11-26-pingtung-1"
  }
 ]

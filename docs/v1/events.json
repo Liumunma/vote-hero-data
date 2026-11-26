@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-26T08:03:17+08:00",
+ "updatedAt": "2026-11-26T13:02:56+08:00",
  "events": [
+  {
+   "id": "2026-11-26-pingtung-1",
+   "date": "2026-11-26",
+   "raceId": "pingtung",
+   "title": "周春米與蘇清泉公布選前之夜活動",
+   "summary": "屏東縣長候選人周春米預告26日晚間6點30分從聯合競選總部出發辦踩街嘉年華；蘇清泉同晚6點在屏東慈鳳宮前辦定點造勢，邀李鴻源、陳菁徽助講。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "pingtung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "pingtung-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611260110.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-25-taichung-2",
    "date": "2026-11-25",
@@ -2761,31 +2786,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635468"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-keelung-1",
-   "date": "2026-11-10",
-   "raceId": "keelung",
-   "title": "基隆市長網路辯論 交鋒捷運路線",
-   "summary": "謝國樑與童子瑋在網路直播辯論會中，針對基隆捷運第2階段路線交叉詰問。謝國樑主張台鐵不退場、捷運經安樂區延伸；童子瑋表示將以台鐵路廊雙軌共構，任內不拆台鐵。",
-   "category": "debate",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "keelung-3",
-     "delta": null
-    },
-    {
-     "candidateId": "keelung-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611100199.aspx"
     }
    ]
   }
