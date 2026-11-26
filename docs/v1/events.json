@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T22:57:58+08:00",
+ "updatedAt": "2026-11-26T08:03:17+08:00",
  "events": [
   {
    "id": "2026-11-25-taichung-2",
@@ -52,6 +52,77 @@
    ]
   },
   {
+   "id": "2026-11-25-pingtung-1",
+   "date": "2026-11-25",
+   "raceId": "pingtung",
+   "title": "蘇清泉恆春晚會簽署光電5大承諾",
+   "summary": "國民黨屏東縣長候選人蘇清泉25日晚間在恆春舉辦造勢晚會，與鎮長候選人簽署光電5大承諾，包括牡丹水庫不設光電板，並邀請周春米一同簽署。周春米當天在長治鄉、林邊鄉車掃。",
+   "category": "policy",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "pingtung-1",
+     "delta": null
+    },
+    {
+     "candidateId": "pingtung-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611250317.aspx"
+    },
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9902064"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25-nantou-1",
+   "date": "2026-11-25",
+   "raceId": "nantou",
+   "title": "温世政感恩音樂會 賴清德卓榮泰到場",
+   "summary": "民進黨南投縣長候選人温世政25日舉辦感恩音樂會，賴清德與卓榮泰到場。賴清德表示中央願為南投捷運或輕軌建設負擔八成經費，温世政則提出交通建設與長輩照顧等政見。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "nantou-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611250336.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25-miaoli-1",
+   "date": "2026-11-25",
+   "raceId": "miaoli",
+   "title": "陳品安竹南辦女力團結之夜 蔡英文蕭美琴到場",
+   "summary": "民進黨苗栗縣長候選人陳品安25日晚間在竹南舉辦造勢活動，前總統蔡英文與副總統蕭美琴出席。陳品安提出每鄉鎮設公托、公托名額加倍等政見。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "miaoli-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611250325.aspx"
+    }
+   ]
+  },
+  {
    "id": "2026-11-25-kinmen-1",
    "date": "2026-11-25",
    "raceId": "kinmen",
@@ -73,6 +144,27 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611250178.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25-kaohsiung-1",
+   "date": "2026-11-25",
+   "raceId": "kaohsiung",
+   "title": "黃偉哲陪賴瑞隆高雄車掃 談南高合作",
+   "summary": "台南市長黃偉哲25日陪同高雄市長候選人賴瑞隆在左營、楠梓車隊掃街。兩人表示高雄與台南可串接捷運、共同發展。",
+   "category": "endorsement",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "kaohsiung-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/124652/9902319"
     }
    ]
   },
@@ -2694,90 +2786,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aloc/202611100199.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-kaohsiung-1",
-   "date": "2026-11-10",
-   "raceId": "kaohsiung",
-   "title": "賴瑞隆與社工團體座談 提五大面向承諾",
-   "summary": "賴瑞隆10日晚間出席高雄市社工工會與社工師公會的座談並簽署承諾書，提出待遇、行政減壓、專業保障、執業安全與制度參與五大面向。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "kaohsiung-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611110189.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-hualien-1",
-   "date": "2026-11-10",
-   "raceId": "hualien",
-   "title": "蕭美琴花蓮贈扁擔予張峻",
-   "summary": "蕭美琴在花蓮吉安鄉將扁擔贈予無黨籍參選人張峻，表示「希望花蓮這個特殊而且珍貴的地方，大家要共同的來守護，所以今天在這裡，一起把政黨擺兩邊，花蓮擺中間。」",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "hualien-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611100296.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-hsinchu-county-1",
-   "date": "2026-11-10",
-   "raceId": "hsinchu-county",
-   "title": "鄭朝方提竹縣好市 規劃13鄉鎮市集",
-   "summary": "民進黨參選人鄭朝方提出竹縣好市政見，盤點公共空間規劃常態地景市集，優先評估竹東火車站周邊、竹北與新豐濱海空間，並提供品牌輔導與招商媒合。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "hsinchu-county-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635455"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-hsinchu-city-1",
-   "date": "2026-11-10",
-   "raceId": "hsinchu-city",
-   "title": "林右昌陪莊競程新竹車掃",
-   "summary": "前內政部長林右昌10日在新竹市陪同民進黨參選人莊競程車掃，表示願分享基隆市長與內政部長任內經驗；莊競程說希望重新啟動新竹的建設。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "hsinchu-city-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611100284.aspx"
     }
    ]
   }

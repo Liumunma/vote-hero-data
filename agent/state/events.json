@@ -4895,6 +4895,26 @@
  },
  {
   "date": "2026-11-25",
+  "raceId": "kaohsiung",
+  "title": "黃偉哲陪賴瑞隆高雄車掃 談南高合作",
+  "summary": "台南市長黃偉哲25日陪同高雄市長候選人賴瑞隆在左營、楠梓車隊掃街。兩人表示高雄與台南可串接捷運、共同發展。",
+  "category": "endorsement",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9902319"
+   }
+  ],
+  "id": "2026-11-25-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-25",
   "raceId": "kinmen",
   "title": "金門縣長候選人陳玉珍啟動3天車掃",
   "summary": "陳玉珍25日起展開3天車隊掃街，走訪金門5個鄉鎮；李文良同日到金城鎮東門市場拜票。",
@@ -4915,6 +4935,73 @@
    }
   ],
   "id": "2026-11-25-kinmen-1"
+ },
+ {
+  "date": "2026-11-25",
+  "raceId": "miaoli",
+  "title": "陳品安竹南辦女力團結之夜 蔡英文蕭美琴到場",
+  "summary": "民進黨苗栗縣長候選人陳品安25日晚間在竹南舉辦造勢活動，前總統蔡英文與副總統蕭美琴出席。陳品安提出每鄉鎮設公托、公托名額加倍等政見。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "miaoli-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611250325.aspx"
+   }
+  ],
+  "id": "2026-11-25-miaoli-1"
+ },
+ {
+  "date": "2026-11-25",
+  "raceId": "nantou",
+  "title": "温世政感恩音樂會 賴清德卓榮泰到場",
+  "summary": "民進黨南投縣長候選人温世政25日舉辦感恩音樂會，賴清德與卓榮泰到場。賴清德表示中央願為南投捷運或輕軌建設負擔八成經費，温世政則提出交通建設與長輩照顧等政見。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "nantou-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611250336.aspx"
+   }
+  ],
+  "id": "2026-11-25-nantou-1"
+ },
+ {
+  "date": "2026-11-25",
+  "raceId": "pingtung",
+  "title": "蘇清泉恆春晚會簽署光電5大承諾",
+  "summary": "國民黨屏東縣長候選人蘇清泉25日晚間在恆春舉辦造勢晚會，與鎮長候選人簽署光電5大承諾，包括牡丹水庫不設光電板，並邀請周春米一同簽署。周春米當天在長治鄉、林邊鄉車掃。",
+  "category": "policy",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "pingtung-1"
+   },
+   {
+    "candidateId": "pingtung-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611250317.aspx"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/124652/9902064"
+   }
+  ],
+  "id": "2026-11-25-pingtung-1"
  },
  {
   "date": "2026-11-25",
