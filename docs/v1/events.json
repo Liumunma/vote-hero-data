@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-26T20:02:51+08:00",
+ "updatedAt": "2026-11-27T08:02:54+08:00",
  "events": [
+  {
+   "id": "2026-11-27-taipei-1",
+   "date": "2026-11-27",
+   "raceId": "taipei",
+   "title": "沈伯洋公布27日車掃路線與晚間直播",
+   "summary": "沈伯洋公布27日上午9時30分從北平東路競選總部出發，全程不下車，並在6處站點各發表談話；晚間7時改以線上直播進行市民之夜。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/125078/9904554"
+    },
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611260295.aspx"
+    }
+   ]
+  },
   {
    "id": "2026-11-26-taipei-1",
    "date": "2026-11-26",
@@ -48,6 +73,35 @@
    ]
   },
   {
+   "id": "2026-11-26-new-taipei-1",
+   "date": "2026-11-26",
+   "raceId": "new-taipei",
+   "title": "朱立倫、侯友宜分別陪李四川掃街",
+   "summary": "朱立倫26日下午陪李四川在鶯歌、三峽、土城、板橋車隊掃街，晚間侯友宜陪同在永和樂華夜市拜票；蘇巧慧當天在淡水、三重、蘆洲車掃。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "new-taipei-3",
+     "delta": null
+    },
+    {
+     "candidateId": "new-taipei-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611260303.aspx"
+    },
+    {
+     "name": "聯合報",
+     "url": "https://udn.com/news/story/125077/9904499"
+    }
+   ]
+  },
+  {
    "id": "2026-11-26-keelung-1",
    "date": "2026-11-26",
    "raceId": "keelung",
@@ -86,6 +140,31 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611260161.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26-chiayi-city-1",
+   "date": "2026-11-26",
+   "raceId": "chiayi-city",
+   "title": "張啓楷嘉義中正公園造勢 黃國昌鄭麗文助講",
+   "summary": "張啓楷26日在嘉義中正公園舉辦造勢活動，黃國昌、鄭麗文與黃敏惠到場站台；王美惠同日辦車隊掃街，並邀請市民參加27日選前之夜。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "chiayi-city-3",
+     "delta": null
+    },
+    {
+     "candidateId": "chiayi-city-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611260308.aspx"
     }
    ]
   },
@@ -2723,69 +2802,6 @@
     {
      "name": "自由時報",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636775"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-11-chiayi-city-1",
-   "date": "2026-11-11",
-   "raceId": "chiayi-city",
-   "title": "王美惠15日晚辦造勢晚會 邀蔡英文等助講",
-   "summary": "王美惠11日表示，15日晚間在公明路、啟明路口舉辦造勢晚會，邀請蔡英文、蕭美琴、卓榮泰、劉世芳站台，並提出AI交通、長照與智慧防災等政見。",
-   "category": "rally",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "chiayi-city-4",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611110206.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-yunlin-1",
-   "date": "2026-11-10",
-   "raceId": "yunlin",
-   "title": "張嘉郡出席四大國際社團後援會成立",
-   "summary": "張嘉郡出席四大國際社團後援會成立大會，並表示若當選將捐出依法領取的選舉補助款，用於監護兒少照顧，例如為每位監護兒少準備5萬元定存。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yunlin-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611100253.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-10-yilan-1",
-   "date": "2026-11-10",
-   "raceId": "yilan",
-   "title": "賴清德赴宜蘭為林國漳輔選",
-   "summary": "賴清德10日走訪壯圍、員山、羅東與宜蘭市廟宇，為民進黨參選人林國漳輔選，提到高鐵延伸宜蘭案與宜蘭至羅東鐵路高架化計畫已核定。",
-   "category": "endorsement",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yilan-1",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611100303.aspx"
     }
    ]
   }

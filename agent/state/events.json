@@ -5051,6 +5051,29 @@
  },
  {
   "date": "2026-11-26",
+  "raceId": "chiayi-city",
+  "title": "張啓楷嘉義中正公園造勢 黃國昌鄭麗文助講",
+  "summary": "張啓楷26日在嘉義中正公園舉辦造勢活動，黃國昌、鄭麗文與黃敏惠到場站台；王美惠同日辦車隊掃街，並邀請市民參加27日選前之夜。",
+  "category": "rally",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "chiayi-city-3"
+   },
+   {
+    "candidateId": "chiayi-city-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611260308.aspx"
+   }
+  ],
+  "id": "2026-11-26-chiayi-city-1"
+ },
+ {
+  "date": "2026-11-26",
   "raceId": "kaohsiung",
   "title": "陳其邁陪賴瑞隆三民區車掃",
   "summary": "賴瑞隆26日在三民區車掃，高雄市長陳其邁上午同行，下午與晚上預定前往前鎮、左營一帶。賴瑞隆呼籲民眾28日出門投票，並表示27日鳳山場改稱「隆洋之夜」。",
@@ -5088,6 +5111,33 @@
    }
   ],
   "id": "2026-11-26-keelung-1"
+ },
+ {
+  "date": "2026-11-26",
+  "raceId": "new-taipei",
+  "title": "朱立倫、侯友宜分別陪李四川掃街",
+  "summary": "朱立倫26日下午陪李四川在鶯歌、三峽、土城、板橋車隊掃街，晚間侯友宜陪同在永和樂華夜市拜票；蘇巧慧當天在淡水、三重、蘆洲車掃。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-3"
+   },
+   {
+    "candidateId": "new-taipei-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611260303.aspx"
+   },
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/125077/9904499"
+   }
+  ],
+  "id": "2026-11-26-new-taipei-1"
  },
  {
   "date": "2026-11-26",
@@ -5131,5 +5181,29 @@
    }
   ],
   "id": "2026-11-26-taipei-1"
+ },
+ {
+  "date": "2026-11-27",
+  "raceId": "taipei",
+  "title": "沈伯洋公布27日車掃路線與晚間直播",
+  "summary": "沈伯洋公布27日上午9時30分從北平東路競選總部出發，全程不下車，並在6處站點各發表談話；晚間7時改以線上直播進行市民之夜。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "聯合報",
+    "url": "https://udn.com/news/story/125078/9904554"
+   },
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611260295.aspx"
+   }
+  ],
+  "id": "2026-11-27-taipei-1"
  }
 ]
