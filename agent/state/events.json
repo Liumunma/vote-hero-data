@@ -5207,6 +5207,53 @@
  },
  {
   "date": "2026-11-27",
+  "raceId": "keelung",
+  "title": "童子瑋選前夜騎YouBike掃街",
+  "summary": "童子瑋27日晚間在基隆舉辦造勢活動並騎YouBike掃街，林右昌、黃景泰與謝立功到場，呼籲市民28日投票。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "keelung-1"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611270230.aspx"
+   },
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655750"
+   }
+  ],
+  "id": "2026-11-27-keelung-1"
+ },
+ {
+  "date": "2026-11-27",
+  "raceId": "nantou",
+  "title": "蕭美琴南投參香 陪温世政掃街",
+  "summary": "副總統蕭美琴27日在南投市天明宮參香，陪同温世政前往名間鄉、南投市掃街；許淑華則在水里、竹山、草屯等地徒步拜票。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "nantou-1"
+   },
+   {
+    "candidateId": "nantou-2"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611270219.aspx"
+   }
+  ],
+  "id": "2026-11-27-nantou-1"
+ },
+ {
+  "date": "2026-11-27",
   "raceId": "new-taipei",
   "title": "李四川與侯友宜三重力行市場掃街",
   "summary": "李四川27日偕同新北市長侯友宜到三重區力行市場逐攤拜票，並請市民28日投票，表示將延續侯友宜任內建設。",
@@ -5250,6 +5297,29 @@
  },
  {
   "date": "2026-11-27",
+  "raceId": "tainan",
+  "title": "謝龍介全市車掃 陳亭妃造勢蔡英文到場",
+  "summary": "謝龍介27日分早、午、晚三段在台南車掃；陳亭妃在新營舉辦造勢活動，前總統蔡英文到場致詞。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "tainan-2"
+   },
+   {
+    "candidateId": "tainan-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611270224.aspx"
+   }
+  ],
+  "id": "2026-11-27-tainan-1"
+ },
+ {
+  "date": "2026-11-27",
   "raceId": "taipei",
   "title": "沈伯洋公布27日車掃路線與晚間直播",
   "summary": "沈伯洋公布27日上午9時30分從北平東路競選總部出發，全程不下車，並在6處站點各發表談話；晚間7時改以線上直播進行市民之夜。",
@@ -5271,5 +5341,52 @@
    }
   ],
   "id": "2026-11-27-taipei-1"
+ },
+ {
+  "date": "2026-11-27",
+  "raceId": "taipei",
+  "title": "蔣萬安凱道選前之夜 盧秀燕出席",
+  "summary": "蔣萬安27日晚間在凱達格蘭大道舉辦選前之夜晚會，台中市長盧秀燕出席並呼籲民眾28日出門投票。",
+  "category": "rally",
+  "impact": 3,
+  "effects": [
+   {
+    "candidateId": "taipei-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "自由時報",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655731"
+   },
+   {
+    "name": "公視",
+    "url": "https://news.pts.org.tw/article/837638"
+   }
+  ],
+  "id": "2026-11-27-taipei-2"
+ },
+ {
+  "date": "2026-11-27",
+  "raceId": "taitung",
+  "title": "陳瑩與吳秀華27日傍晚台東徒步掃街",
+  "summary": "陳瑩27日傍晚在台東徒步掃街，談到希望年輕人能留在台東就業；吳秀華由黃健庭、饒慶鈴陪同掃街，呼籲鄉親投票。",
+  "category": "campaign",
+  "impact": 1,
+  "effects": [
+   {
+    "candidateId": "taitung-2"
+   },
+   {
+    "candidateId": "taitung-4"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611270235.aspx"
+   }
+  ],
+  "id": "2026-11-27-taitung-1"
  }
 ]

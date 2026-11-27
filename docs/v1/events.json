@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-11-27T13:03:03+08:00",
+ "updatedAt": "2026-11-27T20:03:13+08:00",
  "events": [
+  {
+   "id": "2026-11-27-taitung-1",
+   "date": "2026-11-27",
+   "raceId": "taitung",
+   "title": "陳瑩與吳秀華27日傍晚台東徒步掃街",
+   "summary": "陳瑩27日傍晚在台東徒步掃街，談到希望年輕人能留在台東就業；吳秀華由黃健庭、饒慶鈴陪同掃街，呼籲鄉親投票。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taitung-2",
+     "delta": null
+    },
+    {
+     "candidateId": "taitung-4",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611270235.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27-taipei-2",
+   "date": "2026-11-27",
+   "raceId": "taipei",
+   "title": "蔣萬安凱道選前之夜 盧秀燕出席",
+   "summary": "蔣萬安27日晚間在凱達格蘭大道舉辦選前之夜晚會，台中市長盧秀燕出席並呼籲民眾28日出門投票。",
+   "category": "rally",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "taipei-5",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655731"
+    },
+    {
+     "name": "公視",
+     "url": "https://news.pts.org.tw/article/837638"
+    }
+   ]
+  },
   {
    "id": "2026-11-27-taipei-1",
    "date": "2026-11-27",
@@ -23,6 +73,31 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611260295.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27-tainan-1",
+   "date": "2026-11-27",
+   "raceId": "tainan",
+   "title": "謝龍介全市車掃 陳亭妃造勢蔡英文到場",
+   "summary": "謝龍介27日分早、午、晚三段在台南車掃；陳亭妃在新營舉辦造勢活動，前總統蔡英文到場致詞。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "tainan-2",
+     "delta": null
+    },
+    {
+     "candidateId": "tainan-3",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aipl/202611270224.aspx"
     }
    ]
   },
@@ -69,6 +144,56 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611270057.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27-nantou-1",
+   "date": "2026-11-27",
+   "raceId": "nantou",
+   "title": "蕭美琴南投參香 陪温世政掃街",
+   "summary": "副總統蕭美琴27日在南投市天明宮參香，陪同温世政前往名間鄉、南投市掃街；許淑華則在水里、竹山、草屯等地徒步拜票。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "nantou-1",
+     "delta": null
+    },
+    {
+     "candidateId": "nantou-2",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611270219.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27-keelung-1",
+   "date": "2026-11-27",
+   "raceId": "keelung",
+   "title": "童子瑋選前夜騎YouBike掃街",
+   "summary": "童子瑋27日晚間在基隆舉辦造勢活動並騎YouBike掃街，林右昌、黃景泰與謝立功到場，呼籲市民28日投票。",
+   "category": "campaign",
+   "status": "scored",
+   "impacts": [
+    {
+     "candidateId": "keelung-1",
+     "delta": null
+    }
+   ],
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aloc/202611270230.aspx"
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655750"
     }
    ]
   },
@@ -2697,119 +2822,6 @@
     {
      "name": "中央社",
      "url": "https://www.cna.com.tw/news/aipl/202611120242.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-11-yunlin-1",
-   "date": "2026-11-11",
-   "raceId": "yunlin",
-   "title": "劉建國提高齡醫療與失智照護規劃",
-   "summary": "劉建國11日表示，將整合國家高齡中心與臺大雲林分院虎尾院區二期等資源，打造醫療照護產業園區，並推動失智症資料庫與早期篩檢。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "yunlin-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637470"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-11-taoyuan-1",
-   "date": "2026-11-11",
-   "raceId": "taoyuan",
-   "title": "張善政宣布12日起請假衝刺競選",
-   "summary": "張善政在市議會表示將自11月12日起請假參選，並說明市府由副市長等人持續運作，已承諾的政策與建設會持續推進。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taoyuan-2",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "自由時報",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636809"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-11-taipei-2",
-   "date": "2026-11-11",
-   "raceId": "taipei",
-   "title": "蔣萬安12日起請假 說明市政運作",
-   "summary": "蔣萬安表示將自11月12日起請假投入競選，市政團隊持續留守崗位。他也提到14日北市首場公辦電視辯論，會說明過去四年成果與未來規劃。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-5",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aloc/202611110097.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-11-taipei-1",
-   "date": "2026-11-11",
-   "raceId": "taipei",
-   "title": "沈伯洋表示12日起請假投入競選",
-   "summary": "沈伯洋表示將自11月12日起請假，希望選前有更多時間走訪基層。他並提到14日將出席公開政見論壇，說明自己的政見。",
-   "category": "campaign",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taipei-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611110065.aspx"
-    },
-    {
-     "name": "聯合報",
-     "url": "https://udn.com/news/story/124652/9871563"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-11-taichung-2",
-   "date": "2026-11-11",
-   "raceId": "taichung",
-   "title": "何欣純提潭雅神新政 江啟臣與韓國瑜掃街",
-   "summary": "何欣純11日提出潭雅神新政，內容含神岡豐洲科技工業園區二期、機場捷運橘線與豐科軸線、公共托育與一里一活動中心。江啟臣同日與韓國瑜在霧峰、大里拜票掃街。",
-   "category": "policy",
-   "status": "scored",
-   "impacts": [
-    {
-     "candidateId": "taichung-1",
-     "delta": null
-    },
-    {
-     "candidateId": "taichung-3",
-     "delta": null
-    }
-   ],
-   "sources": [
-    {
-     "name": "中央社",
-     "url": "https://www.cna.com.tw/news/aipl/202611110294.aspx"
     }
    ]
   }
