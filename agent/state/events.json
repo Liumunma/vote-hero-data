@@ -5184,6 +5184,72 @@
  },
  {
   "date": "2026-11-27",
+  "raceId": "kaohsiung",
+  "title": "賴瑞隆與柯志恩27日車掃 晚間辦選前之夜",
+  "summary": "賴瑞隆27日在岡山、橋頭、鳳山車掃，晚間在捷運鳳山西站旁舉辦選前之夜。柯志恩一早在鳳山車掃，晚間也舉辦選前之夜活動。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "kaohsiung-3"
+   },
+   {
+    "candidateId": "kaohsiung-5"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aloc/202611270084.aspx"
+   }
+  ],
+  "id": "2026-11-27-kaohsiung-1"
+ },
+ {
+  "date": "2026-11-27",
+  "raceId": "new-taipei",
+  "title": "李四川與侯友宜三重力行市場掃街",
+  "summary": "李四川27日偕同新北市長侯友宜到三重區力行市場逐攤拜票，並請市民28日投票，表示將延續侯友宜任內建設。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "new-taipei-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611270057.aspx"
+   }
+  ],
+  "id": "2026-11-27-new-taipei-1"
+ },
+ {
+  "date": "2026-11-27",
+  "raceId": "taichung",
+  "title": "何欣純與江啟臣27日車掃 晚間各辦選前之夜",
+  "summary": "何欣純27日上午從烏日出發車掃，轉往海線，晚間在南屯區圓滿戶外劇場舉辦選前之夜。江啟臣從西區出發市區掃街，晚間同在南屯區辦選前之夜晚會。",
+  "category": "campaign",
+  "impact": 2,
+  "effects": [
+   {
+    "candidateId": "taichung-1"
+   },
+   {
+    "candidateId": "taichung-3"
+   }
+  ],
+  "sources": [
+   {
+    "name": "中央社",
+    "url": "https://www.cna.com.tw/news/aipl/202611270054.aspx"
+   }
+  ],
+  "id": "2026-11-27-taichung-1"
+ },
+ {
+  "date": "2026-11-27",
   "raceId": "taipei",
   "title": "沈伯洋公布27日車掃路線與晚間直播",
   "summary": "沈伯洋公布27日上午9時30分從北平東路競選總部出發，全程不下車，並在6處站點各發表談話；晚間7時改以線上直播進行市民之夜。",
