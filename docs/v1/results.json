@@ -1,70 +1,70 @@
 {
- "updatedAt": "2026-11-28T17:19:56+08:00",
+ "updatedAt": "2026-11-28T17:26:11+08:00",
  "source": "中選會",
  "live": true,
  "races": {
   "taipei": {
-   "stationsReported": 2,
+   "stationsReported": 4,
    "stationsTotal": 1790,
    "votes": {
-    "taipei-1": 4,
-    "taipei-2": 0,
-    "taipei-3": 611,
-    "taipei-4": 0,
-    "taipei-5": 496,
-    "taipei-6": 2
+    "taipei-1": 7,
+    "taipei-2": 1,
+    "taipei-3": 1316,
+    "taipei-4": 4,
+    "taipei-5": 1141,
+    "taipei-6": 3
    },
    "elected": null
   },
   "new-taipei": {
-   "stationsReported": 22,
+   "stationsReported": 35,
    "stationsTotal": 2728,
    "votes": {
-    "new-taipei-1": 2725,
-    "new-taipei-2": 36,
-    "new-taipei-3": 2584
+    "new-taipei-1": 4122,
+    "new-taipei-2": 52,
+    "new-taipei-3": 3995
    },
    "elected": null
   },
   "taoyuan": {
-   "stationsReported": 2,
+   "stationsReported": 3,
    "stationsTotal": 1479,
    "votes": {
-    "taoyuan-1": 601,
-    "taoyuan-2": 901
+    "taoyuan-1": 703,
+    "taoyuan-2": 1495
    },
    "elected": null
   },
   "taichung": {
-   "stationsReported": 1,
+   "stationsReported": 5,
    "stationsTotal": 1980,
    "votes": {
-    "taichung-1": 46,
-    "taichung-2": 1,
-    "taichung-3": 85
+    "taichung-1": 883,
+    "taichung-2": 18,
+    "taichung-3": 833
    },
    "elected": null
   },
   "tainan": {
-   "stationsReported": 33,
+   "stationsReported": 47,
    "stationsTotal": 1563,
    "votes": {
-    "tainan-1": 45,
-    "tainan-2": 3094,
-    "tainan-3": 4074,
-    "tainan-4": 129
+    "tainan-1": 66,
+    "tainan-2": 4924,
+    "tainan-3": 6756,
+    "tainan-4": 220
    },
    "elected": null
   },
   "kaohsiung": {
-   "stationsReported": 17,
+   "stationsReported": 28,
    "stationsTotal": 2089,
    "votes": {
-    "kaohsiung-1": 36,
-    "kaohsiung-2": 25,
-    "kaohsiung-3": 2490,
-    "kaohsiung-4": 21,
-    "kaohsiung-5": 3205
+    "kaohsiung-1": 60,
+    "kaohsiung-2": 46,
+    "kaohsiung-3": 4268,
+    "kaohsiung-4": 49,
+    "kaohsiung-5": 5644
    },
    "elected": null
   },
@@ -119,11 +119,11 @@
    "elected": null
   },
   "nantou": {
-   "stationsReported": 3,
+   "stationsReported": 5,
    "stationsTotal": 496,
    "votes": {
-    "nantou-1": 243,
-    "nantou-2": 97
+    "nantou-1": 437,
+    "nantou-2": 176
    },
    "elected": null
   },
@@ -139,11 +139,11 @@
    "elected": null
   },
   "chiayi-county": {
-   "stationsReported": 2,
+   "stationsReported": 3,
    "stationsTotal": 540,
    "votes": {
-    "chiayi-county-1": 32,
-    "chiayi-county-2": 92
+    "chiayi-county-1": 86,
+    "chiayi-county-2": 202
    },
    "elected": null
   },
@@ -160,23 +160,23 @@
    "elected": null
   },
   "pingtung": {
-   "stationsReported": 0,
+   "stationsReported": 1,
    "stationsTotal": 740,
    "votes": {
-    "pingtung-1": 0,
-    "pingtung-2": 0
+    "pingtung-1": 69,
+    "pingtung-2": 104
    },
    "elected": null
   },
   "yilan": {
-   "stationsReported": 1,
+   "stationsReported": 2,
    "stationsTotal": 436,
    "votes": {
-    "yilan-1": 12,
-    "yilan-2": 0,
-    "yilan-3": 7,
+    "yilan-1": 68,
+    "yilan-2": 1,
+    "yilan-3": 66,
     "yilan-4": 0,
-    "yilan-5": 3
+    "yilan-5": 5
    },
    "elected": null
   },
@@ -203,29 +203,29 @@
    "elected": null
   },
   "penghu": {
-   "stationsReported": 8,
+   "stationsReported": 11,
    "stationsTotal": 121,
    "votes": {
-    "penghu-1": 13,
-    "penghu-2": 10,
-    "penghu-3": 111,
-    "penghu-4": 249,
-    "penghu-5": 279,
-    "penghu-6": 6
+    "penghu-1": 25,
+    "penghu-2": 18,
+    "penghu-3": 169,
+    "penghu-4": 373,
+    "penghu-5": 493,
+    "penghu-6": 10
    },
    "elected": null
   },
   "kinmen": {
-   "stationsReported": 2,
+   "stationsReported": 3,
    "stationsTotal": 101,
    "votes": {
-    "kinmen-1": 2,
-    "kinmen-2": 13,
-    "kinmen-3": 1,
+    "kinmen-1": 6,
+    "kinmen-2": 92,
+    "kinmen-3": 5,
     "kinmen-4": 1,
-    "kinmen-5": 50,
-    "kinmen-6": 0,
-    "kinmen-7": 1
+    "kinmen-5": 279,
+    "kinmen-6": 1,
+    "kinmen-7": 7
    },
    "elected": null
   },
