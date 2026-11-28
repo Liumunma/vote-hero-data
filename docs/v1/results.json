@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T16:48:59+08:00",
+ "updatedAt": "2026-11-28T16:54:59+08:00",
  "source": "中選會",
  "live": true,
  "races": {
@@ -46,13 +46,13 @@
    "elected": null
   },
   "tainan": {
-   "stationsReported": 1,
+   "stationsReported": 3,
    "stationsTotal": 1563,
    "votes": {
     "tainan-1": 2,
-    "tainan-2": 43,
-    "tainan-3": 72,
-    "tainan-4": 0
+    "tainan-2": 111,
+    "tainan-3": 174,
+    "tainan-4": 2
    },
    "elected": null
   },
@@ -119,11 +119,11 @@
    "elected": null
   },
   "nantou": {
-   "stationsReported": 0,
+   "stationsReported": 1,
    "stationsTotal": 496,
    "votes": {
-    "nantou-1": 0,
-    "nantou-2": 0
+    "nantou-1": 22,
+    "nantou-2": 1
    },
    "elected": null
   },
@@ -203,15 +203,15 @@
    "elected": null
   },
   "penghu": {
-   "stationsReported": 0,
+   "stationsReported": 2,
    "stationsTotal": 121,
    "votes": {
-    "penghu-1": 0,
-    "penghu-2": 0,
-    "penghu-3": 0,
-    "penghu-4": 0,
-    "penghu-5": 0,
-    "penghu-6": 0
+    "penghu-1": 4,
+    "penghu-2": 3,
+    "penghu-3": 35,
+    "penghu-4": 58,
+    "penghu-5": 105,
+    "penghu-6": 1
    },
    "elected": null
   },
