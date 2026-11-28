@@ -1,28 +1,28 @@
 {
- "updatedAt": "2026-11-28T17:07:25+08:00",
+ "updatedAt": "2026-11-28T17:13:48+08:00",
  "source": "中選會",
  "live": true,
  "races": {
   "taipei": {
-   "stationsReported": 0,
+   "stationsReported": 1,
    "stationsTotal": 1790,
    "votes": {
     "taipei-1": 0,
     "taipei-2": 0,
-    "taipei-3": 0,
+    "taipei-3": 286,
     "taipei-4": 0,
-    "taipei-5": 0,
+    "taipei-5": 154,
     "taipei-6": 0
    },
    "elected": null
   },
   "new-taipei": {
-   "stationsReported": 9,
+   "stationsReported": 16,
    "stationsTotal": 2728,
    "votes": {
-    "new-taipei-1": 859,
-    "new-taipei-2": 11,
-    "new-taipei-3": 907
+    "new-taipei-1": 1528,
+    "new-taipei-2": 25,
+    "new-taipei-3": 1571
    },
    "elected": null
   },
@@ -46,25 +46,25 @@
    "elected": null
   },
   "tainan": {
-   "stationsReported": 13,
+   "stationsReported": 17,
    "stationsTotal": 1563,
    "votes": {
-    "tainan-1": 10,
-    "tainan-2": 848,
-    "tainan-3": 1179,
-    "tainan-4": 35
+    "tainan-1": 16,
+    "tainan-2": 1193,
+    "tainan-3": 1660,
+    "tainan-4": 44
    },
    "elected": null
   },
   "kaohsiung": {
-   "stationsReported": 4,
+   "stationsReported": 10,
    "stationsTotal": 2089,
    "votes": {
-    "kaohsiung-1": 14,
-    "kaohsiung-2": 7,
-    "kaohsiung-3": 658,
-    "kaohsiung-4": 5,
-    "kaohsiung-5": 704
+    "kaohsiung-1": 23,
+    "kaohsiung-2": 15,
+    "kaohsiung-3": 1517,
+    "kaohsiung-4": 15,
+    "kaohsiung-5": 1899
    },
    "elected": null
   },
@@ -79,12 +79,12 @@
    "elected": null
   },
   "hsinchu-city": {
-   "stationsReported": 1,
+   "stationsReported": 2,
    "stationsTotal": 359,
    "votes": {
-    "hsinchu-city-1": 98,
-    "hsinchu-city-2": 4,
-    "hsinchu-city-3": 12
+    "hsinchu-city-1": 155,
+    "hsinchu-city-2": 6,
+    "hsinchu-city-3": 93
    },
    "elected": null
   },
@@ -216,16 +216,16 @@
    "elected": null
   },
   "kinmen": {
-   "stationsReported": 0,
+   "stationsReported": 1,
    "stationsTotal": 101,
    "votes": {
-    "kinmen-1": 0,
-    "kinmen-2": 0,
+    "kinmen-1": 2,
+    "kinmen-2": 7,
     "kinmen-3": 0,
     "kinmen-4": 0,
-    "kinmen-5": 0,
+    "kinmen-5": 26,
     "kinmen-6": 0,
-    "kinmen-7": 0
+    "kinmen-7": 1
    },
    "elected": null
   },
