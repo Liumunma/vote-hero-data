@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-11-28T18:03:22+08:00",
+ "updatedAt": "2026-11-28T18:09:38+08:00",
  "mode": "election_night",
  "pollInterval": 20,
  "electionDay": "2026-11-28",
@@ -12,9 +12,9 @@
  "notice": "投票勇者不做民調與選情預測；戰報整理自公開新聞，開票以中選會公告為準。",
  "files": {
   "candidates": "9f032565e77d",
-  "sentiment": "2e90afee7a67",
-  "forecast": "2e90afee7a67",
-  "events": "b41a481eb6e7",
-  "results": "ee50edb066a2"
+  "sentiment": "9b73a04f7234",
+  "forecast": "9b73a04f7234",
+  "events": "f5d2d131ec4e",
+  "results": "c6155622279b"
  }
 }
