@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T17:01:07+08:00",
+ "updatedAt": "2026-11-28T17:07:25+08:00",
  "source": "中選會",
  "live": true,
  "races": {
@@ -17,12 +17,12 @@
    "elected": null
   },
   "new-taipei": {
-   "stationsReported": 5,
+   "stationsReported": 9,
    "stationsTotal": 2728,
    "votes": {
-    "new-taipei-1": 485,
-    "new-taipei-2": 9,
-    "new-taipei-3": 547
+    "new-taipei-1": 859,
+    "new-taipei-2": 11,
+    "new-taipei-3": 907
    },
    "elected": null
   },
@@ -36,35 +36,35 @@
    "elected": null
   },
   "taichung": {
-   "stationsReported": 0,
+   "stationsReported": 1,
    "stationsTotal": 1980,
    "votes": {
-    "taichung-1": 0,
-    "taichung-2": 0,
-    "taichung-3": 0
+    "taichung-1": 46,
+    "taichung-2": 1,
+    "taichung-3": 85
    },
    "elected": null
   },
   "tainan": {
-   "stationsReported": 7,
+   "stationsReported": 13,
    "stationsTotal": 1563,
    "votes": {
-    "tainan-1": 5,
-    "tainan-2": 372,
-    "tainan-3": 545,
-    "tainan-4": 15
+    "tainan-1": 10,
+    "tainan-2": 848,
+    "tainan-3": 1179,
+    "tainan-4": 35
    },
    "elected": null
   },
   "kaohsiung": {
-   "stationsReported": 2,
+   "stationsReported": 4,
    "stationsTotal": 2089,
    "votes": {
-    "kaohsiung-1": 4,
-    "kaohsiung-2": 4,
-    "kaohsiung-3": 169,
-    "kaohsiung-4": 1,
-    "kaohsiung-5": 93
+    "kaohsiung-1": 14,
+    "kaohsiung-2": 7,
+    "kaohsiung-3": 658,
+    "kaohsiung-4": 5,
+    "kaohsiung-5": 704
    },
    "elected": null
   },
@@ -139,11 +139,11 @@
    "elected": null
   },
   "chiayi-county": {
-   "stationsReported": 1,
+   "stationsReported": 2,
    "stationsTotal": 540,
    "votes": {
-    "chiayi-county-1": 14,
-    "chiayi-county-2": 29
+    "chiayi-county-1": 32,
+    "chiayi-county-2": 92
    },
    "elected": null
   },
@@ -203,14 +203,14 @@
    "elected": null
   },
   "penghu": {
-   "stationsReported": 4,
+   "stationsReported": 5,
    "stationsTotal": 121,
    "votes": {
-    "penghu-1": 6,
+    "penghu-1": 8,
     "penghu-2": 5,
-    "penghu-3": 49,
-    "penghu-4": 89,
-    "penghu-5": 163,
+    "penghu-3": 61,
+    "penghu-4": 115,
+    "penghu-5": 185,
     "penghu-6": 2
    },
    "elected": null
