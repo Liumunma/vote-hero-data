@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T16:54:59+08:00",
+ "updatedAt": "2026-11-28T17:01:07+08:00",
  "source": "中選會",
  "live": true,
  "races": {
@@ -17,12 +17,12 @@
    "elected": null
   },
   "new-taipei": {
-   "stationsReported": 1,
+   "stationsReported": 5,
    "stationsTotal": 2728,
    "votes": {
-    "new-taipei-1": 89,
-    "new-taipei-2": 0,
-    "new-taipei-3": 134
+    "new-taipei-1": 485,
+    "new-taipei-2": 9,
+    "new-taipei-3": 547
    },
    "elected": null
   },
@@ -46,25 +46,25 @@
    "elected": null
   },
   "tainan": {
-   "stationsReported": 3,
+   "stationsReported": 7,
    "stationsTotal": 1563,
    "votes": {
-    "tainan-1": 2,
-    "tainan-2": 111,
-    "tainan-3": 174,
-    "tainan-4": 2
+    "tainan-1": 5,
+    "tainan-2": 372,
+    "tainan-3": 545,
+    "tainan-4": 15
    },
    "elected": null
   },
   "kaohsiung": {
-   "stationsReported": 0,
+   "stationsReported": 2,
    "stationsTotal": 2089,
    "votes": {
-    "kaohsiung-1": 0,
-    "kaohsiung-2": 0,
-    "kaohsiung-3": 0,
-    "kaohsiung-4": 0,
-    "kaohsiung-5": 0
+    "kaohsiung-1": 4,
+    "kaohsiung-2": 4,
+    "kaohsiung-3": 169,
+    "kaohsiung-4": 1,
+    "kaohsiung-5": 93
    },
    "elected": null
   },
@@ -79,12 +79,12 @@
    "elected": null
   },
   "hsinchu-city": {
-   "stationsReported": 0,
+   "stationsReported": 1,
    "stationsTotal": 359,
    "votes": {
-    "hsinchu-city-1": 0,
-    "hsinchu-city-2": 0,
-    "hsinchu-city-3": 0
+    "hsinchu-city-1": 98,
+    "hsinchu-city-2": 4,
+    "hsinchu-city-3": 12
    },
    "elected": null
   },
@@ -139,11 +139,11 @@
    "elected": null
   },
   "chiayi-county": {
-   "stationsReported": 0,
+   "stationsReported": 1,
    "stationsTotal": 540,
    "votes": {
-    "chiayi-county-1": 0,
-    "chiayi-county-2": 0
+    "chiayi-county-1": 14,
+    "chiayi-county-2": 29
    },
    "elected": null
   },
@@ -169,14 +169,14 @@
    "elected": null
   },
   "yilan": {
-   "stationsReported": 0,
+   "stationsReported": 1,
    "stationsTotal": 436,
    "votes": {
-    "yilan-1": 0,
+    "yilan-1": 12,
     "yilan-2": 0,
-    "yilan-3": 0,
+    "yilan-3": 7,
     "yilan-4": 0,
-    "yilan-5": 0
+    "yilan-5": 3
    },
    "elected": null
   },
@@ -203,15 +203,15 @@
    "elected": null
   },
   "penghu": {
-   "stationsReported": 2,
+   "stationsReported": 4,
    "stationsTotal": 121,
    "votes": {
-    "penghu-1": 4,
-    "penghu-2": 3,
-    "penghu-3": 35,
-    "penghu-4": 58,
-    "penghu-5": 105,
-    "penghu-6": 1
+    "penghu-1": 6,
+    "penghu-2": 5,
+    "penghu-3": 49,
+    "penghu-4": 89,
+    "penghu-5": 163,
+    "penghu-6": 2
    },
    "elected": null
   },
