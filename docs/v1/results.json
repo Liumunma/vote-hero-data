@@ -1,231 +1,231 @@
 {
- "updatedAt": "2026-11-28T18:53:15+08:00",
+ "updatedAt": "2026-11-28T18:59:21+08:00",
  "source": "中選會",
  "live": true,
  "races": {
   "taipei": {
-   "stationsReported": 729,
+   "stationsReported": 839,
    "stationsTotal": 1790,
    "votes": {
-    "taipei-1": 996,
-    "taipei-2": 382,
-    "taipei-3": 252997,
-    "taipei-4": 974,
-    "taipei-5": 295304,
-    "taipei-6": 1085
+    "taipei-1": 1127,
+    "taipei-2": 436,
+    "taipei-3": 293431,
+    "taipei-4": 1088,
+    "taipei-5": 344525,
+    "taipei-6": 1259
    },
    "elected": null
   },
   "new-taipei": {
-   "stationsReported": 949,
+   "stationsReported": 1085,
    "stationsTotal": 2728,
    "votes": {
-    "new-taipei-1": 315423,
-    "new-taipei-2": 3676,
-    "new-taipei-3": 325301
+    "new-taipei-1": 368851,
+    "new-taipei-2": 4279,
+    "new-taipei-3": 380919
    },
    "elected": null
   },
   "taoyuan": {
-   "stationsReported": 528,
+   "stationsReported": 604,
    "stationsTotal": 1479,
    "votes": {
-    "taoyuan-1": 170800,
-    "taoyuan-2": 215815
+    "taoyuan-1": 197357,
+    "taoyuan-2": 248721
    },
    "elected": null
   },
   "taichung": {
-   "stationsReported": 806,
+   "stationsReported": 907,
    "stationsTotal": 1980,
    "votes": {
-    "taichung-1": 282919,
-    "taichung-2": 5280,
-    "taichung-3": 274713
+    "taichung-1": 322914,
+    "taichung-2": 6050,
+    "taichung-3": 312453
    },
    "elected": null
   },
   "tainan": {
-   "stationsReported": 932,
+   "stationsReported": 1007,
    "stationsTotal": 1563,
    "votes": {
-    "tainan-1": 2697,
-    "tainan-2": 231940,
-    "tainan-3": 276442,
-    "tainan-4": 11286
+    "tainan-1": 2980,
+    "tainan-2": 255583,
+    "tainan-3": 304273,
+    "tainan-4": 12512
    },
    "elected": null
   },
   "kaohsiung": {
-   "stationsReported": 1235,
+   "stationsReported": 1342,
    "stationsTotal": 2089,
    "votes": {
-    "kaohsiung-1": 3936,
-    "kaohsiung-2": 3042,
-    "kaohsiung-3": 361793,
-    "kaohsiung-4": 3486,
-    "kaohsiung-5": 425230
+    "kaohsiung-1": 4317,
+    "kaohsiung-2": 3344,
+    "kaohsiung-3": 397109,
+    "kaohsiung-4": 3843,
+    "kaohsiung-5": 466702
    },
    "elected": null
   },
   "keelung": {
-   "stationsReported": 84,
+   "stationsReported": 95,
    "stationsTotal": 288,
    "votes": {
-    "keelung-1": 21021,
-    "keelung-2": 499,
-    "keelung-3": 21471
+    "keelung-1": 24385,
+    "keelung-2": 581,
+    "keelung-3": 25040
    },
    "elected": null
   },
   "hsinchu-city": {
-   "stationsReported": 113,
+   "stationsReported": 125,
    "stationsTotal": 359,
    "votes": {
-    "hsinchu-city-1": 34672,
-    "hsinchu-city-2": 1755,
-    "hsinchu-city-3": 24524
+    "hsinchu-city-1": 38751,
+    "hsinchu-city-2": 1947,
+    "hsinchu-city-3": 27402
    },
    "elected": null
   },
   "hsinchu-county": {
-   "stationsReported": 35,
+   "stationsReported": 44,
    "stationsTotal": 492,
    "votes": {
-    "hsinchu-county-1": 6330,
-    "hsinchu-county-2": 5842,
-    "hsinchu-county-3": 247
+    "hsinchu-county-1": 8507,
+    "hsinchu-county-2": 7907,
+    "hsinchu-county-3": 358
    },
    "elected": null
   },
   "miaoli": {
-   "stationsReported": 118,
+   "stationsReported": 139,
    "stationsTotal": 508,
    "votes": {
-    "miaoli-1": 18094,
-    "miaoli-2": 30389
+    "miaoli-1": 22012,
+    "miaoli-2": 37014
    },
    "elected": null
   },
   "changhua": {
-   "stationsReported": 131,
+   "stationsReported": 172,
    "stationsTotal": 1087,
    "votes": {
-    "changhua-1": 27367,
-    "changhua-2": 24731,
-    "changhua-3": 6328,
-    "changhua-4": 815
+    "changhua-1": 37623,
+    "changhua-2": 33394,
+    "changhua-3": 8409,
+    "changhua-4": 1112
    },
    "elected": null
   },
   "nantou": {
-   "stationsReported": 111,
+   "stationsReported": 124,
    "stationsTotal": 496,
    "votes": {
-    "nantou-1": 26239,
-    "nantou-2": 13882
+    "nantou-1": 30168,
+    "nantou-2": 15927
    },
    "elected": null
   },
   "yunlin": {
-   "stationsReported": 150,
+   "stationsReported": 169,
    "stationsTotal": 638,
    "votes": {
-    "yunlin-1": 555,
-    "yunlin-2": 29354,
-    "yunlin-3": 30493,
-    "yunlin-4": 444
+    "yunlin-1": 639,
+    "yunlin-2": 34050,
+    "yunlin-3": 35140,
+    "yunlin-4": 541
    },
    "elected": null
   },
   "chiayi-county": {
-   "stationsReported": 178,
+   "stationsReported": 203,
    "stationsTotal": 540,
    "votes": {
-    "chiayi-county-1": 24592,
-    "chiayi-county-2": 32008
+    "chiayi-county-1": 29719,
+    "chiayi-county-2": 38877
    },
    "elected": null
   },
   "chiayi-city": {
-   "stationsReported": 96,
+   "stationsReported": 114,
    "stationsTotal": 221,
    "votes": {
-    "chiayi-city-1": 188,
-    "chiayi-city-2": 893,
-    "chiayi-city-3": 22502,
-    "chiayi-city-4": 28430,
-    "chiayi-city-5": 1296
+    "chiayi-city-1": 217,
+    "chiayi-city-2": 1095,
+    "chiayi-city-3": 27392,
+    "chiayi-city-4": 33833,
+    "chiayi-city-5": 1553
    },
    "elected": null
   },
   "pingtung": {
-   "stationsReported": 110,
+   "stationsReported": 126,
    "stationsTotal": 740,
    "votes": {
-    "pingtung-1": 17959,
-    "pingtung-2": 29069
+    "pingtung-1": 21537,
+    "pingtung-2": 34557
    },
    "elected": null
   },
   "yilan": {
-   "stationsReported": 74,
+   "stationsReported": 86,
    "stationsTotal": 436,
    "votes": {
-    "yilan-1": 14214,
-    "yilan-2": 190,
-    "yilan-3": 12188,
-    "yilan-4": 98,
-    "yilan-5": 335
+    "yilan-1": 17064,
+    "yilan-2": 223,
+    "yilan-3": 14897,
+    "yilan-4": 121,
+    "yilan-5": 388
    },
    "elected": null
   },
   "hualien": {
-   "stationsReported": 69,
+   "stationsReported": 81,
    "stationsTotal": 344,
    "votes": {
-    "hualien-1": 4596,
-    "hualien-2": 7763,
-    "hualien-3": 8494,
-    "hualien-4": 86
+    "hualien-1": 5754,
+    "hualien-2": 9519,
+    "hualien-3": 10584,
+    "hualien-4": 98
    },
    "elected": null
   },
   "taitung": {
-   "stationsReported": 48,
+   "stationsReported": 53,
    "stationsTotal": 236,
    "votes": {
-    "taitung-1": 147,
-    "taitung-2": 4662,
-    "taitung-3": 113,
-    "taitung-4": 8606
+    "taitung-1": 166,
+    "taitung-2": 5256,
+    "taitung-3": 130,
+    "taitung-4": 9607
    },
    "elected": null
   },
   "penghu": {
-   "stationsReported": 59,
+   "stationsReported": 64,
    "stationsTotal": 121,
    "votes": {
-    "penghu-1": 712,
-    "penghu-2": 257,
-    "penghu-3": 2942,
-    "penghu-4": 5290,
-    "penghu-5": 6754,
-    "penghu-6": 149
+    "penghu-1": 779,
+    "penghu-2": 288,
+    "penghu-3": 3249,
+    "penghu-4": 6040,
+    "penghu-5": 7386,
+    "penghu-6": 163
    },
    "elected": null
   },
   "kinmen": {
-   "stationsReported": 57,
+   "stationsReported": 64,
    "stationsTotal": 101,
    "votes": {
-    "kinmen-1": 544,
-    "kinmen-2": 6517,
-    "kinmen-3": 301,
-    "kinmen-4": 86,
-    "kinmen-5": 14647,
-    "kinmen-6": 387,
-    "kinmen-7": 309
+    "kinmen-1": 600,
+    "kinmen-2": 7465,
+    "kinmen-3": 339,
+    "kinmen-4": 94,
+    "kinmen-5": 16687,
+    "kinmen-6": 439,
+    "kinmen-7": 427
    },
    "elected": null
   },
